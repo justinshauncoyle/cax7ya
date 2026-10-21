@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 12</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 12</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="210"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e289">
+        <head xml:id="cax7ya-d1e289-Hd1e108">Caput 12</head>
+        <head xml:id="cax7ya-d1e289-Hd1e110" type="question-title">Tria alia ex Sacris litteris miserum in modum a latinis torta argumenta exploduntur</head>
+        <p xml:id="cax7ya-d1e289-d1e113">
+          <lb ed="#G" n="5"/>CAPVT. XII.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e118">
+          <lb ed="#G" n="6"/>Tria alia ex Sacris litteris miserum in
+          mo<lb ed="#G" n="7" break="no"/>dum a Latinis torta argumenta
+          explo<lb ed="#G" n="8" break="no"/>duntnr.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e127">
+          <lb ed="#G" n="9"/>§. 184.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e133">
+          <lb ed="#G" n="10"/>s Dalia erant argumenta, quae Latini ex sacra
+          <lb ed="#G" n="11"/>L scriptura elicere satagebant; quae quidem
+          <lb ed="#G" n="12"/>licet minime auctoribus suis sint proficua, tamen
+          <lb ed="#G" n="13"/>ante faciem Theologorum comparere non indigna
+          <lb ed="#G" n="14"/>videntur: sunt vero alia quaedam, quae cum
+          ni<lb ed="#G" n="15" break="no"/>hil aliud concludant, nisi auctores suos fuisse in
+          <lb ed="#G" n="16"/>hac caussa valde perplexos &amp; sollicitos, atque
+          ad<lb ed="#G" n="17" break="no"/>eo sibi qualecunque &amp; undequaque subsidium
+          quae<lb ed="#G" n="18" break="no"/>sivisse, non immerito illa silentio nobis essent
+          prae<lb ed="#G" n="19" break="no"/>tereunda, nisi operae pretium esse videretur,
+          ad<lb ed="#G" n="20" break="no"/>versariorum nostrorum angores &amp; miserias
+          cogno<lb ed="#G" n="21" break="no"/>scere. Quod tamen non ad hominum
+          contumeli<lb ed="#G" n="22" break="no"/>am, sed ad conditionem caussae convertimus. Sunt
+          <lb ed="#G" n="23"/>enim caussae ita opimae &amp; locupletes, ut non
+          nu<pb ed="#G" n="211"/><lb ed="#G" n="1" break="no"/>merum, sed modum argumentorum suorum
+          re<lb ed="#G" n="2" break="no"/>quirant, qualis est scrip turae auctoritas,
+          Trinita<lb ed="#G" n="3" break="no"/>tis Mysterium, articulus incarnationis Filii Dei,
+          ju<lb ed="#G" n="4" break="no"/>stisicationis nostrae &amp;c. Sed sunt etiam adeo
+          in<lb ed="#G" n="5" break="no"/>opes &amp; desertae, ut numerosas ad earum
+          asscrtio<lb ed="#G" n="6" break="no"/>nem rationes conquirere, sit hoc ipso illas
+          prode<lb ed="#G" n="7" break="no"/>re. Et tale est hoc dogma Latinorum. Tria
+          ve<lb ed="#G" n="8" break="no"/>ro potissimum sunt, quae ex scriptura misere illi
+          <lb ed="#G" n="9"/>torquent, ut argumentorum multitudine
+          imperi<lb ed="#G" n="10" break="no"/>tos perterreant.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e189">
+          <lb ed="#G" n="11"/>§. 185.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e194">
+          <lb ed="#G" n="12"/>I. Primo illud producunt Apocalyp. XXII. 1.
+          <lb ed="#G" n="13"/>Deinde ostendit mibi purum fluvium aquae vivae,
+          <lb ed="#G" n="14"/>splendidum tanquam crystallam, procedentem ex
+          thro<lb ed="#G" n="15" break="no"/>no Dei &amp; Agni. Per fluvium illum volunt
+          intelli<lb ed="#G" n="16" break="no"/>gi Spiritum sanctum, cum vero dicatur procedere
+          <lb ed="#G" n="17"/>ex throno Dei &amp; Agni, hoc est, Christi: putant
+          <lb ed="#G" n="18"/>se optime demonstrare Spiritum sanctum a Patre
+          <lb ed="#G" n="19"/>&amp; Filio procedere.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e214">
+          <lb ed="#G" n="20"/>§. 186.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e219">
+          <lb ed="#G" n="21"/>Verum quam haec sit vana argumentatio, vix
+          <lb ed="#G" n="22"/>probare opus est. Probemus tamen, cum fimus
+          <lb ed="#G" n="23"/>debitores doctis &amp; sapientibus. 1 Unde isti
+          sci<lb ed="#G" n="24" break="no"/>unt, nomine fluvii hoc loco nihil aliud, nisi
+          Spiri<lb ed="#G" n="25" break="no"/>tum sanctum intelligi? An ideo, quia aliquando
+          <lb ed="#G" n="26"/>Spiritus sanctus vocatur fluvius? li ita est, ergo
+          <lb ed="#G" n="27"/>nomina &amp; symbola, quibus exornatur in scriptura
+          <lb ed="#G" n="28"/>Spiritus sanctus, non aliud usquam, unquam
+          no<lb ed="#G" n="29" break="no"/>bis denotabunt, nisi Spiritum sanctum. Ita
+          Gene<pb ed="#G" n="212"/><lb ed="#G" n="1" break="no"/>seos VIII. S. ubi dicitur Noe emisisse ex arca
+          co<lb ed="#G" n="2" break="no"/>lumbam, intelligere debemus emissum ab illo
+          Spi<lb ed="#G" n="3" break="no"/>ritum Sanctum, quia Spiritus sanctus in Iordane
+          <lb ed="#G" n="4"/>visus est in specie columbae Matth. III. 16. Sic
+          <lb ed="#G" n="5"/>&amp; Ecclesia, quam sponsus columbam suam vocat
+          <lb ed="#G" n="6"/>Canticor. II. 20. erit Spiritus sanctus. Item
+          cor<lb ed="#G" n="7" break="no"/>poreus Christi digitus, quo in terra scribebat,
+          Io<lb ed="#G" n="8" break="no"/>an. VIII. 6. erit nobis Spiritus sanctus: quia ille
+          <lb ed="#G" n="9"/>digitus Dei appellatur, Lucae XI. 20. Ipse quoque
+          <lb ed="#G" n="10"/>Christus erit Spiritus sanctus, quia Spiritus
+          voca<lb ed="#G" n="11" break="no"/>tur unctio Ioan. Epistol. 1. cap. II. 20. &amp; Christus
+          <lb ed="#G" n="12"/>unguentum appellatur, Canticor. I. 3. Denique
+          pro<lb ed="#G" n="13" break="no"/>pter nomen peculiare Spiritus sancti, Spiritus erit
+          <lb ed="#G" n="14"/>&amp; Pater &amp; Filius Spiritus sanctus, quia &amp; Pater &amp;
+          <lb ed="#G" n="15"/>Filius vere est Spiritus: erunt vero &amp; Angeli
+          Spi<lb ed="#G" n="16" break="no"/>ritus Sanctus quia &amp; ipsos vocat scriptura Spiritus. Ita
+          <lb ed="#G" n="17"/>scilicet nugandum nobis erit cum istis egregiis
+          <lb ed="#G" n="18"/>scripturae interpretibus. 2 Sed significetur sane
+          <lb ed="#G" n="19"/>per illum fluvium Spiritus Sanctu nihil tamen
+          proces<lb ed="#G" n="20" break="no"/>sio ejus ex throno Dei &amp; Agni aliud denotabit,
+          <lb ed="#G" n="21"/>nisi temporariam missionem: profluit enim ad
+          ir<lb ed="#G" n="22" break="no"/>rigandam sanctam civitatem, hoc est, beatam
+          il<lb ed="#G" n="23" break="no"/>lam coelestem patriam. 3) Variae vero hujus
+          <lb ed="#G" n="24"/>loci expositioncs a doctis assignantur. Alii dicunt
+          <lb ed="#G" n="25"/>significari baptismum, ut, AVGVSTINVS homil.
+          <lb ed="#G" n="26"/>17. in Apocal. tom. 9. operum. Et ARETAS
+          <lb ed="#G" n="27"/>CAESARIENSIS commentar. in Apocal. sub
+          fi<lb ed="#G" n="28" break="no"/>nem tomi 2. operum Oecumenti. Alii fructum
+          <lb ed="#G" n="29"/>baptismi intelligunt. Alii, &amp; optime perennem
+          <lb ed="#G" n="30"/>&amp; perpetuam Dei in sanctos suos gratiam: nam &amp;
+          <lb ed="#G" n="31"/>status ibi Ecclesiae triumphantis describitur, ut
+          pa<pb ed="#G" n="213"/><lb ed="#G" n="1" break="no"/>tet legenti, &amp; cap. VII. 17. promittitur, quod Agnus
+          <lb ed="#G" n="2"/>deducturus sit electos Dei ad fontes aquae vivae,
+          <lb ed="#G" n="3"/>&amp; eodem ultimo capite. v. 17. invitantur sitientes,
+          <lb ed="#G" n="4"/>ut bibant aquam vitae gratis. Denique hac
+          phra<lb ed="#G" n="5" break="no"/>si frequentissime scriptura divinam ornat gratiam,
+          <lb ed="#G" n="6"/>Ioan. 1v. 10. lerem. II. 13. Lachariae XIII. 11.
+          Ioe<lb ed="#G" n="7" break="no"/>lis III. 3. &amp; alibi.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e326">
+          <lb ed="#G" n="8"/>§. 187.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e332">
+          <lb ed="#G" n="9"/>II. Secundum argumentum adhuc stolidius est
+          <lb ed="#G" n="10"/>priore. Ioannes ille disputator Florentinus Sess.
+          <lb ed="#G" n="11"/>21. Concilii Floren. ait Christum operari per
+          Spi<lb ed="#G" n="12" break="no"/>ritum sanctum, &amp; ex eo deducere vult Spiritum
+          <lb ed="#G" n="13"/>sanctum a Filio procedere: quia, inquit, qui per
+          <lb ed="#G" n="14"/>alium operatur, illi virtutem agendi communicat.
+          <lb ed="#G" n="15"/>Spiritui autem sancto communicare virtutem, est
+          <lb ed="#G" n="16"/>ipsi communicare ejus esse, adeoque eum
+          produ<lb ed="#G" n="17" break="no"/>cere. En acumen Magistri Cathedratici Nos
+          ve<lb ed="#G" n="18" break="no"/>ro, cum audimus Christum per spiritum operari,
+          <lb ed="#G" n="19"/>in spiritu ejicere doemonia, &amp; alia patrare
+          mira<lb ed="#G" n="20" break="no"/>bilia, contraria explicamus ratione, videlicet a
+          Spi<lb ed="#G" n="21" break="no"/>ritu sancto virtutes communicari Christo: &amp; hoc
+          <lb ed="#G" n="22"/>accipiendum est secundum humanam Christi
+          natu<lb ed="#G" n="23" break="no"/>ram, cui Spiritus sanctus sine mensura datus est.
+          <lb ed="#G" n="24"/>Nec vacat recensere plurima scripturae
+          testimo<lb ed="#G" n="25" break="no"/>nia, cum unicuique id pateat, &amp; in Tractatu de
+          <lb ed="#G" n="26"/>Trinitate multa jam vidimus. Ita sentiunt &amp;
+          Pa<lb ed="#G" n="27" break="no"/>tres: ATHANASIVS orat. 2. contra Arianos.
+          <lb ed="#G" n="28"/>CHRYSOSTOMVS homil. de Sancto spiritu.
+          AV<lb ed="#G" n="29" break="no"/>GVSTINVS lib. I. de Trinitate cap. 11.
+          DAMAS<lb ed="#G" n="30" break="no"/>CENVS lib. 3. de fide, cap. 15. Sed etiamsi Filius
+          <pb ed="#G" n="214"/><lb ed="#G" n="1"/>per spiritum operaretur, qua Deus, nihil inde
+          se<lb ed="#G" n="2" break="no"/>queretur aliud, nisi missio ad externum opus, de
+          <lb ed="#G" n="3"/>qua jam supra egimus.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e390">
+          <lb ed="#G" n="4"/>§. 188.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e395">
+          <lb ed="#G" n="5"/>III. Denique tertium planc est inexpectatum,
+          <lb ed="#G" n="6"/>&amp; quod posset jocosum epigramma
+          claude<lb ed="#G" n="7" break="no"/>re: idem bonus Ioannes loco citato sic disputat:
+          <lb ed="#G" n="8"/>nos reperimus, quod per Spiritum configuramur ipsi
+          <lb ed="#G" n="9"/>Filio Dei: ista configuratio habetur in verbis
+          Apo<lb ed="#G" n="10" break="no"/>stoli in secunda epistola ad Corinthios: unxit nos, &amp;
+          <lb ed="#G" n="11"/>signavit nos, &amp; dedit nobis pignus Spiritus in
+          cor<lb ed="#G" n="12" break="no"/>dibus nostris, hoc est, secundum quod facit nos
+          Spi<lb ed="#G" n="13" break="no"/>ritus Filios adoptivos: modo ex hac auctoritate
+          su<lb ed="#G" n="14" break="no"/>mitur talis ratio. Tum ponit axioma: illud,
+          in<lb ed="#G" n="15" break="no"/>quit, per quod aliquid alteri figuratur, oportet, ut
+          <lb ed="#G" n="16"/>habeat esse ab eo, cui figurat aliud. Hoc vero
+          pro<lb ed="#G" n="17" break="no"/>bat ex physicis, quod scilicet semen animalis, per
+          <lb ed="#G" n="18"/>quod aliud producitur animal simile priori,
+          deci<lb ed="#G" n="19" break="no"/>sum &amp; resectum sit ab animali. Quare cum
+          Spi<lb ed="#G" n="20" break="no"/>ritus sanctus figurat nos (ut barbarus ille loquitur)
+          <lb ed="#G" n="21"/>Filio, optime concludit, illum esse resectum ex
+          <lb ed="#G" n="22"/>Filio. Istud vero animal, quod haec balat, cui
+          <lb ed="#G" n="23"/>configuratum est? vix enim posse reperiri alterum
+          <lb ed="#G" n="24"/>stupidum Ioanni isti similem puto. Quot hic
+          coa<lb ed="#G" n="25" break="no"/>cervavit nugas? Locus hic de nostra
+          configuratio<lb ed="#G" n="26" break="no"/>ne nihil dicit: pignoris significationem doctor
+          <lb ed="#G" n="27"/>iste ignorat. Est enim pignus, seu, ut alii vertunt,
+          <lb ed="#G" n="28"/>arrhabo, omne illud, quo dato confirmatur
+          pro<lb ed="#G" n="29" break="no"/>missio. Ita cum Spiritus sanctus nobis datur, cum
+          <lb ed="#G" n="30"/>in cordibus nostris operationes ipsius sentimus,
+          <pb ed="#G" n="215"/><lb ed="#G" n="1"/>certi hinc debemus esse de divinis promissionibus,
+          <lb ed="#G" n="2"/>&amp; ideo Spiritus sanctus arrhabo dicitur. Et ita
+          <lb ed="#G" n="3"/>loco citato loquitur Apostolus. Verum autem est,
+          <lb ed="#G" n="4"/>nos conformes fieri Filio Dei, sed nescivit Ioannes,
+          <lb ed="#G" n="5"/>ubi hoc scriptum: vide Rom. VIII. 20. Philip. III.
+          <lb ed="#G" n="6"/>10. sed tamen neque ibi dicitur per spiritum nos
+          <lb ed="#G" n="7"/>conformari Filio; &amp; verum quidem est
+          conforma<lb ed="#G" n="8" break="no"/>ri nos per spiritum, in quantum opus hoc peculiare
+          <lb ed="#G" n="9"/>est spiritui sancto, licet commune toti Trinitati, quid
+          <lb ed="#G" n="10"/>tamen inde ad processionem? Deinde conformes
+          <lb ed="#G" n="11"/>efficimur Filio Dei non qua Deo, sed qua homini
+          <lb ed="#G" n="12"/>justo &amp; pro justitia patienti: Deo etiam
+          confor<lb ed="#G" n="13" break="no"/>mes facti sumus, creati ad ejus imaginem, &amp; omnes
+          <lb ed="#G" n="14"/>tres personae istam in nobis conformitatem fixere:
+          <lb ed="#G" n="15"/>Faciamus, inquit, hominem ad imaginem &amp;
+          simili<lb ed="#G" n="16" break="no"/>tudinem nostram. A quo ergo Deus Pater resectus est,
+          <lb ed="#G" n="17"/>si axioma illud Dominicanicum valet? Quam vero
+          <lb ed="#G" n="18"/>absurde rabula iste a naturalibus, &amp; quidem a
+          foe<lb ed="#G" n="19" break="no"/>tura animalium, asinus spurcissimus, ad probanda
+          <lb ed="#G" n="20"/>divina mysteria argutatur? sed nequc in
+          naturali<lb ed="#G" n="21" break="no"/>bus hoc ubique verum. An enim, dum statuarius
+          <lb ed="#G" n="22"/>statuam statuae conformem facit, necesse est illum
+          <lb ed="#G" n="23"/>ex statua nasci? sed statua fuit stupidior, qui hoc
+          <lb ed="#G" n="24"/>non advertit. Innumerabilia enim ejusmodi
+          exem<lb ed="#G" n="25" break="no"/>pla incurrunt in oculos. Denique allatum ab
+          ip<lb ed="#G" n="26" break="no"/>so exemplum non modo pudendum, non modo
+          <lb ed="#G" n="27"/>insufficiens (axiomata enim per inductionem
+          pro<lb ed="#G" n="28" break="no"/>bare oportet) non modo ineptum, utpote mere
+          <lb ed="#G" n="29"/>physicum, sed neque ita se habet, ut somniavit
+          <lb ed="#G" n="30"/>Provincialis iste: neque enim semen caussa
+          ani<lb ed="#G" n="31" break="no"/>malis efficiens est (saltem secundum Peripatheticos
+          <pb ed="#G" n="216"/><lb ed="#G" n="1"/>quos solos per transennam vidit forte Ioannes) sed
+          <lb ed="#G" n="2"/>materialis; ut ipsa animalium formatio a rerum
+          <lb ed="#G" n="3"/>physicarum indagatoribus observata, extra omnc
+          <lb ed="#G" n="4"/>dubium id ponit. Sed stercus est fodere, diutius
+          <lb ed="#G" n="5"/>istis immorari.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e534">
+          <lb ed="#G" n="6"/>§. 189.
+        </p>
+        <p xml:id="cax7ya-d1e289-d1e539">
+          <lb ed="#G" n="7"/>Patuit igitur luculenter, quam frivolae,
+          vio<lb ed="#G" n="8" break="no"/>lentae, ineptae argumentationes Latinorum sint,
+          <lb ed="#G" n="9"/>quibus ex scriptura speciem quandam rationis pro
+          <lb ed="#G" n="10"/>suo dogmate exsugere nitebantur. Quodsi
+          me<lb ed="#G" n="11" break="no"/>liores his, &amp; magis probabiles forent, non tamen
+          <lb ed="#G" n="12"/>plane demonstrativae, numne, quaeso,
+          conclusio<lb ed="#G" n="13" break="no"/>nem earum pro dogmate amplecti cogeremur? in
+          <lb ed="#G" n="14"/>humano foro, dum agitur de unius hominis vita,
+          <lb ed="#G" n="15"/>non nisi dignissima, eaque plura testimonia rem
+          <lb ed="#G" n="16"/>conficiunt: at ubi integra periclitatur Ecclesia, ubi
+          <lb ed="#G" n="17"/>timetur atrox schisma, &amp; quod inde sequitur,
+          ae<lb ed="#G" n="18" break="no"/>ternum plurimorum mortalium exitium: ex
+          solis<lb ed="#G" n="19" break="no"/>ne probabilibus elenchis credendum omnibus
+          ex<lb ed="#G" n="20" break="no"/>cudemus dogma? atque illud mordicus
+          defensan<lb ed="#G" n="21" break="no"/>do, tunicam Christi scindere non dubitabimus? At
+          <lb ed="#G" n="22"/>vero atrocius insaniisse Latinos cernimus:
+          levissi<lb ed="#G" n="23" break="no"/>mis, quas vidimus argutiis inducti, &amp; Paparum
+          fu<lb ed="#G" n="24" break="no"/>rentium auctoritate fascinati, tantum facere
+          schis<lb ed="#G" n="25" break="no"/>ma, tot strages edere, &amp; tantum Christiani
+          sangui<lb ed="#G" n="26" break="no"/>nis effundere non dubitarunt ut bene hoc eis
+          ver<lb ed="#G" n="27" break="no"/>tetur, ipsi viderint.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 1</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 1</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="1"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e78">
+        <head xml:id="cax7ya-d1e78-Hd1e108">Caput 1</head>
+        <head xml:id="cax7ya-d1e78-Hd1e110" type="question-title">De vocibus processionis et missionis, ut in hoc mysterio usurpantur: et statuitur status quaestionis</head>
+        <p xml:id="cax7ya-d1e78-d1e113">
+          <pb ed="#G" n="1"/><lb ed="#G" n="1"/>CAPVT I.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e119">
+          <lb ed="#G" n="2"/>De vocibus PROCESSIONIS &amp; MISSIONIS, ut
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e124">
+          <lb ed="#G" n="3"/>in hoc Mysterio usurpantur: &amp; statuitur
+          <lb ed="#G" n="4"/>status quaestionis.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e132">
+          <lb ed="#G" n="5"/>§. I.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e137">
+          <lb ed="#G" n="6"/>Ut clari in hanc controversiam intremus, vocum
+          <lb ed="#G" n="7"/>prius, quarum hic frequentissimus est usus,
+          <lb ed="#G" n="8"/>significationem debemus expendere; &amp; quid
+          pro<lb ed="#G" n="9" break="no"/>cedere &amp; processio, quid item mitti &amp; missio in
+          di<lb ed="#G" n="10" break="no"/>vinis significent, edocere.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e150">
+          <lb ed="#G" n="11"/>§. 2. Verbum Procedendi in latino quidem
+          ser<lb ed="#G" n="12" break="no"/>mone minime id, quod in nostro negotio sonat,
+          ne<lb ed="#G" n="13" break="no"/>que solet adhiberi effectui, cum ex caussa oriatur:
+          <lb ed="#G" n="14"/>non solet, inquam, apud latinos nitidos &amp; proprie
+          <pb ed="#G" n="2"/><lb ed="#G" n="1"/>loquentes; nam barbaros istos scholasticos non
+          <lb ed="#G" n="2"/>memoramus, nec moramur, sed PROCEDERE idem
+          <lb ed="#G" n="3"/>est ac progredi, hoc est, de loco in locum moveri, &amp;
+          <lb ed="#G" n="4"/>quidem sensim ac lento motu. Et tametsi
+          ver<lb ed="#G" n="5" break="no"/>bum hoc reperiatur conjunctum cum
+          praepositio<lb ed="#G" n="6" break="no"/>ne A &amp; EX; ut cum dicit CICERO in septima
+          <lb ed="#G" n="7"/>Verrina: procedit iste repente e praetorio:
+          nihilomi<lb ed="#G" n="8" break="no"/>nus tamen praepositio ista se sola locum, e quo
+          pro<lb ed="#G" n="9" break="no"/>dit ille, indicat, &amp; verbo procedendi propter
+          mate<lb ed="#G" n="10" break="no"/>riam subjectam est addita; non quasi id natura verbi
+          <lb ed="#G" n="11"/>illius postularet. Habet autem idem verbum alias
+          <lb ed="#G" n="12"/>quoque receptas apud antiquos significationes, per
+          <lb ed="#G" n="13"/>quandam ad progressum analogiam. Sumitur enim
+          <lb ed="#G" n="14"/>&amp; pro succedere bene vel male: &amp;, procedere in
+          stu<lb ed="#G" n="15" break="no"/>diis est proficere: &amp; apud jureconsultos PROCEDERE
+          <lb ed="#G" n="16"/>idem est ac valere, seu justam rationem esse,
+          <lb ed="#G" n="17"/>&amp; habere vim argumenti, uti Liquet ex lexicis.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e199">
+          <lb ed="#G" n="18"/>§. 3. In hac vero controversia verbum procedendi
+          <lb ed="#G" n="19"/>abusive accipitur, idque dupliciter: primo idem
+          <lb ed="#G" n="20"/>valet ac mitti, vel missum esse; quemadmodum &amp;
+          <lb ed="#G" n="21"/>verbum exeundi, pro missione usurpatum est a
+          Chri<pb ed="#G" n="3"/><lb ed="#G" n="1" break="no"/>sto Ioann. XVI, 28. exivi a Patre &amp; veni in
+          mun<lb ed="#G" n="2" break="no"/>dum. Ita autem &amp; Spiritum Sanctum procedere a Filio, id est,
+          <lb ed="#G" n="3"/>mitti, veteres quidam latini, licet incaute admodum,
+          <lb ed="#G" n="4"/>dicebant, ut in historia hujus controversiae apud
+          <lb ed="#G" n="5"/>Anastasium Bibliothecarium ex Sancti Maximi
+          <lb ed="#G" n="6"/>epistola vidimus. Nec est, cur ista verbi
+          proce<lb ed="#G" n="7" break="no"/>dere usurpatio reprehendatur, nisi quod ambigua
+          <lb ed="#G" n="8"/>cum sit, in alio, quam in quo a dicente
+          adhibe<lb ed="#G" n="9" break="no"/>retur, sensu, ab audientibus accipi possit, &amp; ita
+          <lb ed="#G" n="10"/>offendiculi ansam praebere; sicut &amp; praebuit
+          La<lb ed="#G" n="11" break="no"/>tinis posterioribus, qui veterum suorum
+          docto<lb ed="#G" n="12" break="no"/>rum mentem non intelligentes, vocem istam pro
+          <lb ed="#G" n="13"/>missione usurpatam putarunt pro aeterna processione
+          <lb ed="#G" n="14"/>usurpari, &amp; praecipites in transversum acti sunt.
+          <lb ed="#G" n="15"/>Secunda autem &amp; quidem vulgatissima apud
+          Theo<lb ed="#G" n="16" break="no"/>logos verbi istius usurpatio est pro ortu
+          Spiri<lb ed="#G" n="17" break="no"/>tus Sancti ex caussa seu principio suo, idemque sonat,
+          <lb ed="#G" n="18"/>atque oriri, emanare, habere ab aliquo suum esse,
+          <lb ed="#G" n="19"/>suam existentiam, cet.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e252">
+          <lb ed="#G" n="20"/>§. 4. Utraque ista vocis procedere usurpatio
+          <lb ed="#G" n="21"/>non est ad amussim purae latinitatis. Sed quia
+          <lb ed="#G" n="22"/>per eam exposuit latinus interpres verbum graecum
+          <lb ed="#G" n="23"/>ἐκπορεύομαι Ioan. cap. xv. v. 26. &amp; ea veteres
+          La<lb ed="#G" n="24" break="no"/>tini ad missionem denotandam usi fuere; illaque ipsa
+          <lb ed="#G" n="25"/>vulgo in disputationibus personat: ideo illam ab
+          <lb ed="#G" n="26"/>usu excludere non possumus.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e270">
+          <pb ed="#G" n="4"/>
+          <lb ed="#G" n="1"/>§. 5.
+          <lb ed="#G" n="2"/>Est autem hic controversa quaestio de hoc:
+          <lb ed="#G" n="3"/>utrum procedat Spiritus Sanctus a Filio etiam: an vero
+          <lb ed="#G" n="4"/>a solo Patre, non in prima, sed in secunda
+          signifi<lb ed="#G" n="5" break="no"/>catione verbum procedendi usurpando? Hoc est,
+          <lb ed="#G" n="6"/>non quaeritur: an Spiritus Sanctus procedat, id est,
+          mit<lb ed="#G" n="7" break="no"/>tatur a Filio, quomodo quidam Latini veteres
+          di<pb ed="#G" n="5"/><lb ed="#G" n="1" break="no"/>xerunt; in hoc enim cum Latinis consentimus,
+          <lb ed="#G" n="2"/>quemadmodum etiam olim Sanctus MAXIMVS
+          subor<lb ed="#G" n="3" break="no"/>tam Graecis de Latinorum errore, quo nunc
+          mo<lb ed="#G" n="4" break="no"/>derni tenentur, suspicionem, ex non intellecta
+          vo<lb ed="#G" n="5" break="no"/>cis procedendi eorum usurpatione, tali verbi istius
+          <lb ed="#G" n="6"/>explicatione exemerat, &amp; suboriens dissidium
+          so<lb ed="#G" n="7" break="no"/>piverat. Sed quaeritur: an Spiritus Sanctus ut a
+          Pa<lb ed="#G" n="8" break="no"/>tre, ita a Filio etiam procedat ab aeterno, hoc est,
+          <lb ed="#G" n="9"/>an habeat a Filio aeque atque a Patre suum esse,
+          <lb ed="#G" n="10"/>suam existentiam? an Pater &amp; Filius sint caussa,
+          <lb ed="#G" n="11"/>fons, origo, principium Spiritus Sancti? &amp; si quae
+          <lb ed="#G" n="12"/>verba alia sint, quae effectus ex caussa eductionem
+          <lb ed="#G" n="13"/>exprimere possint. Ita explicatum procedendi
+          ver<lb ed="#G" n="14" break="no"/>bum in litem vocatur.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e322">
+          <lb ed="#G" n="15"/>§. 6. Porro Latini in hac quaestione abstinent
+          <lb ed="#G" n="16"/>a voce caussae, neque volunt dicere vel Patrem
+          <lb ed="#G" n="17"/>Filii, vel Patrem Filiumque Spiritus Sanctus esse
+          caus<lb ed="#G" n="18" break="no"/>sam, eo, quod in hoc nomine suboleant quandam,
+          <lb ed="#G" n="19"/>ut loquuntur, imperfectionem: quod scilicet
+          <lb ed="#G" n="20"/>inter caussam &amp; effectum quaedam semper appareat
+          <lb ed="#G" n="21"/>inaequalitas, potiore penes caussam, ob hoc ipsum,
+          <lb ed="#G" n="22"/>quod caussa sit, manente praerogativa; quod de
+          <lb ed="#G" n="23"/>divinis personis, quae summe sunt sibi aequales,
+          <lb ed="#G" n="24"/>dici non potest. Graeci tamen Patres ab ista
+          vo<lb ed="#G" n="25" break="no"/>ce αἰτία (quae ipsis est, quod Latinis caussa) non
+          <lb ed="#G" n="26"/>abhorrent: vel quod vox αἰτία non ita in sermone
+          <lb ed="#G" n="27"/>graeco, ut caussa in latino cruda forte sit, vel quod
+          <lb ed="#G" n="28"/>forte parum fuerint de vocabulis solliciti, ubi
+          sa<lb ed="#G" n="29" break="no"/>nam suam sententiam ita, ut verba secura essent,
+          <pb ed="#G" n="6"/><lb ed="#G" n="1"/>clare &amp; disserte explicarunt. Qua propter
+          <lb ed="#G" n="2"/>neque nos de vocibus litem faciemus, &amp;
+          <lb ed="#G" n="3"/>secure tamen uti principii, ita etiam caussae
+          nomi<lb ed="#G" n="4" break="no"/>ne, qua quod eorum accidet, utemur, patente
+          no<lb ed="#G" n="5" break="no"/>stra ex superiore tractatu orthodoxa de
+          myste<lb ed="#G" n="6" break="no"/>rio Trinitatis doctrina. Neque nobis de hac re
+          <lb ed="#G" n="7"/>negotium facessat quisquam.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e373">
+          <lb ed="#G" n="8"/>§. 7. Explicata autem processionis voce, atque
+          <lb ed="#G" n="9"/>adeo statu quaestionis exposito, sponte patet,
+          pro<pb ed="#G" n="7"/><lb ed="#G" n="1" break="no"/>cessionem differre a missione. Tametsi enim
+          igno<lb ed="#G" n="2" break="no"/>ret quis, quid sit missio in divinis, cum tamen
+          sci<lb ed="#G" n="3" break="no"/>at, mitti unam personam ab alia, non esse illam ab
+          <lb ed="#G" n="4"/>alia oriri: utique clare videt missionem non esse
+          <lb ed="#G" n="5"/>processionem, qualiter in hac controversia usurpari
+          <lb ed="#G" n="6"/>jam docuimus. Nihilominus tamen, quia ex
+          mis<lb ed="#G" n="7" break="no"/>sione etiam argumenta pro dogmate suo elicere
+          sa<lb ed="#G" n="8" break="no"/>tagunt Latini: breviter hic explicandum est, quid
+          <lb ed="#G" n="9"/>sit unam personam mitti ab alia, &amp; in quo
+          hujus<lb ed="#G" n="10" break="no"/>modi dictum fundatum sit. Vox ergo missionis
+          <lb ed="#G" n="11"/>cuique nota est, sed res expositione indiget. In
+          <lb ed="#G" n="12"/>humano quidem sermonis commercio ille dicitur
+          <lb ed="#G" n="13"/>MITTERE, qui alteri suo nomine committit negotium,
+          <lb ed="#G" n="14"/>MITTI autem ille, qui alterius nomine obit
+          nego<lb ed="#G" n="15" break="no"/>tium. Id quod omnes missiones observanti patet.
+          <lb ed="#G" n="16"/>Sed mittendi facultas varia est. Vel enim
+          impe<lb ed="#G" n="17" break="no"/>rando quis mittit, (quae quidem missio propria
+          <lb ed="#G" n="18"/>apud homines est) vel etiam suadendo, rogando,
+          <lb ed="#G" n="19"/>instigando, aliisque modis ad obeundum negotium
+          <lb ed="#G" n="20"/>permovendo: quae tamen missiones improprie ita
+          <lb ed="#G" n="21"/>dici assolent. Alias vero mittendi usurpationes,
+          <pb ed="#G" n="8"/><lb ed="#G" n="1"/>quae plures sunt, hic recensere otiosum, quia non
+          <lb ed="#G" n="2"/>necessarium est.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e432">
+          <lb ed="#G" n="3"/>§. 8. Quemadmodum vero multa alia Deo
+          <lb ed="#G" n="4"/>proprie non convenientia, dicuntur de Deo per
+          <lb ed="#G" n="5"/>quandam analogiam, ut sedere, ambulare,
+          inflam<lb ed="#G" n="6" break="no"/>mari ad iram, cet. ita &amp; MISSIO divinarum
+          per<lb ed="#G" n="7" break="no"/>sonarum non nisi analogice accipienda est. Cum
+          <lb ed="#G" n="8"/>enim una eademque sit Patris, Filii, &amp; Spiritus Sancti
+          <lb ed="#G" n="9"/>Majestas ac potentia, utique non potest dici Patrem
+          <lb ed="#G" n="10"/>imperare Filio vel Spiritui Sancto quae proprie MISSIO
+          <lb ed="#G" n="11"/>est: nec rogari unam personam ab alia; rogantis
+          <lb ed="#G" n="12"/>enim esset quaedam penuria: nec unam alteri
+          sua<lb ed="#G" n="13" break="no"/>dere; nam illa, cui consilium alterius esset
+          neces<lb ed="#G" n="14" break="no"/>sarium, hoc ipso minus esse sapiens &amp; sibi non
+          suf<lb ed="#G" n="15" break="no"/>ficiens argueretur. Sed quaenam sit haec
+          analo<lb ed="#G" n="16" break="no"/>gia? quae caussa, cur una persona dicatur mitti ab
+          <lb ed="#G" n="17"/>alia? Ubi duo consideranda &amp; explicanda sunt.
+          <lb ed="#G" n="18"/>Primo, in missionis negotio semper adjungitur de
+          <lb ed="#G" n="19"/>loco in locum transitus. Secundo, mittentis &amp;
+          <lb ed="#G" n="20"/>missi relatio, &amp; ejusdem relationis caussa esse
+          de<lb ed="#G" n="21" break="no"/>bet. Et prioris quidem rei analogia facilis est, ea
+          <lb ed="#G" n="22"/>scilicet, quae divini ad certa loca adventus,
+          prae<lb ed="#G" n="23" break="no"/>sentiae &amp; absentiae est. Nihil enim aliud est
+          De<lb ed="#G" n="24" break="no"/>um hic esse, &amp; illic non esse, nisi hic quidem
+          gra<lb ed="#G" n="25" break="no"/>tiam suam exerere alibi non item, hic exhibere
+          <lb ed="#G" n="26"/>quasdam singulares operationes, alibi minime. Ut
+          <lb ed="#G" n="27"/>autem adesse alicubi Deum, est ibi illum singulare
+          <lb ed="#G" n="28"/>quidpiam operari, &amp; deesse, non operari, (saltim si
+          <lb ed="#G" n="29"/>operatio pro significatione favoris divini accipiatur)
+          <lb ed="#G" n="30"/>ita venire ad aliquem locum, est ipsum incipere ibi
+          <pb ed="#G" n="9"/><lb ed="#G" n="1"/>operari, &amp; abire ex aliquo loco est illum operari
+          <lb ed="#G" n="2"/>desinere.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e501">
+          <lb ed="#G" n="3"/>§. 9. Multa hujusmodi in Sacris litteris dicta sunt,
+          <lb ed="#G" n="4"/>&amp; non aliter explicantur ab omnibus Theologis
+          <lb ed="#G" n="5"/>(neque enim debent, neque possunt explicari
+          ali<lb ed="#G" n="6" break="no"/>ter) nisi per exhibitionem vel ademptionem talium
+          <lb ed="#G" n="7"/>divinae gratiae operationum. Nam cum Deus
+          im<lb ed="#G" n="8" break="no"/>mensus sit, atque adeo non possit non adesse ulli
+          <lb ed="#G" n="9"/>loco: non potest utique, nisi hac ratione dici,
+          ve<lb ed="#G" n="10" break="no"/>nire vel abire, adesse vel abesse; videlicet non
+          phy<lb ed="#G" n="11" break="no"/>sice, non per naturam alibi adest, abest alibi, cum
+          <lb ed="#G" n="12"/>ita semper &amp; ubique adsit; verum per gratiam,
+          <lb ed="#G" n="13"/>eam alibi per quasdam actiones exhibendo, alibi
+          <lb ed="#G" n="14"/>subtrahendo. Vide quae dicta sunt lib. primo, ubi
+          <lb ed="#G" n="15"/>de immensitate Dei.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e532">
+          <lb ed="#G" n="16"/>§. 10. Quando igitur dicitur Spiritus Sanctus
+          <lb ed="#G" n="17"/>ad nos mitti &amp; venire, quantum ad priorem, quae
+          <lb ed="#G" n="18"/>in missione humana consideratur, rationem, hoc est,
+          <lb ed="#G" n="19"/>ad mutationem Loci: non alia analogia est, nisi
+          <lb ed="#G" n="20"/>hic explicata, hoc est, incipere Spiritum Sanctum
+          <lb ed="#G" n="21"/>aliquid in nobis agere, mentes illustrare, corda ad
+          <lb ed="#G" n="22"/>timorem amoremque Dei, animos ad fiduciam in
+          <lb ed="#G" n="23"/>Christo collocandam, ad pietatis exercitium
+          per<lb ed="#G" n="24" break="no"/>movere, consolari in tristibus, confirmare
+          adver<lb ed="#G" n="25" break="no"/>sus instantia pericula, corroborare in
+          calamitati<lb ed="#G" n="26" break="no"/>bus, quin &amp; in atrocibus pro Dei gloria,
+          fidei<lb ed="#G" n="27" break="no"/>que nostrae veritate tormentis, &amp; alias, quae
+          sa<lb ed="#G" n="28" break="no"/>luti humanae conducunt, operationes exercere.
+          <lb ed="#G" n="29"/>Magis vero hoc ipsum in Filio Dei emicuit, qui
+          <pb ed="#G" n="10"/><lb ed="#G" n="1"/>ad exercendam gratiam etiam carnem mortalem
+          <lb ed="#G" n="2"/>induere non dedignatus est. Tales autem Dei
+          ad<lb ed="#G" n="3" break="no"/>nos adventus vel a nobis recessus esse non nisi
+          <lb ed="#G" n="4"/>temporarios, cuique nisi nimis hebeti &amp; obtuso,
+          <lb ed="#G" n="5"/>sponte patet. Quod enim incipit &amp; desinit, id
+          <lb ed="#G" n="6"/>aeternum non est.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e579">
+          <lb ed="#G" n="7"/>§. 11. Quapropter ridiculus est FRANCISCVS
+          <lb ed="#G" n="8"/>Jesuita (qui etiamnum) Mosquae in Urbe regia
+          <lb ed="#G" n="9"/>degit, &amp; cujus scriptum contra quandam
+          Illustrissi<lb ed="#G" n="10" break="no"/>mi STEPHANI Metropolitae Rezanensis in hac
+          <lb ed="#G" n="11"/>eadem materia Lucubrationem editum nuper
+          con<lb ed="#G" n="12" break="no"/>futavimus) cum novum axioma (neque enim
+          ha<lb ed="#G" n="13" break="no"/>ctenus tale quid ab aliis audire mihi contigit)
+          com<lb ed="#G" n="14" break="no"/>mentus sit, &amp; praeter temporariam, quam
+          exponi<lb ed="#G" n="15" break="no"/>mus, Spiritus Sancti missionem, aliam nescio quam
+          <lb ed="#G" n="16"/>Deitati inesse, distinctam tamen ab aeterna
+          processio<lb ed="#G" n="17" break="no"/>ne, doceat, quam vocat ipse missionem notionalem ad
+          <lb ed="#G" n="18"/>extra. Nam quod Deo ad extra est, ut
+          loquun<lb ed="#G" n="19" break="no"/>tur, id utique in tempore est; quod vero ipsi est
+          <lb ed="#G" n="20"/>notionale, inest ei ab aeterno, &amp; aeternum est. Id
+          <lb ed="#G" n="21"/>enim NOTIONALE dicitur, per quod una
+          perso<lb ed="#G" n="22" break="no"/>na ab alia, quasi per certam &amp; sibi peculiarem
+          no<lb ed="#G" n="23" break="no"/>tam discernitur. Quomodo ergo Theologus iste
+          <lb ed="#G" n="24"/>aliquid in Deo ponit notionale ad Extra, hoc
+          <lb ed="#G" n="25"/>est, tale aeternum, quod est temporale? Nisi forte
+          <lb ed="#G" n="26"/>intelligat operationes, quarum aliae Filio, aliae
+          <lb ed="#G" n="27"/>Spiritui Sancto peculiariter tribuantur. Sed ita
+          <lb ed="#G" n="28"/>elabi nequit, cum ipse notionalem suam ad extra
+          <pb ed="#G" n="11"/><lb ed="#G" n="1"/>missionem distinguat a missione hic explicata: at
+          ve<lb ed="#G" n="2" break="no"/>ro tales peculiares Spiritus Sancti operationes
+          <lb ed="#G" n="3"/>hanc ipsissimam missionem efficiunt. Sed haec
+          <lb ed="#G" n="4"/>obiter.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e640">
+          <lb ed="#G" n="5"/>§. 12. Iam quantum attinet ad secundum, quae
+          <lb ed="#G" n="6"/>scilicet ratio esse possit, cur talis Sancti Spiritus
+          <lb ed="#G" n="7"/>ad homines adventus dicatur ejus missio, ipseque
+          <lb ed="#G" n="8"/>cum a Patre, tum a Filio missus? Non diffiteor
+          dif<lb ed="#G" n="9" break="no"/>ficilem esse hujus analogiae explicationem. Et
+          <lb ed="#G" n="10"/>ingenuus quidem, minimeque curiosus
+          Theolo<lb ed="#G" n="11" break="no"/>gus contentus erit verbis sacrae scripturae, quod
+          <lb ed="#G" n="12"/>scilicet mitti Sanctum Spiritum ab illa doceamur;
+          <lb ed="#G" n="13"/>nec ultra quidquam, quod ipsa non edocet,
+          scru<lb ed="#G" n="14" break="no"/>tabitur, atque adeo nec caussam hujusmodi
+          verbo<lb ed="#G" n="15" break="no"/>rum requiret. Sed demus locum conjecturae.
+          <lb ed="#G" n="16"/>Patres aliqui (ut infra videbimus) cum
+          perpen<lb ed="#G" n="17" break="no"/>derint Filium tantum &amp; Spiritum Sanctum missum
+          <lb ed="#G" n="18"/>dici; nusquam vero hoc de Patre scriptum
+          re<lb ed="#G" n="19" break="no"/>periri: hanc rationem dicti istius cogitarunt, quod
+          <lb ed="#G" n="20"/>missio subinnuat Personam missam non a se, verum
+          <lb ed="#G" n="21"/>a persona alia ortum suum, &amp; esse aeternum
+          deri<lb ed="#G" n="22" break="no"/>vare. Quae opinio si admittatur; nihil tamen
+          ju<lb ed="#G" n="23" break="no"/>vabit caussam Latinorum, ut infra apparebit.
+          No<lb ed="#G" n="24" break="no"/>bis tamen persuadere non possumus, opinionem
+          <lb ed="#G" n="25"/>istam esse legitimam. Neque enim ex Scriptura
+          <lb ed="#G" n="26"/>ullum pro se afferre potest argumentum. Et
+          prae<lb ed="#G" n="27" break="no"/>terea, quae Deo non conveniunt, in Scriptura
+          ta<lb ed="#G" n="28" break="no"/>men de Deo enunciantur, illa utique per quandam
+          <lb ed="#G" n="29"/>ad res nostras analogiam enunciantur. Quam
+          ve<lb ed="#G" n="30" break="no"/>ro analigiam ex rebus humanis ista opinio
+          forma<lb ed="#G" n="31" break="no"/>bit? In humanis certe non, quidquid agit Filius,
+          <pb ed="#G" n="12"/><lb ed="#G" n="1"/>dicitur esse missus ad hoc a Patre; &amp; unus ab alio
+          <lb ed="#G" n="2"/>missus dicitur, quantumvis ab ipso non sit
+          geni<lb ed="#G" n="3" break="no"/>tus. Et tametsi dici possit, quod sol ad nos lucem
+          <lb ed="#G" n="4"/>per fenestram miserit; Loquutio tamen ista
+          abusi<lb ed="#G" n="5" break="no"/>va est &amp; inversa: sensus enim cjus rectus iste est:
+          <lb ed="#G" n="6"/>fenestrae beneficio factum est, quod lux solis non
+          <lb ed="#G" n="7"/>habuerit obstaculum sibi ad nos illabendi:
+          adeo<lb ed="#G" n="8" break="no"/>que ratio, cur ad nos missa Lux dicatur, non
+          te<lb ed="#G" n="9" break="no"/>net se penes solem, lucis caussam, sed penes
+          fe<lb ed="#G" n="10" break="no"/>nestram.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e724">
+          <lb ed="#G" n="11"/>§. 13. Melius ergo Sanctus GREGORIVS
+          <lb ed="#G" n="12"/>NALIANLENVS (cujus verba recitabimus infra,
+          <lb ed="#G" n="13"/>ubi de Latinorum argumento ex missione petito
+          <lb ed="#G" n="14"/>agemus) missionis rationem in consensu ponit: hoc
+          <lb ed="#G" n="15"/>est, cum dicitur Pater vel Filius, mittere Spiritum
+          <lb ed="#G" n="16"/>Sanctum, nihil aliud intelligendum est, nisi quod
+          <lb ed="#G" n="17"/>Pater &amp; Filius consentiant ad negotium a
+          Spi<lb ed="#G" n="18" break="no"/>ritu Sancto peragendum. CoNSENSVS autem
+          <lb ed="#G" n="19"/>iste non est mera conniventia &amp; approbatio,
+          <lb ed="#G" n="20"/>sed consors actio: Operationes enim ad
+          ex<lb ed="#G" n="21" break="no"/>tra communes sunt omnibus tribus Personis;
+          <lb ed="#G" n="22"/>quia tamen quaedam operationes ad extra
+          <lb ed="#G" n="23"/>singulari quodam titulo huic &amp; quaedam illi
+          <lb ed="#G" n="24"/>personae tribuuntur: ideo aliae personae, idem
+          <lb ed="#G" n="25"/>cum ipsa operantes, dicuntur consentire.
+          CoNSEN<lb ed="#G" n="26" break="no"/>SvS ergo iste est cooperatio. Exemplo rem
+          illu<lb ed="#G" n="27" break="no"/>stremus: motio cordium peculiariter Spiritui
+          San<lb ed="#G" n="28" break="no"/>cto tribuitur: neque tamen solus Spiritus Sanctus
+          <lb ed="#G" n="29"/>permovet nos ad conversionem: nam &amp; Pater
+          <lb ed="#G" n="30"/>trahit ad Filium. Ioan. vI. 44. Nemo potest venire
+          <pb ed="#G" n="13"/><lb ed="#G" n="1"/>ad me, nisi Pater, qui misit me, traxerit eum: Et
+          <lb ed="#G" n="2"/>Filius revelat Patrem: quod idem est. Matth. XI.
+          <lb ed="#G" n="3"/>27. Nemo novit Filium, nisi Pater, neque Patrem
+          <lb ed="#G" n="4"/>quisquam novit, nisi Filius, &amp; cuicunque voluerit
+          <lb ed="#G" n="5"/>Filius revelare: Et alia plura talia sunt. Cum
+          <lb ed="#G" n="6"/>itaque Spiritus Sanctus in mentibus cordibusque
+          <lb ed="#G" n="7"/>nostris operatur bonum, id ipsum bonum simul
+          <lb ed="#G" n="8"/>operatur Pater &amp; Filius: quia tamen haec
+          opera<lb ed="#G" n="9" break="no"/>tio peculiariter, &amp; singulari, uti dixi, titulo,
+          qua<lb ed="#G" n="10" break="no"/>si propria vindicatur Spiritui Sancto, ideo Patris
+          <lb ed="#G" n="11"/>&amp; Filii cooperatio consensus vocatur.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e795">
+          <lb ed="#G" n="12"/>§. 14. Cur autem quaedam actiones Filio,
+          <lb ed="#G" n="13"/>quaedam Patri &amp; quaedam Spiritui Sancto
+          peculia<lb ed="#G" n="14" break="no"/>riter tribuantur? Si Theologorum morem
+          lo<lb ed="#G" n="15" break="no"/>quendi spectemus, non aliam adferre rationem
+          <lb ed="#G" n="16"/>possunt, nisi quod quaedam actiones frequentius
+          <lb ed="#G" n="17"/>in scrip tura tribuantur huic, aliae frequentius
+          <lb ed="#G" n="18"/>illi personae. Si quaerere ultro pergas: cur
+          scri<lb ed="#G" n="19" break="no"/>ptura alias operationes huic, alias alteri tribuit
+          fre<lb ed="#G" n="20" break="no"/>quentius? De Filio quidem, cui peculiariter
+          tri<lb ed="#G" n="21" break="no"/>buitur humani generis redemptio, facilis responsio
+          <lb ed="#G" n="22"/>est; quod scilicet ille humanam carnem
+          suscepe<lb ed="#G" n="23" break="no"/>rit, &amp; semet ipsum homo factus, tanquam λῦτρον
+          <lb ed="#G" n="24"/>pro nobis redimendis dederit. At vero de Patre,
+          <lb ed="#G" n="25"/>cul creatio, &amp; de Spiritu Sancto, cui illustratio,
+          mo<lb ed="#G" n="26" break="no"/>tio, sanctificatio SINGVLARITER tribuuntur,
+          ni<lb ed="#G" n="27" break="no"/>hil video, quid possim respondere. Sint ne
+          quae<lb ed="#G" n="28" break="no"/>dam in illis hypostasibus reales &amp; propriae
+          ratio<lb ed="#G" n="29" break="no"/>nes, ob quas tales actiones ad illas terminentur,
+          <lb ed="#G" n="30"/>nec ne? pie cogitare possumus, at pro certo statuere
+          <lb ed="#G" n="31"/>nec valemus, ncc debemus; cum nihil tale in
+          sa<pb ed="#G" n="14"/><lb ed="#G" n="1" break="no"/>cra scriptura reperiamus: &amp; ex humano cerebro
+          <lb ed="#G" n="2"/>oracula clicere stultissimum sit. Sed hoc obiter,
+          <lb ed="#G" n="3"/>necessario tamen ad rei illustrationem dictum sit.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e849">
+          <lb ed="#G" n="4"/>§. 15. Sed dices, aeque Filium &amp; spiritum
+          san<lb ed="#G" n="5" break="no"/>ctum cooperari Patri, atque consentire, ac Patrem
+          <lb ed="#G" n="6"/>filio &amp; spiritui sancto: cur igitur Pater non
+          dici<lb ed="#G" n="7" break="no"/>tur mitti a Filio &amp; spiritu sancto, sicut Filius &amp;
+          spi<lb ed="#G" n="8" break="no"/>ritus a Patre mitti dicuntur? GREGORIVS
+          qui<lb ed="#G" n="9" break="no"/>dem Theologus, cujus haec est sententia, non
+          re<lb ed="#G" n="10" break="no"/>spondet ad hoc, quia nec hoc sibi objicit.
+          Dica<lb ed="#G" n="11" break="no"/>mus nos, quod ipsi meditamur: primo quidem,
+          <lb ed="#G" n="12"/>quod gratiosa in reparatione humani generis
+          ope<lb ed="#G" n="13" break="no"/>ra Patri peculiariter non tribuantur; non
+          tribuun<lb ed="#G" n="14" break="no"/>tur, inquam, peculiariter, ut hoc semper in
+          men<lb ed="#G" n="15" break="no"/>te habeamus, nec subeat cogitatio, Patri ista
+          pe<lb ed="#G" n="16" break="no"/>nitus non tribui. Ergo Pater ad ista opera quasi
+          <lb ed="#G" n="17"/>non progreditur (sed hic quoque particula quasi
+          <lb ed="#G" n="18"/>premenda est) adeoque nec mitti, aut missus esse
+          <lb ed="#G" n="19"/>dici potest. Concipimus enim Patrem quasi
+          of<lb ed="#G" n="20" break="no"/>fensum a nobis Regem sedere, nobisque
+          Majesta<lb ed="#G" n="21" break="no"/>tis illius reis aeternum supplicium decernere.
+          Fi<lb ed="#G" n="22" break="no"/>lium autem Mediatoris munus obire; &amp; ubi ille
+          <lb ed="#G" n="23"/>Patrem pro nobis placavit, Spiritum Sanctum
+          <lb ed="#G" n="24"/>concipimus circa conversionem &amp; instructionem
+          <lb ed="#G" n="25"/>nostram occupatum esse. Ita autem concipimus
+          <lb ed="#G" n="26"/>haec ob hoc ipsum, quod gratiosae operationes non
+          <lb ed="#G" n="27"/>Patri, sed Filio &amp; Spiritui sancto singulariter
+          tri<lb ed="#G" n="28" break="no"/>buuntur: quamquam tam Pater, quam Filius &amp;
+          <lb ed="#G" n="29"/>Spiritus sanctus a nobis sit offensus, &amp; tam Pater
+          <lb ed="#G" n="30"/>quam Filius &amp; Spiritus sanctus Christi sanguine &amp;
+          <pb ed="#G" n="15"/><lb ed="#G" n="1"/>ope Spiritus sancti nobis reconcilietur. Ad
+          ope<lb ed="#G" n="2" break="no"/>rationem autem, quae Patri peculiariter seu
+          singu<lb ed="#G" n="3" break="no"/>lariter tribui solet, hoc est, ad creationem,
+          rur<lb ed="#G" n="4" break="no"/>sus non potest dici missus esse Pater; quia MISSIO
+          <lb ed="#G" n="5"/>praesupponit esse illam rem, ad quam quis mitti
+          <lb ed="#G" n="6"/>dicitur. Nos ergo, ad quorum salutem Filius &amp;
+          <lb ed="#G" n="7"/>Spiritus sanctus mitti dicuntur, ante salutem, &amp;
+          <lb ed="#G" n="8"/>ante eorum arcanum adventum exstitimus, licet
+          <lb ed="#G" n="9"/>damnati &amp; perditi: at vero res ante sui creationem
+          <lb ed="#G" n="10"/>non existebant, nihil erant. Ergo ex defectu
+          ter<lb ed="#G" n="11" break="no"/>mini ad quem, ut loquuntur, CREATIO non potest
+          <lb ed="#G" n="12"/>dici missio, atque adeo neque Pater, dum creat,
+          <lb ed="#G" n="13"/>mitti ad hoc recte diceretur.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e939">
+          <lb ed="#G" n="14"/>§. 16. Praeter hanc rationem haec alia subit,
+          <lb ed="#G" n="15"/>itidem in usu loquendi scripturae sacrae fundata.
+          <lb ed="#G" n="16"/>Filius venit nomine Patris, tanquam Mediator
+          no<lb ed="#G" n="17" break="no"/>ster ab ipso ad hoc destinatus, Ioan. V. 43. Ego
+          <lb ed="#G" n="18"/>veni in nomine Patris mei, nec accipitis me.
+          Spi<lb ed="#G" n="19" break="no"/>ritus autem sanctus venit in nomine Filii. Ioan.
+          <lb ed="#G" n="20"/>XIv. 26. Paracletus ille spiritus, quem mittet
+          Pa<lb ed="#G" n="21" break="no"/>ter in nomine meo, ille vos docebit omnia, &amp;
+          sug<lb ed="#G" n="22" break="no"/>geret vobis omnia, quae dixi vobis. Cur Filius in
+          <lb ed="#G" n="23"/>nomine Patris venit? quia illi (quem, ut dictum
+          <lb ed="#G" n="24"/>est, Scriptura sacra proponit ut Regem offensum
+          <lb ed="#G" n="25"/>peculiariter) reconciliandum genus humanum
+          ve<lb ed="#G" n="26" break="no"/>nit: 2 Cor. V. 18. &amp; 19. atque adeo illum hoc
+          pa<lb ed="#G" n="27" break="no"/>cto glorificandum? Ioan. XIv. 13. &amp; XVII. 4. Cur
+          <lb ed="#G" n="28"/>Spiritus sanctus in nomine Filii venit? quia
+          rur<lb ed="#G" n="29" break="no"/>sus ille ad Christum ut Regem &amp; Caput Ecclesiae
+          <lb ed="#G" n="30"/>glorificandum venit: Ioann. xv. 26. Bene ergo
+          <pb ed="#G" n="16"/><lb ed="#G" n="1"/>Filius a Patre, &amp; Spiritus sanctus a Patre simul &amp;
+          <lb ed="#G" n="2"/>a Filio missus esse dicitur; quia ille venit in
+          nego<lb ed="#G" n="3" break="no"/>tio Paternae gloriae, restaurando genus humanum:
+          <lb ed="#G" n="4"/>hic autem in negotio paternae gloriae &amp; Filii,
+          con<lb ed="#G" n="5" break="no"/>gregando ecclesiam, quae ad Patrem respicit ut
+          <lb ed="#G" n="6"/>Regem offensum, sed reconciliatum, ad Filium
+          <lb ed="#G" n="7"/>vero ut ad proprium caput suum.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e995">
+          <lb ed="#G" n="8"/>§. 17. Singularis autem ratio, cur Spiritus
+          san<lb ed="#G" n="9" break="no"/>ctus a Filio mittatur, haec est: quia videlicet
+          Fi<lb ed="#G" n="10" break="no"/>lius meritis suis obtinuit, ut nobis spiritus
+          san<lb ed="#G" n="11" break="no"/>ctus daretur; siquidem ei promisit Pater. Act. II.
+          <lb ed="#G" n="12"/>38. Itaque dextera Dei sursum sublatus, &amp;
+          pro<lb ed="#G" n="13" break="no"/>missum Spiritus lsancti adeptus a Patre, effudit
+          <lb ed="#G" n="14"/>hoc, quod vos nunc videtis &amp; auditis. Unde &amp;
+          <lb ed="#G" n="15"/>MISSIO haec Spiritus sancti (quamquam &amp; ante
+          <lb ed="#G" n="16"/>mittebatur, cum &amp; antea in piorum cordibus
+          ope<lb ed="#G" n="17" break="no"/>rabatur Spiritus sanctus) non nisi post
+          glorificatio<lb ed="#G" n="18" break="no"/>nem, &amp; ascensionem Christi perficienda, promissa
+          <lb ed="#G" n="19"/>est singulari titulo, qua excellentior &amp; clarior
+          <lb ed="#G" n="20"/>operandi modus: quod quidem &amp; in citato nunc
+          <lb ed="#G" n="21"/>textu innuitur, &amp; patet ex istis aliis locis. Ioan.
+          <lb ed="#G" n="22"/>VII. 39. Non dum erat Spiritus sanctus, quia Iesus
+          <lb ed="#G" n="23"/>nondum erat glorificatus, &amp; Ioann. XVI. 7. nisi
+          <lb ed="#G" n="24"/>enim abiero, Paracletus non veniet ad vos: si
+          au<lb ed="#G" n="25" break="no"/>tem profectus fuero, mittam eum ad vos. Quare
+          <lb ed="#G" n="26"/>ita? nimirum adhuc tum erat Christus in medio
+          <lb ed="#G" n="27"/>itinere certaminum suorum: Spiritus autem
+          San<lb ed="#G" n="28" break="no"/>cti adventus ad gloriae ipsius perfectionem
+          specta<lb ed="#G" n="29" break="no"/>bat, ut &amp; nobis post consummata Christi merita,
+          <lb ed="#G" n="30"/>persolutumque pretium daretur, &amp; de Christo Rege
+          <pb ed="#G" n="17"/><lb ed="#G" n="1"/>jam in gloria constituto testimonium perhiberet.
+          <lb ed="#G" n="2"/>Cujus autem gratia aliquis venit, propter cujus
+          <lb ed="#G" n="3"/>merita facit quidpiam, &amp; cujus gloriam assumit
+          <lb ed="#G" n="4"/>propagandam, ab illo jure mitti ille dicitur.
+          At<lb ed="#G" n="5" break="no"/>que ita Spiritus sanctus non modo a Christo, qua
+          <lb ed="#G" n="6"/>Deus, sed &amp; qua homo est, mittitur, hoc est,
+          pro<lb ed="#G" n="7" break="no"/>pter ejus sanguinis pretium operatur in nobis
+          <lb ed="#G" n="8"/>charismata sua.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e1067">
+          <lb ed="#G" n="9"/>§. 18. Et haec videtur esse sufficiens missionis
+          <lb ed="#G" n="10"/>ratio: certe clara est, comparate ad res humanas,
+          <lb ed="#G" n="11"/>analogia. Nam personae divinae non proprie, sed
+          <lb ed="#G" n="12"/>per analogiam mitti dicuntur. Et his ita bene
+          <lb ed="#G" n="13"/>perspectis, magis enervatur ratio illa quorundam
+          <lb ed="#G" n="14"/>Doctorum primo loco proposita; quod scilicet
+          <lb ed="#G" n="15"/>missio talis fundetur in eo, quod persona, quae
+          di<lb ed="#G" n="16" break="no"/>citur mitti, subinnuatur per hoc non esse a se,
+          ve<lb ed="#G" n="17" break="no"/>rum ab alia. Nam cur dicitur Spiritus Sanctus
+          <lb ed="#G" n="18"/>nondum fuisse, hoc est, non dum venisse, antequam
+          <lb ed="#G" n="19"/>Christus esset glorificatus? Cur christus dixit
+          Pa<lb ed="#G" n="20" break="no"/>racletum non venturum, nisi prius ipse coelos
+          <lb ed="#G" n="21"/>ascendisset? non cohacrent ista cum tali istorum
+          <lb ed="#G" n="22"/>cogitatione.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e1100">
+          <lb ed="#G" n="23"/>§. 19.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e1105">
+          <lb ed="#G" n="24"/>Ut vero nihil relinquamus, quod hic in
+          du<lb ed="#G" n="25" break="no"/>bium vocari, aut nobis objici possit: duo
+          viden<lb ed="#G" n="26" break="no"/>tur superessc resolvenda. 1 Quare etiam Filius
+          <lb ed="#G" n="27"/>dicatur a Spiritu Sancto missus: Esaj. LXI. 1. &amp;
+          <lb ed="#G" n="28"/>Luc. 1v. 18. 2) Cur, ubi Pater dicitur
+          ventu<lb ed="#G" n="29" break="no"/>rus ad suae voluntatis observatores, &amp; mansionem
+          <lb ed="#G" n="30"/>apud eos sibi facturus, non dicitur mittendus?
+          <pb ed="#G" n="18"/><lb ed="#G" n="1"/>Ioan. XIV. 23. Haec enim non creatio est, quam
+          <lb ed="#G" n="2"/>non posse congrue vocari missionem, diximus, sed
+          <lb ed="#G" n="3"/>gratiosa operatio.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e1130">
+          <lb ed="#G" n="4"/>RESP. ad primum: Dicitur Filius a Spiritu
+          <lb ed="#G" n="5"/>Sancto missus, tum, quod ad opus a Filio
+          susce<lb ed="#G" n="6" break="no"/>ptum consensit Spiritus Sanctus, eique uti Deo
+          <lb ed="#G" n="7"/>Deus idem cooperatus est: &amp; quia opus hoc
+          pro<lb ed="#G" n="8" break="no"/>prie terminabatur ad secundam personam, ideo
+          <lb ed="#G" n="9"/>Filius, qui est persona sccunda, dicitur missus;
+          <lb ed="#G" n="10"/>Spiritus autem Sanctus, ut &amp; Pater, mittens; tum
+          <lb ed="#G" n="11"/>etiam, quia Spiritui Sancto peculiariter tribuitur,
+          <lb ed="#G" n="12"/>quod ipse Christum ut hominem illustraverit &amp;
+          <lb ed="#G" n="13"/>corroboraverit ad negotium oeconomiae salutis
+          <lb ed="#G" n="14"/>nostrae, ut ex allatis Esajae verbis,  &amp; ex illo
+          <lb ed="#G" n="15"/>Ezechielis lapide oculato, &amp; ex aliis locis patet:
+          <lb ed="#G" n="16"/>de quo etiam ex professo agetur, ubi de
+          incarna<lb ed="#G" n="17" break="no"/>tione.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e1163">
+          <lb ed="#G" n="18"/>RESP. ad secundum: Quia diximus Patri
+          gra<lb ed="#G" n="19" break="no"/>tiosa opera (quae licet illi conveniant, quippe quae
+          <lb ed="#G" n="20"/>toti Trinitati communia sunt) tribui in scriptura
+          <lb ed="#G" n="21"/>non tam frequenter; &amp; ob hoc ipsum non tribui
+          <lb ed="#G" n="22"/>tanquam propria &amp; peculiaria: idcirco Pater ut
+          <lb ed="#G" n="23"/>in aliis actionibus (sicut jam supra dictum est) ita
+          <lb ed="#G" n="24"/>etiam in isto gratioso adventu non dicitur missus:
+          <pb ed="#G" n="19"/><lb ed="#G" n="1"/>&amp; praesertim cum in citato loco dicitur venire
+          <lb ed="#G" n="2"/>una cum Filio, ergo non congrua locutio csset,
+          <lb ed="#G" n="3"/>dicere, Patrem missum esse a Filio. Spiritus
+          au<lb ed="#G" n="4" break="no"/>tem Sancti non fit mentio. Hactenus dicta bene
+          <lb ed="#G" n="5"/>memoriae commendanda sunt. Multum enim
+          va<lb ed="#G" n="6" break="no"/>lent tum ad rei illustrationem, tum ad explodenda
+          <lb ed="#G" n="7"/>adversariorum sophismata; ut infra eorum usus
+          <lb ed="#G" n="8"/>apparebit.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e1199">
+          <lb ed="#G" n="9"/>§. 20.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e1205">
+          <lb ed="#G" n="10"/>Sed colligamus quasi in nodum, quae
+          proli<lb ed="#G" n="11" break="no"/>xius explicuimus, ut facilius retineri queant.
+          PRo<lb ed="#G" n="12" break="no"/>CESSIO sumitur &amp; pro temporaria missione, &amp; pro
+          <lb ed="#G" n="13"/>aeterno unius personac ex alia ortu. Quaestio hic
+          <lb ed="#G" n="14"/>est de processione Spiritus Sancti, in secundo non
+          <lb ed="#G" n="15"/>in primo sensu. Varia autem nomina ad
+          expli<lb ed="#G" n="16" break="no"/>candam vel exornandam processionem istam
+          adhi<lb ed="#G" n="17" break="no"/>beri solent. Nam persona, ex qua alia procedit,
+          <lb ed="#G" n="18"/>solet dici fons, principium, etiam a Graecis ἀἰτία,
+          <lb ed="#G" n="19"/>hoc est, caussa; a quo vocabulo Latini abstinent,
+          <lb ed="#G" n="20"/>sed in recta intelligentia usurpare illud nihil
+          ob<lb ed="#G" n="21" break="no"/>stat. Mis SIO autem &amp; PROCLSSIO temporaria, non
+          <lb ed="#G" n="22"/>proprie, sed per analogiam ad res humanas, dicitur
+          <lb ed="#G" n="23"/>de Deo. Analogia non bene explicatur per
+          respe<lb ed="#G" n="24" break="no"/>ctum personae missae ad ejus originem aeternam:
+          <lb ed="#G" n="25"/>Sed analogia ista in duobus consideranda est:
+          Pri<lb ed="#G" n="26" break="no"/>mo, respectu terminorum a quo, &amp; ad quem: &amp;
+          <lb ed="#G" n="27"/>MISSIO in hac consideratione nihil est aliud, nisi
+          <lb ed="#G" n="28"/>gratiosi operis inceptio; &amp; cum mitti persona
+          di<lb ed="#G" n="29" break="no"/>vina ad aliquem dicitur, intelligendum est, illam
+          <lb ed="#G" n="30"/>incipere in ipso operari hoc, quod antea non
+          opera<lb ed="#G" n="31" break="no"/>batur. Secundo, respectu relationis mittentis &amp;
+          <pb ed="#G" n="20"/><lb ed="#G" n="1"/>missi: ea rationem suam habet in operationibus
+          tem<lb ed="#G" n="2" break="no"/>porariis, quae peculiariter tribuuntur personae uni,
+          <lb ed="#G" n="3"/>&amp; in consensu alterius personae cooperantis illi;
+          <lb ed="#G" n="4"/>ob hos duos respectus una dicitur mittens, cui
+          sci<lb ed="#G" n="5" break="no"/>licet eaedem operationes non sunt peculiares: altera
+          <lb ed="#G" n="6"/>autem missa, cui peculiariter eaedem operationes
+          <lb ed="#G" n="7"/>tribuuntur. Praeter hanc autem rationem,
+          Chri<lb ed="#G" n="8" break="no"/>sto missio Spiritus Sancti etiam singulariter ob hoc
+          <lb ed="#G" n="9"/>tribuitur, quod ipse pretio sui sanguinis meruit
+          <lb ed="#G" n="10"/>nobis dona Spiritus Sancti, &amp; rursus, quod Sanctus
+          <lb ed="#G" n="11"/>Spiritus collocato ad dexteram Dei Patris Christo,
+          <lb ed="#G" n="12"/>gloriam ejus apud homines propagaverit.
+        </p>
+        <p xml:id="cax7ya-d1e78-d1e1282">
+          <lb ed="#G" n="13"/>§. 21. Notentur etiam ad promptiorem
+          doctri<lb ed="#G" n="14" break="no"/>nae istius, ut fieri solet in expedita disputatione,
+          <lb ed="#G" n="15"/>enunciationem, istae distinctiones: PROCESSIO alia
+          <lb ed="#G" n="16"/>est ad intra, alia ad extra: illa est, de qua hic
+          di<lb ed="#G" n="17" break="no"/>disputamus: haec vero eadem est cum missione.
+          <lb ed="#G" n="18"/>Item: Operationes divinae, quae fiunt ad extra,
+          <lb ed="#G" n="19"/>hoc est, quae circa creaturas versantur,
+          simplici<lb ed="#G" n="20" break="no"/>ter loquendo, communes sunt omnes omnibus
+          per<lb ed="#G" n="21" break="no"/>sonis divinis: tamen terminative scu peculiariter
+          <lb ed="#G" n="22"/>aliae quidem huic, aliae alii personae vindicantur:
+          <lb ed="#G" n="23"/>Id vero ideo, quia scriptura has quidem uni; &amp;
+          <lb ed="#G" n="24"/>illas alteri frequentius tribuit. Sint ne autem
+          quae<lb ed="#G" n="25" break="no"/>dam hujus discriminis reales in ipsis personis
+          ratio<lb ed="#G" n="26" break="no"/>nes, &amp; quaenam illae sint, nos penitus ignoramus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

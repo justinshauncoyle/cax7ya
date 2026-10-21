@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 19</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 19</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="427"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e423">
+        <head xml:id="cax7ya-d1e423-Hd1e108">Caput 19</head>
+        <head xml:id="cax7ya-d1e423-Hd1e110" type="question-title">Singularis quaestio: utrum per Sanctionem Ephesinae synodi oecumenicae tertiae liceat sacro symbolo addere quidquam, saltem quod verissimum esse constet; et ostenditur negative: atque adeo Latinos vocem illam: Filioque, quantumvis vera esset, symbolo inserere nequaquam debuisse</head>
+        <p xml:id="cax7ya-d1e423-d1e113">
+          <pb ed="#G" n="427"/><lb ed="#G" n="1"/>CAPVT. XIX.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e119">
+          <lb ed="#G" n="2"/>Singularis quaestio: utrum per Sanctionem
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e124">
+          <lb ed="#G" n="3"/>Ephesinae synodi oecumenicae tertiae
+          <lb ed="#G" n="4"/>liceat sacro symbolo addere quidquam,
+          <lb ed="#G" n="5"/>saltem quod verissimum esse constet;
+          <lb ed="#G" n="6"/>&amp; ostenditur negative: atque adeo
+          <lb ed="#G" n="7"/>Latinos vocem illam: Filioque,
+          quan<lb ed="#G" n="8" break="no"/>tumvis vera esset, symbolo inserere
+          <lb ed="#G" n="9"/>nequaquam debuisse.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e143">
+          <lb ed="#G" n="10"/>§. 318.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e148">
+          <lb ed="#G" n="11"/>l luo in concilio Florentino disputata sunt:
+          pri<lb ed="#G" n="12" break="no"/>mum, utrum licuit symbolum augere etiam
+          <lb ed="#G" n="13"/>vera additione? alterum, utrum dogma
+          Latino<lb ed="#G" n="14" break="no"/>rum de processione Spiritus Sanctus verum sit? De hoc
+          <lb ed="#G" n="15"/>altero hactenus nos, per Dei gratiam satis, ut
+          vi<lb ed="#G" n="16" break="no"/>detur, egimus. De primo illo hic breviter
+          agen<lb ed="#G" n="17" break="no"/>dum est: modo prius statum quaestionis
+          expli<lb ed="#G" n="18" break="no"/>cemus.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e168">
+          <lb ed="#G" n="19"/>§. 319.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e173">
+          <lb ed="#G" n="20"/>Non quaeritur hic  an symbolum
+          qualecun<lb ed="#G" n="21" break="no"/>que augeri possit? sed de solo symbolo
+          Constan<lb ed="#G" n="22" break="no"/>tinopolitano seu Nicaeno, ut deinde
+          Constantino<pb ed="#G" n="428"/><lb ed="#G" n="1" break="no"/>poli explicatum magis &amp; auctum fuit, lis est. Sunt
+          <lb ed="#G" n="2"/>enim &amp; alia symbola, quale illud est notissimum
+          <lb ed="#G" n="3"/>Atbanasianum, &amp; omnes conciliorum dogmaticae
+          <lb ed="#G" n="4"/>definitiones, omnes denique Doctorum
+          confessio<lb ed="#G" n="5" break="no"/>nes, quas conscribunt, ubi de fidei suae ratione
+          <lb ed="#G" n="6"/>postulantur, utique symbola sunt. 2) Non
+          quae<lb ed="#G" n="7" break="no"/>ritur deinde, an hoc ex se habeat symbolum, ut
+          <lb ed="#G" n="8"/>mutari, augeri, imminui nequeat? Symbolum enim
+          <lb ed="#G" n="9"/>Nicaeae editum terminabatur in illis verbis: &amp;
+          <lb ed="#G" n="10"/>in Spiritum Sanctum, &amp; post haec subnexa fuit
+          <lb ed="#G" n="11"/>condemnatio Arianorum: in secundo autem
+          con<lb ed="#G" n="12" break="no"/>cilio oecumenico addita sunt sequentia: qui ex
+          Pa<lb ed="#G" n="13" break="no"/>tre procedit, qui cum Patre Filioque simul
+          conglo<lb ed="#G" n="14" break="no"/>rificatur, &amp; alia, quae sequuntur. Symbolum
+          <lb ed="#G" n="15"/>enim licet quo ad sententiam, est res planc
+          theo<lb ed="#G" n="16" break="no"/>logica, quia nihil continet, quod non ex
+          scriptu<lb ed="#G" n="17" break="no"/>ra deductum sit: attamen quo ad verborum
+          con<lb ed="#G" n="18" break="no"/>textum, res est adiaphora, quia mere humana;
+          <lb ed="#G" n="19"/>nec enim interest, quibus verbis &amp; phrasibus fidem
+          <lb ed="#G" n="20"/>exprimas, modo bene expresseris. Ergo ex se
+          <lb ed="#G" n="21"/>non habet symbolum immutabilitatis suae vim. 3)
+          <lb ed="#G" n="22"/>Quaeritur ergo, an symbolum per sanctionem
+          Ephe<lb ed="#G" n="23" break="no"/>sinam immutabile tactum sit? hoc est, an Ephesina
+          <lb ed="#G" n="24"/>synodus ita sancit, ne symbolum mutetur? A
+          Por<lb ed="#G" n="25" break="no"/>ro, ubi de illa fanctione sermo est, rursus non
+          quac<lb ed="#G" n="26" break="no"/>ritur, an tanta sit synodi Ephesinae atque adeo
+          il<lb ed="#G" n="27" break="no"/>lius sanctionis auctoritas, ut nulli alii auctoritati
+          <lb ed="#G" n="28"/>possit cedere? Cum enim synodus illa,
+          quantum<lb ed="#G" n="29" break="no"/>vis maxima, quippe quae totam Ecclesiam
+          refe<lb ed="#G" n="30" break="no"/>rebat, fuerit nihilominus congrcgatio humana, nec
+          <lb ed="#G" n="31"/>habuerit (quantum quidem ad res a scriptura non
+          <pb ed="#G" n="429"/><lb ed="#G" n="1"/>praeceptas) auctoritatem divinae auctoritati
+          aequa<lb ed="#G" n="2" break="no"/>lem; potest auctoritati sibi aequali, hoc est,
+          al<lb ed="#G" n="3" break="no"/>teri synodo oecumenicae concedere, in rebus (quod
+          <lb ed="#G" n="4"/>hic inculco diligenter) mutabilibus &amp; per se
+          adia<lb ed="#G" n="5" break="no"/>phoris, qualis symboli verbalis est formula, idque si
+          <lb ed="#G" n="6"/>hoc flagitaverit summa aliqua necessitas: potest,
+          <lb ed="#G" n="7"/>inquam, alia oecum enica synodus aliquid symbolo
+          <lb ed="#G" n="8"/>addere, sed ostendendo necessitatem, &amp;
+          adjicien<lb ed="#G" n="9" break="no"/>do cautelam, quod hoc fiat non ad infringendam
+          <lb ed="#G" n="10"/>auctoritatem synodi Ephesinae, sed alium finem
+          sa<lb ed="#G" n="11" break="no"/>lutarem, si talis quandoque acciderit, &amp; si aliter
+          <lb ed="#G" n="12"/>sine scandalo, sine periculo &amp; remidio necessario
+          <lb ed="#G" n="13"/>fieri nequeat. 5) Denique non quaeritur an
+          syno<lb ed="#G" n="14" break="no"/>dus illa prohibuerit falsa symbolo addere? quis
+          <lb ed="#G" n="15"/>enim de hoc dubitat? aut quae necessitas ista
+          pro<lb ed="#G" n="16" break="no"/>hibere? numquid antea dubitatum fuerit, &amp;
+          qui<lb ed="#G" n="17" break="no"/>dem usque ad tempora Ephesinae synodi, utrum
+          <lb ed="#G" n="18"/>falsa vel symbolo addere, vel etiam quacunque
+          <lb ed="#G" n="19"/>oratione praedicare liceret? Latini quidem, in hac
+          <lb ed="#G" n="20"/>controversia, ut vim argumenti cvadant, hoc
+          <lb ed="#G" n="21"/>unum clamitant, falsorum additionem esse
+          prohi<lb ed="#G" n="22" break="no"/>bitam; sed insulse, ut jam ostendemus.
+          Quae<lb ed="#G" n="23" break="no"/>stio igitur haec est vera, &amp; integra: An symbolum
+          Ni<lb ed="#G" n="24" break="no"/>caeno. Constantinopolitanum possit non a synodo
+          ccume<lb ed="#G" n="25" break="no"/>nica, sed a privata quadam vel Persona, vel
+          Eccle<lb ed="#G" n="26" break="no"/>sia, aliis fratribus inconsultis, augeri
+          quomodocun<lb ed="#G" n="27" break="no"/>que, etiamsi vera essent, quae adderentur? &amp; hoc
+          <lb ed="#G" n="28"/>an liceat per sanctionem Ephesinam, an sanctio
+          Epbe<lb ed="#G" n="29" break="no"/>sina tali additamento non obstet? Pontificii
+          affir<lb ed="#G" n="30" break="no"/>mant, nos negamus. Utque appareat, penes
+          <lb ed="#G" n="31"/>quam partem stet veritas, tria a nobis hic
+          prae<pb ed="#G" n="430"/><lb ed="#G" n="1" break="no"/>standa sunt. Primo, occasio &amp; necessitas illius
+          <lb ed="#G" n="2"/>sanctionis, ejusdemque verba &amp; sententia, aliaque
+          <lb ed="#G" n="3"/>quae ad eam respiciunt, exponenda. Secundo
+          <lb ed="#G" n="4"/>nostra de iis omnibus consideratio, nervorumque
+          <lb ed="#G" n="5"/>observatio in medium est proferenda. Tertio
+          de<lb ed="#G" n="6" break="no"/>nique Latinorum exceptiones &amp; objectiones
+          dis<lb ed="#G" n="7" break="no"/>solvendae sunt.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e335">
+          <lb ed="#G" n="8"/>§. 320.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e340">
+          <lb ed="#G" n="9"/>I. Cum Nestorius haeresim suam promulgare
+          <lb ed="#G" n="10"/>occoepisset, ipse ille, vel illius asseclae novum
+          con<lb ed="#G" n="11" break="no"/>diderunt symbolum, dogmate Nestoriano
+          suffar<lb ed="#G" n="12" break="no"/>cinatum, quo latius citiusque virus suum
+          sparge<lb ed="#G" n="13" break="no"/>rent. Patet hoc ex actis synodi Ephesinae.
+          Ut<lb ed="#G" n="14" break="no"/>rum vero eorum symbolum fuerit longe alia
+          fi<lb ed="#G" n="15" break="no"/>dei formula a Nicaeno symbolo, an idem
+          Nicae<lb ed="#G" n="16" break="no"/>num, sed Nestorii doctrina inserta auctum, non
+          <lb ed="#G" n="17"/>constat. Hoc tamen certum est, ausum hunc
+          Ne<lb ed="#G" n="18" break="no"/>storianorum, &amp; ex ipso profectum malum dedisse
+          <lb ed="#G" n="19"/>Ephesinis patribus occasionem, imo potius
+          neces<lb ed="#G" n="20" break="no"/>sitatem imposuisse, ut canonem seu sanctionem,
+          <lb ed="#G" n="21"/>de qua hic agimus, ederent, occurrendo scilicet
+          <lb ed="#G" n="22"/>simili imposterum offendiculo, quod ex licentia
+          <lb ed="#G" n="23"/>proferendi novi symboli sequi potuisset, ut tunc
+          <lb ed="#G" n="24"/>sequutum esse videbant. SANCTIO vero illa his
+          <lb ed="#G" n="25"/>verbis concepta est, actionc V. His ergo
+          le<pb ed="#G" n="431"/><lb ed="#G" n="1" break="no"/>ctis, statuit Sanctus synodus alteram fidem nemini licere
+          <lb ed="#G" n="2"/>proferre, aut conscribere, aut componere, praeter
+          <lb ed="#G" n="3"/>definitam a Sanctus Patribus Nicaeae cum Spiritu Sancti
+          con<lb ed="#G" n="4" break="no"/>gregatis: Qui vero ausi fuerint, aut componere
+          fi<lb ed="#G" n="5" break="no"/>dem alteram, aut proferre, vel offerre converti
+          <lb ed="#G" n="6"/>volentibus in agnitionem veritatis, sive ex
+          gentilita<lb ed="#G" n="7" break="no"/>te, sive ex judaismo, sive ex qualicuxque haeresi, hos,
+          <lb ed="#G" n="8"/>si quidem Episcopi sint, aut clerici, Alienos esse
+          Epi<lb ed="#G" n="9" break="no"/>scopos ab Episcopatu, &amp; clericos a clericatu,
+          decre<lb ed="#G" n="10" break="no"/>vit. si vero Laici fuerint, anathemati subjici. Quae
+          <lb ed="#G" n="11"/>sententia per se clara, magis tamen patebit infra,
+          <lb ed="#G" n="12"/>numero II. in nostra circa haec observatione. Iam
+          <lb ed="#G" n="13"/>illa, quae ad hanc sanctionem spectant, in
+          cumu<lb ed="#G" n="14" break="no"/>lum congeramus.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e412">
+          <lb ed="#G" n="15"/>1. Itaque hanc ipsam sanctionem paene iisdem
+          <lb ed="#G" n="16"/>verbis, certe parum diversis repetierunt, &amp;
+          con<lb ed="#G" n="17" break="no"/>firmarunt alia concilia: Chalcedonense
+          oecume<lb ed="#G" n="18" break="no"/>nicum IV. ann. 451. celebratum action. 5.
+          oecume<lb ed="#G" n="19" break="no"/>nica V. synodus Constantinopoli sub Iustiniano
+          Im<lb ed="#G" n="20" break="no"/>peratore an. 553. celcbrata, collation. 6. Et
+          oecu<lb ed="#G" n="21" break="no"/>menica VI. synodus Constantinopoli sub
+          Constan<lb ed="#G" n="22" break="no"/>tino Pogonato an. 680. habita. action 16. Denique
+          <lb ed="#G" n="23"/>synodus Constantinopolitana, quae Photio sedem
+          <lb ed="#G" n="24"/>an. 879. restituit, singulariter de eodem ita ait:
+          <lb ed="#G" n="25"/>Definitionem purae Christianorum fidei antiquitus
+          <lb ed="#G" n="26"/>a Patribus, &amp; ad nostra usque tempora
+          descenden<lb ed="#G" n="27" break="no"/>tem, mente &amp; lingua comprobamus, &amp; omnibus
+          con<lb ed="#G" n="28" break="no"/>stanter, alta voce annuntiamus; nihil aufferentes,
+          <lb ed="#G" n="29"/>nihil addentes, nihil mutantes, nihil corrumpentes;
+          <lb ed="#G" n="30"/>ablatio enim &amp; additio, nulla a mali
+          macbinamen<pb ed="#G" n="432"/><lb ed="#G" n="1" break="no"/>tis commota haeresi, ex industria illorum, qui
+          irre<lb ed="#G" n="2" break="no"/>prebensibiles sunt, &amp; Patrum inexcusabilem
+          indu<lb ed="#G" n="3" break="no"/>cit injuriam: Definitiones vero Patrum, corruptis
+          <lb ed="#G" n="4"/>verbis mutare, illo multo perniciosius est. Et mox
+          <lb ed="#G" n="5"/>subdit in transgressores damnationem. 2.) Sanctus
+          <lb ed="#G" n="6"/>CYRILLVS Alexandrinus Ephesinae synodi
+          Prae<lb ed="#G" n="7" break="no"/>ses &amp; Antistes ita de immutabilitate symboli
+          lo<lb ed="#G" n="8" break="no"/>quitur in epistola sua ad Ioannem Antiochenum,
+          <lb ed="#G" n="9"/>quae habetur in eadem synodo parte tertia: nullo
+          <lb ed="#G" n="10"/>modo patimur, ut ab aliquo fides illa sive fidei
+          sym<lb ed="#G" n="11" break="no"/>bolum concutiatur, quod a Sanctis quondam
+          Patri<lb ed="#G" n="12" break="no"/>cus Nicaenis editum est. Neque enim aut nobis
+          ip<lb ed="#G" n="13" break="no"/>sis, aut ulli omnino alteri permittimus, vel unam
+          <lb ed="#G" n="14"/>tmmutare vocem ex iis, quae ibi positae sunt, aut
+          <lb ed="#G" n="15"/>etiam syllabam unam praeterire, memores ejus, qui
+          <lb ed="#G" n="16"/>dixit: ne transgrediaris terminos antiquos, quos
+          <lb ed="#G" n="17"/>posuerunt Patres tui. Non enim erant ipsi, qui
+          lo<lb ed="#G" n="18" break="no"/>quebantur, sed Spiritus Dei &amp; Patris, ὁ
+          ἐκπορἐvε<lb ed="#G" n="19" break="no"/>ταὶ μὲν ἐς ἀυτοῦ, ἐστὶ δὲ θκ ἀλοτοιον τοῦ υιοῦ κατα
+          <lb ed="#G" n="20"/>vε τον τῦς ουσὶας λογον. Qui procedit quidem ex
+          <lb ed="#G" n="21"/>ipso, non autem est alienus a Filio, secundum
+          essen<lb ed="#G" n="22" break="no"/>tiae rationem. Haec vero Epistola Cyrilli fuit
+          le<lb ed="#G" n="23" break="no"/>cta &amp; probata in concilio oecumenico quarto
+          Chal<lb ed="#G" n="24" break="no"/>cedonensi, adeoque &amp; verba Cyrilli facta sunt
+          ver<lb ed="#G" n="25" break="no"/>ba Chalcedonensis concilii. 3.) AGATHO Papa
+          <lb ed="#G" n="26"/>Romanus Epistola ad Constantinum Imperatorem,
+          <lb ed="#G" n="27"/>quae lecta est in concilio oecumenico sexto,
+          actio<lb ed="#G" n="28" break="no"/>ne 4. ita de symbolo ait: quae regulariter a
+          San<lb ed="#G" n="29" break="no"/>ctis atque venerabilibus praedecessoribus &amp; quinque
+          <lb ed="#G" n="30"/>conciliis definita sunt, cum simplicitate cordis, &amp;
+          <lb ed="#G" n="31"/>sine ambiguitate a Patribus traditae fidei
+          conser<pb ed="#G" n="433"/><lb ed="#G" n="1" break="no"/>pamus: unum, ac praecipuum bonum habere semper
+          <lb ed="#G" n="2"/>optantes, atque studentes, ut nihil de 1is, quae
+          re<lb ed="#G" n="3" break="no"/>gulariter definita sunt, minuatur, nihil mutetur,
+          <lb ed="#G" n="4"/>vel augeatur: sed eadem &amp; verbis &amp; sensibus
+          illi<lb ed="#G" n="5" break="no"/>bata custodiantur.  PAVLINVS Patriarcha
+          <lb ed="#G" n="6"/>Aquilejensis (de quo jam in historia mentionem
+          fe<lb ed="#G" n="7" break="no"/>cimus) in synodo Forojuliensi prolixe integritatem
+          <lb ed="#G" n="8"/>symboli defendit, &amp; expositionem quidem fidei
+          <lb ed="#G" n="9"/>permittit, attamen eum ipsum textum symboli
+          re<lb ed="#G" n="10" break="no"/>tinere jubet, &amp; id illum agere adversus novum
+          <lb ed="#G" n="11"/>tunc Latinorum additamentum frequentari
+          coep<lb ed="#G" n="12" break="no"/>tum, ostendimus ibidem: unde etiam
+          corrupte<lb ed="#G" n="13" break="no"/>lam deprehendimus, quod ibidem legatur
+          symbo<lb ed="#G" n="14" break="no"/>lum cum additamento. 5) IVSTINIANVS
+          Im<lb ed="#G" n="15" break="no"/>perator in confessione rectae fidei adversus tria
+          ca<lb ed="#G" n="16" break="no"/>pitula tom. 5. conciliorum LABBEI columna 702.
+          <lb ed="#G" n="17"/>ita loquitur: qui in Epheso prius collecti sunt
+          San<lb ed="#G" n="18" break="no"/>cti, Patres adversus impium Nestorium &amp; qui in
+          <lb ed="#G" n="19"/>Chalcedone convencrunt Sancti Patres adversus
+          impi<lb ed="#G" n="20" break="no"/>um Eutychem, anathematizaverunt eos, qui
+          alte<lb ed="#G" n="21" break="no"/>ram definitionem fidei, sive symbolum, sive μαθnμα
+          <lb ed="#G" n="22"/>tradunt, accedentibus ad sanctum baptisia, vel ex
+          <lb ed="#G" n="23"/>quacunque haeresi conversis, praeter traditum, sicut
+          <lb ed="#G" n="24"/>dictum est a 918. Sanctis Patribus, &amp; explanatum
+          <lb ed="#G" n="25"/>a 150. Sanctis Patribus.  Hic etiam prodeat
+          <lb ed="#G" n="26"/>LEO III. Papa cum sua adversus Aquisgranenses
+          <lb ed="#G" n="27"/>disputatione de additamento &amp; cum argenteis suis
+          <lb ed="#G" n="28"/>tabulis illis. Non alio enim tunc utebatur scuto
+          <lb ed="#G" n="29"/>Leo ille, nisi sanctionibus hic expositis. Vide de
+          <lb ed="#G" n="30"/>illo, quae prolixe egimus in historia. 7)
+          Deni<lb ed="#G" n="31" break="no"/>que ipsi legati illi Aquisgranenses ubi audiunt
+          Pa<pb ed="#G" n="434"/><lb ed="#G" n="1" break="no"/>pam Romanum Leonem objicere sibi contra
+          ten<lb ed="#G" n="2" break="no"/>tatum &amp; ab ipsis expetitum additamentum,
+          conci<lb ed="#G" n="3" break="no"/>liorum sanctiones, non negarunt illas esse, sed alio
+          <lb ed="#G" n="4"/>modo evadere studebant. Verba corum sunt, in
+          <lb ed="#G" n="5"/>disputatione cum Papa, haec: aliud enim per
+          arro<lb ed="#G" n="6" break="no"/>gantiam transiliendo, bona contemnere, aliud bona
+          <lb ed="#G" n="7"/>per henevolentiam meliora efficere. Hoc est,
+          diver<lb ed="#G" n="8" break="no"/>sum affectum &amp; consilium hac in parte esse
+          con<lb ed="#G" n="9" break="no"/>siderandum, si quis scilicet contemptim &amp;
+          arro<lb ed="#G" n="10" break="no"/>ganter immutaret symbolum, illum reum fore
+          pro<lb ed="#G" n="11" break="no"/>nunciant: secus vero, si quis ad bonum finem
+          il<lb ed="#G" n="12" break="no"/>lud faciat. Quae ipsorum distinctio bene
+          notan<lb ed="#G" n="13" break="no"/>da est. Et haec sunt praecipua, quae ad
+          illustran<lb ed="#G" n="14" break="no"/>dam Ephesinam sanctionem, &amp; ex illa clicienda
+          <lb ed="#G" n="15"/>nobis argumenta adversus Latinos apprime
+          fa<lb ed="#G" n="16" break="no"/>ciunt.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e622">
+          <lb ed="#G" n="17"/>§. 321.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e627">
+          <lb ed="#G" n="18"/>II. Ergo jam breviter, quod promisimus,
+          ex<lb ed="#G" n="19" break="no"/>soluamus, considerando &amp; observando, quae
+          ha<lb ed="#G" n="20" break="no"/>ctenus exposuimus. Duo autem hic
+          praestabi<lb ed="#G" n="21" break="no"/>mus: primum explicabimus rem, seu objectum,
+          <lb ed="#G" n="22"/>de quo loquitur sanctio; deinde mentem sanctionis,
+          <lb ed="#G" n="23"/>quiduam sibi velit, quid prohibeat, exponemus
+          ob<lb ed="#G" n="24" break="no"/>servando nervos, ubi una eademque opera ausum
+          <lb ed="#G" n="25"/>Lat inorum conficiemus.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e647">
+          <lb ed="#G" n="26"/>Potest aliquis dubitare, quid nomine fidei
+          <lb ed="#G" n="27"/>in sanctionc Ephesina intelligatur: fidem enim
+          im<lb ed="#G" n="28" break="no"/>mutari &amp; aliam publicari vetat synodus, de
+          symbo<lb ed="#G" n="29" break="no"/>lo nihil dicere videtur. Dico igitur breviter palam
+          <lb ed="#G" n="30"/>esse, sidem nomine nihil nisi publicum ibi symbolum
+          <pb ed="#G" n="435"/><lb ed="#G" n="1"/>intelligi. Patet hoc m ex verbis ipsius sanctionis.
+          <lb ed="#G" n="2"/>Nam dicitur: praeter definitam a Sanctis
+          Patri<lb ed="#G" n="3" break="no"/>bus Nicaeae fidem. 2) Ex aliorum conciliorum
+          <lb ed="#G" n="4"/>verbis, licet hic non citatis, quae expresse id
+          ip<lb ed="#G" n="5" break="no"/>sum dicunt. 3) Ex verbis Cyrilli, Iustiniani,
+          Pau<lb ed="#G" n="6" break="no"/>lini, ipsiusque Lconis III. Papae, qui omnes
+          nomi<lb ed="#G" n="7" break="no"/>ne fidei intelligunt symbolum, ut supra videre est.
+          <lb ed="#G" n="8"/>Sed potest alter esse scrupulus: Ephesinam
+          sanctio<lb ed="#G" n="9" break="no"/>nem loqui de symbolo Nicaeno, nihil de
+          addita<lb ed="#G" n="10" break="no"/>mento Constantinopolitano dicere; ergo forte ad
+          <lb ed="#G" n="11"/>illud solum, &amp; non etiam ad hoc cautio ista
+          inte<lb ed="#G" n="12" break="no"/>gritatis extenditur? Respondeo, sub nomine
+          Ni<lb ed="#G" n="13" break="no"/>caenae fidei comprehendi symbolum, ut est
+          <lb ed="#G" n="14"/>editum Nicaeae, &amp; auctum Constantinopoli: sed
+          <lb ed="#G" n="15"/>uno comprehendi nomine propter faciliorem,
+          bre<lb ed="#G" n="16" break="no"/>viorem, magisque expeditam loquendi rationem.
+          <lb ed="#G" n="17"/>Assertio haec nostra constat palam ex supradictis.
+          <lb ed="#G" n="18"/>Nam &amp; Paulinus &amp; Leo Papa de symbolo tali
+          <lb ed="#G" n="19"/>agunt, &amp; expresse Iustinianus tale symbolum
+          in<lb ed="#G" n="20" break="no"/>dicat: &amp; praeterea in conciliis citatis, tale
+          sym<lb ed="#G" n="21" break="no"/>bolum, ex Nicaeno scilicet Constantinopolitana
+          <lb ed="#G" n="22"/>confessione conflatum recitatur, &amp; cautione illa
+          ob<lb ed="#G" n="23" break="no"/>signatur. Hoc ergo est, quod de objecto
+          sanctio<lb ed="#G" n="24" break="no"/>nis erat sciendum. Ex hoc vero ipso primum
+          con<lb ed="#G" n="25" break="no"/>tra Latinos exsurgit argumentum. Nam si aliud
+          <lb ed="#G" n="26"/>symbolum publicare non licet, praeter
+          Constan<lb ed="#G" n="27" break="no"/>tin opolitanum seu Nicaenum seu Nicaeno.
+          Con<lb ed="#G" n="28" break="no"/>stantinopolitanum, nihil ergo licet addere: nam
+          <lb ed="#G" n="29"/>si addas vel diminuas, jam erit aliud symbolum,
+          <lb ed="#G" n="30"/>certe nostrum symbolum aliud esse a suo dicere
+          <lb ed="#G" n="31"/>debent Latini. Hinc ubi Sanctio Ephesina
+          interdi<pb ed="#G" n="436"/><lb ed="#G" n="1" break="no"/>cit aliam fidem, Cyrillus, Agatho, &amp; alii
+          ex<lb ed="#G" n="2" break="no"/>ponunt, ne quid immutetur in symbolo. Iam
+          <lb ed="#G" n="3"/>Ephesinae sanctionis, aliorumque conciliorum &amp;
+          <lb ed="#G" n="4"/>Patrum, qui eam citant, &amp; sequuntur, mens est,
+          <lb ed="#G" n="5"/>nihil omnino addendum esse symbolo, non
+          tan<lb ed="#G" n="6" break="no"/>tum falsum, sed etiam verum; quod probare, est
+          <lb ed="#G" n="7"/>Latinorum hac in parte caussam evertere.
+          Pro<lb ed="#G" n="8" break="no"/>bamus ergo ex allatis testimoniis, observando in
+          <lb ed="#G" n="9"/>iis nervos praecipuos. Primus scopus erat
+          con<lb ed="#G" n="10" break="no"/>cilii Ephesini, prohibere hoc, quod privata
+          au<lb ed="#G" n="11" break="no"/>ctoritate fecerant Nestoriani, &amp; cavere ecclesiae
+          <lb ed="#G" n="12"/>ab obrepentibus in immutatione symboli malis
+          <lb ed="#G" n="13"/>(ut patet ex occasione sanctionis superius narrata)
+          <lb ed="#G" n="14"/>Igitur prohibebant tam bonum, quam malum, tam
+          <lb ed="#G" n="15"/>falsum, quam verum addi: nemo inficiabitur,
+          <lb ed="#G" n="16"/>nisi qui vel nescit, quid sit cautio, vel plane
+          ob<lb ed="#G" n="17" break="no"/>stinatus est. Nam cautionis haec vis est, ut, ne
+          <lb ed="#G" n="18"/>incurras in malum, arceret omnem rem talem,
+          <lb ed="#G" n="19"/>sub cujus specie vel nomine possit obrepere
+          ma<lb ed="#G" n="20" break="no"/>lum. Exempla quotidiana &amp; innumerabilia sunt;
+          <lb ed="#G" n="21"/>unum hoc esto: solent summi principes
+          prohibe<lb ed="#G" n="22" break="no"/>re quorundam armorum usum, quae ad facilem &amp;
+          <lb ed="#G" n="23"/>clanculariam caedem ab hominibus perditis semel
+          <lb ed="#G" n="24"/>atque iterum usurpata fuisse deprehenduntur.
+          Fi<lb ed="#G" n="25" break="no"/>nis interdicti hujus spectatur in malis hominibus:
+          <lb ed="#G" n="26"/>at ipsum interdictum tam bonos quam malos
+          li<lb ed="#G" n="27" break="no"/>gat: capitur &amp; poenas dat, quicunque interdicta
+          ar<lb ed="#G" n="28" break="no"/>ma gestare deprehenditur, nec quicquam ad
+          ex<lb ed="#G" n="29" break="no"/>cusationem valet, dicere te non esse sicarium, non
+          <lb ed="#G" n="30"/>homicidam; ne enim res ad malum usurpetur,
+          <lb ed="#G" n="31"/>cautio vetat, sed ne ab ullo homine, ne ullo
+          <pb ed="#G" n="437"/><lb ed="#G" n="1"/>prorsus modo usurpetur. 2 Deinde usurpans rem
+          <lb ed="#G" n="2"/>prohibitam, dicetne, quaeso, se eam usurpare ad
+          <lb ed="#G" n="3"/>malum, non ad bonum? id quod magis valet ad
+          <lb ed="#G" n="4"/>rem nostram. Quis enim, quod addit symbolo,
+          <lb ed="#G" n="5"/>(licet illud sit error teterrimus) quis, inquam,
+          di<lb ed="#G" n="6" break="no"/>cet se falsum addidisse? Vana ergo erit cautio
+          Ephe<lb ed="#G" n="7" break="no"/>sina; quia neminem reprimere poterit. Addat
+          <lb ed="#G" n="8"/>enim aliquis ad illum articulum: &amp; in Spiritum
+          <lb ed="#G" n="9"/>sanctum, hanc blasphemiam, qui non persona, sed
+          <lb ed="#G" n="10"/>actio Dei est: quid cum ipso efficies per
+          Ephesi<lb ed="#G" n="11" break="no"/>nam sanctionem? Dices, prohibitum esse, ne quid
+          <lb ed="#G" n="12"/>addatur? Respondebit, prohibitum esse, ne quid
+          <lb ed="#G" n="13"/>falsi addatur: se vero non falsum addidisse. Quis
+          <lb ed="#G" n="14"/>enim hacreticus sua dogmata falsa esse dicit? imo
+          <lb ed="#G" n="15"/>quis dicit non verifsima esse? sed inquies,
+          dispu<lb ed="#G" n="16" break="no"/>tandum prius esse cum haeretico, &amp; cum ei
+          de<lb ed="#G" n="17" break="no"/>monstrabitur dogmatis falsitas, arguendus erit pro
+          <lb ed="#G" n="18"/>suo additamento ex sanctione Ephesina.
+          Respon<lb ed="#G" n="19" break="no"/>deo igitur: Sanctio Ephesina est tantum dicis
+          <lb ed="#G" n="20"/>caussa, &amp; aeque bene erit nobis absque illa, atque
+          <lb ed="#G" n="21"/>cum illa, imo potius in casu allato tacenda erit: nam si
+          <lb ed="#G" n="22"/>ita revincam Haereticum, ut manus veritati det,
+          <lb ed="#G" n="23"/>quid amplius faciendum restat? Sanctionem
+          Ephe<lb ed="#G" n="24" break="no"/>sinam ad quid citavero, nisi ut hominem lacessam,
+          <lb ed="#G" n="25"/>&amp; ad resiliendum irritem? Quid vero, si victus
+          <lb ed="#G" n="26"/>non fatebitur se victum esse, ut fere semper illi
+          <lb ed="#G" n="27"/>ita faciunt? in utroque igitur casu Ephesina
+          San<lb ed="#G" n="28" break="no"/>ctio jacebit, nec ullum habebit usum, atque adeo
+          <lb ed="#G" n="29"/>exponetur Symbolum perpetuis mutationibus. At
+          <lb ed="#G" n="30"/>vero si habeat, ut &amp; revera habet eam mentem,
+          <lb ed="#G" n="31"/>quam nos volumus, vim maximam habebit
+          sem<pb ed="#G" n="438"/><lb ed="#G" n="1" break="no"/>per: nam si quis addat quidpiam, arguam illum,
+          <lb ed="#G" n="2"/>male egisse contra Ephesinam Sanctionem, nec
+          <lb ed="#G" n="3"/>evadet diccodo, se verum addidisse. Nam dicam:
+          <lb ed="#G" n="4"/>ne verum quidem licere addi, dicam de veritate
+          <lb ed="#G" n="5"/>nos disputarc oportere, at interim additio
+          erada<lb ed="#G" n="6" break="no"/>tur. Quiscunque igitur eventus disputationis
+          suc<lb ed="#G" n="7" break="no"/>cesserit, sive resipiat, sive in malo suo haereat
+          hae<lb ed="#G" n="8" break="no"/>reticus, symbolum erit integrum, &amp; simplicibus
+          <lb ed="#G" n="9"/>Christianis non imponetur. 3) Verba item ipsius
+          <lb ed="#G" n="10"/>sanctionis prohibent, ne proferatur fides alia; alia,
+          <lb ed="#G" n="11"/>inquam, non contraria. Et ridiculum esset
+          cano<lb ed="#G" n="12" break="no"/>nem figere, ne quid contrarium Nicaenac fidei
+          <lb ed="#G" n="13"/>proferretur, quasi hactenus hoc ignorabatur, aut
+          <lb ed="#G" n="14"/>quasi antea licuit etiam contrarium proferre, sed
+          <lb ed="#G" n="15"/>abhinc jam non licere amplius. 4) Quibus vero
+          <lb ed="#G" n="16"/>additio illa, &amp; ulla symboli immutatio
+          prohibe<lb ed="#G" n="17" break="no"/>tur? Haereticisne? minime, sed orthodoxis
+          Epi<lb ed="#G" n="18" break="no"/>scopis, Clericis, Laicis; ad haereticos canonem
+          <lb ed="#G" n="19"/>cudere, &amp; illis leges ferre ecclesia non solet, non
+          <lb ed="#G" n="20"/>debet, non potest. Num poterimus melius
+          nuga<lb ed="#G" n="21" break="no"/>ri, quam si coacta synodo praescribamus
+          Mahome<lb ed="#G" n="22" break="no"/>tanis, quid facere, quid non facere debeant,
+          id<lb ed="#G" n="23" break="no"/>que in rebus adiaphoris, sed propter quandam
+          cau<lb ed="#G" n="24" break="no"/>tionem? at ne in malis quidem pertinet ad nos
+          ju<lb ed="#G" n="25" break="no"/>dicium de iis, qui non sunt in ecclesia; audi
+          Apo<lb ed="#G" n="26" break="no"/>stolum ICor. V. 12. quid mihi de iis, qui foris
+          <lb ed="#G" n="27"/>sunt, judicare? nonne de iis, qui intus sunt, vos
+          <lb ed="#G" n="28"/>judicatis? nam de iis, qui foris sunt, Deus
+          judi<lb ed="#G" n="29" break="no"/>cabit, auferte malum ex vobismet ipsis. 5)
+          Maxi<lb ed="#G" n="30" break="no"/>me vero id ipsum ostendunt poenae, quae
+          trans<lb ed="#G" n="31" break="no"/>gressoribus sanctionis ibidem irrogantur. Nam
+          <pb ed="#G" n="439"/><lb ed="#G" n="1"/>Laicis quidem intentatur anathema, Episcopis
+          ve<lb ed="#G" n="2" break="no"/>ro &amp; clericis adimitur tantum honor suus. Ita ne?
+          <lb ed="#G" n="3"/>Si Episcopus symbolo inserat hacresim, Episcopali
+          <lb ed="#G" n="4"/>duntaxat officio spoliabitur, &amp; erit tamen
+          mem<lb ed="#G" n="5" break="no"/>brum ecclesiae? quis hoc dicat? quis credat?
+          <lb ed="#G" n="6"/>Ergo patet mentem sanctionis esse, ne verum ctiam
+          <lb ed="#G" n="7"/>addatur symbolo. &amp; Iam si observes Patrum
+          di<lb ed="#G" n="8" break="no"/>cta, quae illam sanctionem respiciunt, plane eos
+          <lb ed="#G" n="9"/>nobiscum esse videbis. Octava synodus ait,
+          in<lb ed="#G" n="10" break="no"/>ferri patribus injuriam ex ablationc vel additionc,
+          <lb ed="#G" n="11"/>etiamsi non erroneum addatur: si, inquit, &amp; mali
+          <lb ed="#G" n="12"/>machinamentis nulla haeresis excitata sit. Iam
+          <lb ed="#G" n="13"/>vero perniciosius vocat, si error inscratur. 7)
+          <lb ed="#G" n="14"/>CYRILLI verba erant: neque nobis ipsis, aut
+          <lb ed="#G" n="15"/>aliis permittimus immutare; qui nervus primus
+          <lb ed="#G" n="16"/>est. Nam illi non addidissent, nisi verum, certe
+          <lb ed="#G" n="17"/>nollent, nisi verum addere: nihilominus tamen
+          <lb ed="#G" n="18"/>&amp; sibi ipsis non permittunt. Quid vero non
+          per<lb ed="#G" n="19" break="no"/>mittunt immutare? nec unam vocem, nec syllabam
+          <lb ed="#G" n="20"/>unam praeterire: qua certe rigida loquendi
+          ener<lb ed="#G" n="21" break="no"/>gia prohibent omne additamentum, nullo habito
+          <lb ed="#G" n="22"/>respectu, verumne sit, an falsum, quod
+          addere<lb ed="#G" n="23" break="no"/>tur, qui est secundus nervus. Hoc vero Patres
+          <lb ed="#G" n="24"/>illi Ephesini, &amp; suo ipsorum exemplo
+          confirma<lb ed="#G" n="25" break="no"/>runt; nam cum posset vel vox Deiparae, vel
+          quac<lb ed="#G" n="26" break="no"/>dam alia Nestorianae haeresi opposita symbolo
+          in<lb ed="#G" n="27" break="no"/>seri, nihil inseruerunt. 8 AGATHO ajebat
+          <lb ed="#G" n="28"/>eadem &amp; verbis &amp; sensibus illibata custodienda
+          <lb ed="#G" n="29"/>esse: si non tantum sensibus, sed etiam verbis,
+          <lb ed="#G" n="30"/>utique nihil addendum censuit, nec verum, nec
+          <lb ed="#G" n="31"/>falsum. 9) Paulini vox fuit: eum ipsum textum
+          <pb ed="#G" n="440"/><lb ed="#G" n="1"/>symboli retinendum; cum tamen explicationem
+          <lb ed="#G" n="2"/>extra symbolum permitteret, hoc ergo etiam
+          ar<lb ed="#G" n="3" break="no"/>cebat a symbolo, quod probabat extra symbolum.
+          <lb ed="#G" n="4"/>1O) lam de mente Leonis, imo &amp; ipsorum
+          Aquis<lb ed="#G" n="5" break="no"/>granensium oratorum qui dubitaret, plane esset
+          <lb ed="#G" n="6"/>plumbcus. Oratores enim dogma, quod
+          persua<lb ed="#G" n="7" break="no"/>dent, fatentur non posse quocunque affectu inseri
+          <lb ed="#G" n="8"/>symbolo, sed non nisi ex optimo consilio.
+          Pa<lb ed="#G" n="9" break="no"/>pa autem Leo fatur, deceptus, dogma esse verum;
+          <lb ed="#G" n="10"/>contendit tamen &amp; evincit, non licere illud, sicut
+          <lb ed="#G" n="11"/>nec quidvis aliud inseri in symbolum. Quod vel
+          <lb ed="#G" n="12"/>unicum cur non obturet os Latinis, Papas suos
+          <lb ed="#G" n="13"/>Deo ipsi exaequantibus, satis mirari nequeo.
+          For<lb ed="#G" n="14" break="no"/>te in illa disputatione loquebatur Leo, qua homo,
+          <lb ed="#G" n="15"/>non qua Papa, adeoque erravit. Sed cur non
+          in<lb ed="#G" n="16" break="no"/>stiterunt amplius Aquisgranenses, nec ita
+          compel<lb ed="#G" n="17" break="no"/>larunt: loquutus es, ut homo, Pater Beatissime,
+          lo<lb ed="#G" n="18" break="no"/>quere adbuc ut Papa, quo nos reddas certiores, non
+          <lb ed="#G" n="19"/>modo quid, ut homo, sed etiam quid, ut Papa
+          sen<lb ed="#G" n="20" break="no"/>tias. Sed videlicet distinctio ista non dum erat
+          <lb ed="#G" n="21"/>nata. Certum tamen est (si etiam nugari
+          place<lb ed="#G" n="22" break="no"/>at) Leonem tabulas illas excudisse, ut Papam. Cui
+          <lb ed="#G" n="23"/>ergo tot &amp; tam clara documenta non sufficiant?
+          <lb ed="#G" n="24"/>quis ad tantam lucem caligabit? Relinquiturne
+          lo<lb ed="#G" n="25" break="no"/>cus vel minimus cavillationi, tergiversationique
+          <lb ed="#G" n="26"/>ulli? at superbae proterviae &amp; obstinationi plane
+          <lb ed="#G" n="27"/>ferreae adeo naec parva &amp; invalida sunt, ut
+          simi<lb ed="#G" n="28" break="no"/>liter de hoc ipso disputantem Ephesium, nihil
+          ni<lb ed="#G" n="29" break="no"/>si puerilia argumenta promere dixerit in concilio
+          <lb ed="#G" n="30"/>Florentino perditus ille Cardinalis Iulianus.
+          Vi<lb ed="#G" n="31" break="no"/>deamus tamen, quid ad haec Latini excipiant.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e1070">
+          <pb ed="#G" n="441"/><lb ed="#G" n="1"/>§. 322.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e1076">
+          <lb ed="#G" n="2"/>Qui nihil, nisi Sanctionis Ephesinae
+          inter<lb ed="#G" n="3" break="no"/>dictum audiunt, &amp; quidem sine ulla verborum &amp;
+          <lb ed="#G" n="4"/>consilii cjus observatione, putant se facillime ab
+          <lb ed="#G" n="5"/>hoc negotio expedire, modo dicant, falsum, non
+          <lb ed="#G" n="6"/>etiam verum additamentum esse prohibitum; sed
+          <lb ed="#G" n="7"/>stos jam satis superque confutavimus.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e1093">
+          <lb ed="#G" n="8"/>2) Magis ingeniosi hanc evadendi rimam
+          in<lb ed="#G" n="9" break="no"/>venerunt: ajunt explicationem alicujus rei vel
+          <lb ed="#G" n="10"/>sententiae non esse quid aliud a re vel sententia,
+          <lb ed="#G" n="11"/>quae explicatur; adeoque dum additur explicatio,
+          <lb ed="#G" n="12"/>nihil novi additur: suum vero illud Filioque, esse
+          <lb ed="#G" n="13"/>meram explicationem illius ex Patre: igitur nihil
+          <lb ed="#G" n="14"/>sese symbolo addidisse, cum illud addiderint.
+          Ma<lb ed="#G" n="15" break="no"/>jorem syllogismi probant: quia definitio cum
+          defi<lb ed="#G" n="16" break="no"/>nito convertitur; &amp; quod sententiae explicatio
+          <lb ed="#G" n="17"/>nihil aliud sit, nisi sententia eadem explicata. Majoris
+          <lb ed="#G" n="18"/>vero ita expositae consequutionem &amp; per se
+          pate<lb ed="#G" n="19" break="no"/>re dicunt, &amp; instantiis confirmant. Quia alioqui
+          <lb ed="#G" n="20"/>sententia vc. ganctu haec ipsa: qui a Patre procedit, si
+          <lb ed="#G" n="21"/>graece efferatur, ubi habebit plures syllabas,
+          cen<lb ed="#G" n="22" break="no"/>sebitur esse aucta: ita &amp; Sanct Scriptura, in varias
+          con<lb ed="#G" n="23" break="no"/>versa linguas, cum in alio idiomate plures, in alio
+          <lb ed="#G" n="24"/>pauciores syllabas habeat, censebitur alibi
+          addita<lb ed="#G" n="25" break="no"/>mentis abundare, alibi truncata &amp; mutila esse.
+          <lb ed="#G" n="26"/>Quod tamen est ridiculum. Iam vero minor eis
+          <lb ed="#G" n="27"/>facilis probatu est; nam admissa hypothesi, quod
+          <lb ed="#G" n="28"/>dogma Latinorum verum sit, (admitti autem in hac
+          <lb ed="#G" n="29"/>quaestione a nobis debet) utique illud, Filioque
+          <lb ed="#G" n="30"/>erit explicatio: sicuti &amp; Constantinopolitani Patres
+          <pb ed="#G" n="442"/><lb ed="#G" n="1"/>per illam non minimam additionem: &amp; in Spiritum
+          <lb ed="#G" n="2"/>Sc. Dominum &amp; vivificantem &amp;c. usque ad finem
+          <lb ed="#G" n="3"/>symboli, dicuntur symbolum explicassc. Ita ipsi.
+          <lb ed="#G" n="4"/>Nos siugula excutiendo respondemus: Alia
+          <lb ed="#G" n="5"/>est explicatio grammatica, alia logica.
+          Gramma<lb ed="#G" n="6" break="no"/>tica est, cum sententia aliis vocabulis, sed
+          clario<lb ed="#G" n="7" break="no"/>ribus, quam quibus erat proposita, exponitur:
+          <lb ed="#G" n="8"/>quae tamen vocabula sint cum illis obscurioribus
+          <lb ed="#G" n="9"/>plane synonyma, nullum alium vel ex parte
+          sub<lb ed="#G" n="10" break="no"/>jecti, vel ex parte praedicati conceptum
+          suggeren<lb ed="#G" n="11" break="no"/>tia. Ita si hoc dictum: homo ex circumcisione,
+          Chri<lb ed="#G" n="12" break="no"/>sto nomen dediti, ita exposueris: Iudaeus factus
+          <lb ed="#G" n="13"/>est Christianus. Vel istud aliud, exaravit litteras,
+          <lb ed="#G" n="14"/>ita efferas: scripsit epistolam; quae tamen ipsa
+          ex<lb ed="#G" n="15" break="no"/>plicatio grammatica duplex est: una paraphrasis,
+          <lb ed="#G" n="16"/>altera metaphrasis. Paraphrasis est, cum nihil
+          qui<lb ed="#G" n="17" break="no"/>dem intendit oratio exponere, nisi ipsissimam
+          sen<lb ed="#G" n="18" break="no"/>tentiae mentem, atque idem subjectum, &amp; idem
+          <lb ed="#G" n="19"/>praedicatum proponit; sed hoc directe, ut ajunt:
+          <lb ed="#G" n="20"/>at ex obliquo tale aliquid profert, quod utcunque
+          <lb ed="#G" n="21"/>distinguitur vel a subjecto vel a praedicato, vel
+          <lb ed="#G" n="22"/>ab utroque. Metaphrasis vero est, cum plane idem
+          <lb ed="#G" n="23"/>praedicatum, &amp; subjectum, nec vel ex obliquo
+          <lb ed="#G" n="24"/>quidvis aliud effertur, sed verba tantum alia
+          prio<lb ed="#G" n="25" break="no"/>ribus correspondentia in omnibus, &amp; prorsus
+          syno<lb ed="#G" n="26" break="no"/>nimica ponuntur. Paraphrascos exemplum est
+          pri<lb ed="#G" n="27" break="no"/>mum ex duobus hic adductis; metaphraseos vero,
+          <lb ed="#G" n="28"/>secundum. Paraphrasi cum utimur in
+          interpretan<lb ed="#G" n="29" break="no"/>do, dicimur proferre sententiam auctoris,
+          sedno<lb ed="#G" n="30" break="no"/>stris verbis, &amp; solemus usurpare illud
+          vulgatissi<lb ed="#G" n="31" break="no"/>mum: quasi dixerit. Ubi vero utimur metaphrasi,
+          <pb ed="#G" n="443"/><lb ed="#G" n="1"/>dicimur auctoris sententiam verbis ejusdem
+          pro<lb ed="#G" n="2" break="no"/>ferre, non nostris, nec adhibemus illud: quasi
+          <lb ed="#G" n="3"/>dicat. Metaphrasis enim mera versio, vel
+          commu<lb ed="#G" n="4" break="no"/>tando verba in verba alia ejusdem linguae, ut,
+          gla<lb ed="#G" n="5" break="no"/>dio interfecit, ense occidit: vel verba unius linguae
+          <lb ed="#G" n="6"/>verbis alterius linguae efferendo, quales sunt
+          libro<lb ed="#G" n="7" break="no"/>rum ex uno in aliud idioma versiones.
+          Meta<lb ed="#G" n="8" break="no"/>phrasis est mera grammatica interpretatio:
+          para<lb ed="#G" n="9" break="no"/>phrasis autem accedit non nihil ad logicam, unde
+          <lb ed="#G" n="10"/>eam QVINTILIANVS non tam
+          interpretatio<lb ed="#G" n="11" break="no"/>nem, quam imitationcm vocat libr. 10. Logica
+          <lb ed="#G" n="12"/>vero interpretatio est, cum non tantum verba, sed
+          <lb ed="#G" n="13"/>&amp; conceptus clariores adhibentur, ostendendo,
+          <lb ed="#G" n="14"/>quid sit maxime rei proprium, per quid differat
+          <lb ed="#G" n="15"/>ab omni alio, in quo scilicet consistit ipsius
+          essen<lb ed="#G" n="16" break="no"/>tia? qualis est definitio; vel etiam alias rei
+          pro<lb ed="#G" n="17" break="no"/>prietates, partes, caussas, effectus, adjuncta
+          ex<lb ed="#G" n="18" break="no"/>ponendo, quales descriptiones sunt. In
+          hujusmo<lb ed="#G" n="19" break="no"/>di praeterea interpretationibus multa alia
+          adhiben<lb ed="#G" n="20" break="no"/>tur, ut cum reddimus rationem nostrac
+          expositio<lb ed="#G" n="21" break="no"/>nis, quod sit legitima, &amp; germana, &amp;
+          interpreta<lb ed="#G" n="22" break="no"/>tiones alienas rejicimus. His ita expositis, quis
+          <lb ed="#G" n="23"/>jam non videt ruditatem eorum, qui ita ad
+          obje<lb ed="#G" n="24" break="no"/>ctam Ephesinam sanctionem de non immutando
+          <lb ed="#G" n="25"/>symbolo excipiunt, ut interpretationem non esse
+          <lb ed="#G" n="26"/>additionem dicant. Sola grammatica
+          interpreta<lb ed="#G" n="27" break="no"/>tio eaque metaphrasis nihil addit, at paraphrasis
+          <lb ed="#G" n="28"/>addit, &amp; multo magis addis interpretatio logica.
+          <lb ed="#G" n="29"/>Nihil est, quod dicunt, definitionem converti cum
+          <lb ed="#G" n="30"/>de finito: hoc enim non aliud probat, nisi rem in
+          <lb ed="#G" n="31"/>definitione eandem esse, quae dicitur definitum;
+          <pb ed="#G" n="444"/><lb ed="#G" n="1"/>At sunt alii conceptus, hoc est, magis clare
+          par<lb ed="#G" n="2" break="no"/>tes essentiae indicantes, quam in definito nude
+          pro<lb ed="#G" n="3" break="no"/>lato. Nihil est, quod ajunt sententiae
+          explicatio<lb ed="#G" n="4" break="no"/>nem esse nihil aliud, nisi sententiam explicatam:
+          <lb ed="#G" n="5"/>hoc enim verum quidem est simpliciter, at non
+          se<lb ed="#G" n="6" break="no"/>cundum quid: nam explicatio multa hinc inde
+          ad<lb ed="#G" n="7" break="no"/>minicula colligit ad declarandam sententiam. Quod
+          <lb ed="#G" n="8"/>si metaphrastica sit explicatio, verum est penitus,
+          <lb ed="#G" n="9"/>quod dicunt; sed ad rem nostram accommodare
+          <lb ed="#G" n="10"/>non possunt, ut mox patebit. Instantiae, quibus
+          <lb ed="#G" n="11"/>probant, explicationem nihil addere, valent de
+          <lb ed="#G" n="12"/>explicatione metaphrastica sola, non de
+          paraphra<lb ed="#G" n="13" break="no"/>si, aut interpretatione logica; adeoque nihil hic
+          <lb ed="#G" n="14"/>faciunt. Nam ut ad rem accedamus, hoc est, ad
+          <lb ed="#G" n="15"/>minorem syllogismi: si verum esset, Spiritum Sancti
+          <lb ed="#G" n="16"/>procedere a Patre &amp; Filio, illud, Filioque, esset
+          <lb ed="#G" n="17"/>interpretatio: Sed logica, nequaquam
+          metaphra<lb ed="#G" n="18" break="no"/>stica. Nam illud, Filioque, vel aliud subjectum a
+          <lb ed="#G" n="19"/>Patre notat, vel prorsus idem? Si primum, non
+          <lb ed="#G" n="20"/>est ergo metaphrasis, atque adeo est jam additio. Si
+          <lb ed="#G" n="21"/>secundum, ergo Sabellius vera docuit, cum
+          distin<lb ed="#G" n="22" break="no"/>ctionem personarum tolleret. Ita &amp;
+          augmen<lb ed="#G" n="23" break="no"/>tum Constantinopoli factum jure dicitur
+          explica<lb ed="#G" n="24" break="no"/>tio symboli, hoc est, mysterii Trinitatis,
+          aliarum<lb ed="#G" n="25" break="no"/>que rerum necessario credendarum; sed haec
+          ex<lb ed="#G" n="26" break="no"/>plicatio logica est, quae non nihil, sed plura
+          ad<lb ed="#G" n="27" break="no"/>dit. Talem vero explicationem prohiberi
+          Ephe<lb ed="#G" n="28" break="no"/>sina sanctione aimus, sicuti jam &amp; luculenter
+          osten<lb ed="#G" n="29" break="no"/>dimus. Quam ergo misera illa fuit Florentina
+          sy<lb ed="#G" n="30" break="no"/>nodus, hinc patet: nam quod nos hic breviter
+          ex<lb ed="#G" n="31" break="no"/>pedivimus, sed vel pueris ad intelligentiam satis,
+          <pb ed="#G" n="445"/><lb ed="#G" n="1"/>hoc ipsum Ferrariae diu multis tricis agitabat nunc
+          <lb ed="#G" n="2"/>Rhodius rabula, nunc rabula alius Iulianus
+          mul<lb ed="#G" n="3" break="no"/>tas spumas jaculando, episcopos sedentes, seque
+          ip<lb ed="#G" n="4" break="no"/>sos tristibus sane ineptiis excarnificando: nec
+          ta<lb ed="#G" n="5" break="no"/>men vel scintillam lucis proferre, aut ipsi
+          vi<lb ed="#G" n="6" break="no"/>dere poterant, surdis fabulam canente Marco
+          <lb ed="#G" n="7"/>Ephesino.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e1367">
+          <lb ed="#G" n="8"/>3) Sed adhuc instant, exemplum synodi
+          oecu<lb ed="#G" n="9" break="no"/>menicae secundae objectantes; nam illa ad
+          sym<lb ed="#G" n="10" break="no"/>bolum Nicaenum multa adjecit. RESPoND. Fuit
+          <lb ed="#G" n="11"/>synodus oecumenica, cui id licuit: deinde
+          fa<lb ed="#G" n="12" break="no"/>ctum hoc est ante Ephesinam sanctionem: de
+          <lb ed="#G" n="13"/>utroque hic non quaeritur.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e1383">
+          <lb ed="#G" n="14"/>A) Instant demum, similem sanctionem de
+          <lb ed="#G" n="15"/>integritate symboli profectam fuisse adhuc a
+          syno<lb ed="#G" n="16" break="no"/>do prima Nicaena, quod probant ex quadam
+          epi<lb ed="#G" n="17" break="no"/>stola Liberii Papae. Hoc tamen non obstantc
+          Pa<lb ed="#G" n="18" break="no"/>tres Constantinopolitani auxerunt symbolum:
+          un<lb ed="#G" n="19" break="no"/>de patet, quod mens sit synodi prohibere tantum
+          <lb ed="#G" n="20"/>falsa additamenta. Respondimus vero ad hoc
+          su<lb ed="#G" n="21" break="no"/>pra cap. XV. num. III.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e1403">
+          <lb ed="#G" n="22"/>5) Denique Rutba, &amp; alii putant se satis
+          va<lb ed="#G" n="23" break="no"/>lide cuneum hunc explodere, dum instant,
+          Episco<lb ed="#G" n="24" break="no"/>pos &amp; Doctores, ubi de hoc res postulat,
+          compo<lb ed="#G" n="25" break="no"/>nere privatas confessiones, quae sunt symbola.
+          <lb ed="#G" n="26"/>RESP. licere hoc extra publicum symbolum, non
+          <lb ed="#G" n="27"/>intra, adeoque exceptio haec seu instantia
+          vaga<lb ed="#G" n="28" break="no"/>tur extra statum quaestionis.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e1421">
+          <pb ed="#G" n="446"/><lb ed="#G" n="1"/>&amp; Tandem clamant, Ecclesiam Romanam esse
+          <lb ed="#G" n="2"/>magistram totius orbis, adeoque &amp; licere illi
+          fi<lb ed="#G" n="3" break="no"/>xas ab aliis synodis leges refigere, etiam
+          incon<lb ed="#G" n="4" break="no"/>sultis aliis Ecclesiis: additamentum tamen hoc in
+          <lb ed="#G" n="5"/>magno quodam Concilio promulgatum fuisse.
+          Re<lb ed="#G" n="6" break="no"/>spondeo, primum, quod dicunt, dicant Hispanis,
+          <lb ed="#G" n="7"/>Polonis, aliisque, qui hoc facile credunt: alterum
+          <lb ed="#G" n="8"/>falsum esse ostendimus in historia: &amp; si esset
+          ve<lb ed="#G" n="9" break="no"/>rum, synodus Romana, utpote non oecumenica,
+          <lb ed="#G" n="10"/>non habuit vires Sanctionis Ephesinae antiquandae.
+        </p>
+        <p xml:id="cax7ya-d1e423-d1e1446">
+          <lb ed="#G" n="11"/>Haec jam satis de additamento. Ubi hoc
+          po<lb ed="#G" n="12" break="no"/>stremo notandum est, adeo impudentes, vel, quod
+          <lb ed="#G" n="13"/>verius est, rudes &amp; stolidos quosdam ex Latinis
+          <lb ed="#G" n="14"/>fuisse, ut non a se additum illud Filioque, sed a
+          <lb ed="#G" n="15"/>nobis erasum esse ex symbolo, dicere non
+          vereren<lb ed="#G" n="16" break="no"/>tur. Prae ceteris eminuit in hac stultitia
+          Hum<lb ed="#G" n="17" break="no"/>bertus Cardinalis Leonis IX. Papae
+          Constantino<lb ed="#G" n="18" break="no"/>polim legatus, atque adeo Dominus ipsius Papa
+          <lb ed="#G" n="19"/>ille, (nam ab eo instructus fuit) hic enim
+          Constan<lb ed="#G" n="20" break="no"/>tinopoli male exceptus a Michaele Cerulario
+          Pa<lb ed="#G" n="21" break="no"/>triarcha, anathema in ipsum &amp; ceteros Graecos
+          pro<lb ed="#G" n="22" break="no"/>jecit; ubi inter alia, vocat eos pneumatomachos,
+          <lb ed="#G" n="23"/>eo, quod Filioque ex symbolo eraserint. Cur
+          er<lb ed="#G" n="24" break="no"/>go alii Latini praecipue Florentini Patres
+          conten<lb ed="#G" n="25" break="no"/>dunt se jure additamentum illud adjecisse? Ito
+          Le<lb ed="#G" n="26" break="no"/>ctor, &amp; satis mirare hanc vecordiam
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

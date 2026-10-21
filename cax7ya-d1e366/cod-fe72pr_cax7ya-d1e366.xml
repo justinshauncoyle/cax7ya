@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 16</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 16</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="323"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e366">
+        <head xml:id="cax7ya-d1e366-Hd1e108">Caput 16</head>
+        <head xml:id="cax7ya-d1e366-Hd1e110" type="question-title">Obiter disserit, quid Latini de Graecorum more corrumpendi libros ganniant: et aliis insuper corruptelis libido ipsorum falsaria compugnigitur</head>
+        <p xml:id="cax7ya-d1e366-d1e113">
+          <pb ed="#G" n="323"/><lb ed="#G" n="1"/>CAPVT.XVI.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e119">
+          <lb ed="#G" n="2"/>Obiter disseritur, quid Latimi de
+          Grae<lb ed="#G" n="3" break="no"/>corum more corrumpendi libros
+          ganni<lb ed="#G" n="4" break="no"/>ant: &amp; aliis insuper corruptelis libido
+          <lb ed="#G" n="5"/>ipsorum falsaria compungitur.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e130">
+          <lb ed="#G" n="6"/>§. 285.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e136">
+          <lb ed="#G" n="7"/>Noc quidem caput inscripsit saltim auctor, sed non
+          <lb ed="#G" n="8"/>LI pertractavit: pertractaturum autem se promisit,
+          quan<lb ed="#G" n="9" break="no"/>do librum, quem ille expectabat, nactus fuisset.
+          Quoni<lb ed="#G" n="10" break="no"/>am vero habeo non nulla, quae ad lacunam hanc
+          quomo<lb ed="#G" n="11" break="no"/>docunque supplendam non nihil facere mihi videntur:
+          id<lb ed="#G" n="12" break="no"/>circo ea cum his, qui forte hac de re aliquid scire cupient,
+          <lb ed="#G" n="13"/>breviter communicanda putavi; plura &amp; meliora
+          exspecta<lb ed="#G" n="14" break="no"/>turus ab iis, quibus nec harum rerum peritia nec facultas
+          <lb ed="#G" n="15"/>scribendi nec tempus deest.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e158">
+          <lb ed="#G" n="16"/>§. 286.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e163">
+          <lb ed="#G" n="17"/>Ex professo quidem &amp; peculiari opere nullus
+          Latino<lb ed="#G" n="18" break="no"/>rum, quantum ego scio, adgressus est Graecos, ut
+          illo<lb ed="#G" n="19" break="no"/>rum artem corrumpendi libros detegeret, &amp; multis iisque
+          <lb ed="#G" n="20"/>gravibus exemplis materiam hanc illustraret: Sed tantum
+          <lb ed="#G" n="21"/>obiter, alia scilicet tractando, non unus aut alter, imo
+          <lb ed="#G" n="22"/>multi Latini corruptionem librorum Graecis objecerunt,
+          <lb ed="#G" n="23"/>eomue ut primos, praccipuos ac simul pcritissimos talium
+          <pb ed="#G" n="324"/><lb ed="#G" n="1"/>depravationum artifices esse, aliis persuadere voluerunt.
+          <lb ed="#G" n="2"/>Omnium, qui ita de Graecis locuti sunt, verba hic
+          addu<lb ed="#G" n="3" break="no"/>cere nec vacat nec juvat. Sufficiet vero, si quosdam
+          tan<lb ed="#G" n="4" break="no"/>tum eosque praecipuos digito quasi indicabimus. 1
+          Pri<lb ed="#G" n="5" break="no"/>mo ANASTASIVS Bibliothecarius in praefatione ad
+          <lb ed="#G" n="6"/>octavam synodum, quam Latini oecumenicam vocant,
+          <lb ed="#G" n="7"/>contra Photium habitam, acerrime in Graecorum mores
+          <lb ed="#G" n="8"/>invectus est, &amp; non solum hujus VIII. synodi acta, sed
+          <lb ed="#G" n="9"/>omnia etiam concilia, nullo nisi primo excepto, Graecos
+          <lb ed="#G" n="10"/>depravasse adfirmavit; ac inter alia haec etiam dixit:
+          fa<lb ed="#G" n="11" break="no"/>miliaris est illis ista praesumptio &amp; singularis
+          quodammo<lb ed="#G" n="12" break="no"/>do ambitionis indicium.&amp; E regione vero horum
+          ver<lb ed="#G" n="13" break="no"/>borum Baronius aut alius quis Latinus ita in margine
+          adno<lb ed="#G" n="14" break="no"/>tavit: peculiare est Graecis falsare synodos. 2) Deinde
+          <lb ed="#G" n="15"/>RARONIVS ipse juratus Graecorum hostis cum integram
+          <lb ed="#G" n="16"/>paene Anastasii illius interpolati praefationem retulit,
+          con<lb ed="#G" n="17" break="no"/>vertit sese ad lectorem &amp; ita peroravit: ex quibus certe
+          <lb ed="#G" n="18"/>babes, quod vebementer admireris, quorsum aduersum
+          <lb ed="#G" n="19"/>Romanam ecclesiam progressus sit Graecorum furor, haud
+          <lb ed="#G" n="20"/>dico schismaticorum, sed orthodoxorum, gloriae
+          Latino<lb ed="#G" n="21" break="no"/>rum invidentium. Quodsi ista fiunt in viridi ligno, in
+          <lb ed="#G" n="22"/>arido quid sict? Sed quum Baronio non aliud annalium
+          <lb ed="#G" n="23"/>scribendorum propositum erat, quam ut Papae primatum
+          <lb ed="#G" n="24"/>&amp; super omnes potestatem quibusvis artibus, &amp;
+          mentien<lb ed="#G" n="25" break="no"/>do, &amp; decipiendo, &amp; oblatrando stabiliret, tum non est
+          <lb ed="#G" n="26"/>mirum, quod ita tractet Graecos, qui primi omnium
+          im<lb ed="#G" n="27" break="no"/>mani illi Papatus dominationi sese opposuerunt. Haec
+          <lb ed="#G" n="28"/>ratio est, quod aliis etiam multis in locis acerrime in eos
+          <lb ed="#G" n="29"/>invehatur; &amp; sic ubi invenit antiquum Scriptorem
+          grae<lb ed="#G" n="30" break="no"/>cum, qui expressis verbis erroneae Latinorum doctrinae
+          <pb ed="#G" n="325"/><lb ed="#G" n="1"/>adversetur, mox eo solo utatur effugio corruptus, inquit,
+          <lb ed="#G" n="2"/>est locus a Graecis schismaticis. 3) Sed ante Baronium
+          <lb ed="#G" n="3"/>adhuc in synodo Florentina, disputator ille Ioannes, dum
+          <lb ed="#G" n="4"/>ad clara Graecorum testimonia nihil haberet, quod
+          respon<lb ed="#G" n="5" break="no"/>deret, saepius confugit ad hanc vocem: corruptus est a
+          <lb ed="#G" n="6"/>Graccis locus; quamquam ipse potius corrupta &amp;
+          adul<lb ed="#G" n="7" break="no"/>terina proferret, ut &amp; tunc a Graecis bene ostensum fuit,
+          <lb ed="#G" n="8"/>&amp; postea ab aliis evictum. 4) Hoc loco non est
+          praete<lb ed="#G" n="9" break="no"/>reundus LEO Allatius, acerrimus &amp; simul effrons
+          Latina<lb ed="#G" n="10" break="no"/>rum partium propugnator. Ille enim quaecunque in
+          scri<lb ed="#G" n="11" break="no"/>ptis Graecorum reperit, quae ad caussam suam tuendam
+          <lb ed="#G" n="12"/>minime facerent, aut prorsus ipsi adversarentur, statim in
+          <lb ed="#G" n="13"/>ore habuit, aut esse corrupta, aut a Graecis consicta. Et
+          <lb ed="#G" n="14"/>huiusmodi cavillationibus totus eius liber de perpetua
+          ori<lb ed="#G" n="15" break="no"/>entalis &amp; occidentalis Ecclesiae consensione, repletus est.
+          <lb ed="#G" n="16"/>Exempla ex Allatio proferre esset prolixum. Qui cupit
+          <lb ed="#G" n="17"/>ea videre, evolvat illum mendaciis, fraudibus &amp; nugis
+          re<lb ed="#G" n="18" break="no"/>fertissimum libellum d).5) His addam unum adhuc
+          <lb ed="#G" n="19"/>Scriptorem Latinum, IACOBVM nempe URETSERVM,
+          <lb ed="#G" n="20"/>qui ubi multa corruptelarum in Scriptis Patrum ab haereticis
+          <lb ed="#G" n="21"/>perpetratarum exempla recensuit, tandem de miseris
+          Grae<lb ed="#G" n="22" break="no"/>cis haec subdidit cap. IV. p. 119.  Simili fraude
+          versa<lb ed="#G" n="23" break="no"/>ti sunt recentiores Graeci in multorum Patrum libris,
+          post<lb ed="#G" n="24" break="no"/>am cum Latinis de non nullis quaestionibus contendere
+          <lb ed="#G" n="25"/>instituerunt: quorum improbitas non semel in concilio
+          Flo<lb ed="#G" n="26" break="no"/>rentino &amp; alibi detecta est. Verum Gretserus sicut alios
+          <lb ed="#G" n="27"/>partibus suis non addictos falsissime ibidem huius
+          facino<lb ed="#G" n="28" break="no"/>ris accusat: ita etiam Graecos objurgat iniquissime. Nam
+          <pb ed="#G" n="326"/><lb ed="#G" n="1"/>neque exemplum ullum adducit, neque tempus aut locum
+          <lb ed="#G" n="2"/>ostendit, ubi &amp; quando Graeci libros Patrum malevole
+          <lb ed="#G" n="3"/>corruperint. Quod vero de Synodo Florentina dicat, hoc
+          <lb ed="#G" n="4"/>sola loannis rabulae cavillatione nititur; ad quam egregie
+          <lb ed="#G" n="5"/>pro Graecis respondit DALLEVS, dicens, de Nestorianis
+          <lb ed="#G" n="6"/>ea, quae Latini Graecis objecerunt, agi, non vero de
+          <lb ed="#G" n="7"/>omnibus orientalibus, multo minus de Ecclesia graeca).
+          <lb ed="#G" n="8"/>6 Praeter memoratos papalis dominatus promotores,
+          mul<lb ed="#G" n="9" break="no"/>ti etiam ex iis, qui Patrum scripta typis evulgant, Curiae
+          <lb ed="#G" n="10"/>romanae addicti, ubi in codice aliquo aut editione
+          anti<lb ed="#G" n="11" break="no"/>qua reperiunt locum doctrinae Latinorum non faventem,
+          <lb ed="#G" n="12"/>mox vel in praefatione vel sub textu adnotant,
+          deprava<lb ed="#G" n="13" break="no"/>tum esse a Graecis. Ita editores operum Graegorii
+          Ma<lb ed="#G" n="14" break="no"/>gni Romanenses &amp; Benedictini ad locum illum Dialog.
+          <lb ed="#G" n="15"/>libr. II. capite ultimo exstantem, nihilque in versione
+          grae<lb ed="#G" n="16" break="no"/>ca de processione Spiritus Sancti a Filio habentem,
+          dixe<lb ed="#G" n="17" break="no"/>runt a Graecis postea Lachariae Papae versionem fuisse
+          <lb ed="#G" n="18"/>depravatam: &amp; hoc suum dictum fulciunt testimonio
+          Io<lb ed="#G" n="19" break="no"/>annis Diaconi g). Sed quemadmodum Ioannis illius
+          vi<lb ed="#G" n="20" break="no"/>tas Pontificum, Latini ad sententiam suam expurgarunt,
+          <lb ed="#G" n="21"/>multa detraxerunt, multa ctiam inseruerunt, sicut Auctor
+          <lb ed="#G" n="22"/>ipse supra Sanct. 267. ad hoc Ioannis Diaconi testimonium
+          be<lb ed="#G" n="23" break="no"/>ne respondit: ita Graegorii quoque Magni textum
+          Lati<lb ed="#G" n="24" break="no"/>num ubique ad palatum suum efformarunt. Id quod iam
+          <lb ed="#G" n="25"/>pridem TNOMAS Iamesius anglus monstravit, edito
+          sin<lb ed="#G" n="26" break="no"/>gulari libelloh. Huc spectat etiam PETAVIVS,
+          <lb ed="#G" n="27"/>qui obiectionem ex 68. canone Apostolorum adversus
+          Ie<lb ed="#G" n="28" break="no"/>junium Sabbati, quod in ecclesia romana observatur,
+          pe<lb ed="#G" n="29" break="no"/>titam sic solvit: tamquam Spurius &amp; alienus Canon ille
+          <pb ed="#G" n="327"/><lb ed="#G" n="1"/>reiicitur, nam ab otiosi Graeculis verba sunt
+          intertex<lb ed="#G" n="2" break="no"/>ta i). Haec &amp; alia his similia sunt fere innumera, quae
+          <lb ed="#G" n="3"/>a Latinis de Graecis passim dicuntur. Nihil enim est
+          so<lb ed="#G" n="4" break="no"/>lemnius Latinis, quam dicere, scripta Patrum esse
+          cor<lb ed="#G" n="5" break="no"/>rupta, ubi scilicet aperte illorum opinioni adversentur.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e385">
+          <lb ed="#G" n="6"/>§. 237.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e390">
+          <lb ed="#G" n="7"/>Verum enim vero haec Latinorum consuetudo audax
+          <lb ed="#G" n="8"/>admodum &amp; temeraria esse mihi videtur, eam praccipue
+          <lb ed="#G" n="9"/>ob caussam, quod omni plane fundamento destituatur.
+          <lb ed="#G" n="10"/>Equidem non inficior, exstitisse forte unum vel alterum
+          <lb ed="#G" n="11"/>Graecum, qui hunc aut illum locum in Scriptore aliquo
+          <lb ed="#G" n="12"/>vel per oscitantiam vel per ignorantiam, vel, ut hoc etiam
+          <lb ed="#G" n="13"/>concedam, non bono animo mutavit unquam, aut, si
+          <lb ed="#G" n="14"/>placet latinis, etiam depravavit. Ast omnia ea loca, quae
+          <lb ed="#G" n="15"/>Latinis non favent, a Graecis corrupta esse, persuadere
+          <lb ed="#G" n="16"/>mihi nullo modo possum. Primo enim ostendant mihi
+          <lb ed="#G" n="17"/>Latini ex historico quodam probo &amp; fide digno, quo
+          <lb ed="#G" n="18"/>tempore, ubi &amp; quibus modis Graeci tam horrendam
+          Pa<lb ed="#G" n="19" break="no"/>trum corruptionem perpetrarint, ita, ut omnes codices,
+          <lb ed="#G" n="20"/>quotquot in Vaticana etiam Bibliotheca reperiuntur,
+          vio<lb ed="#G" n="21" break="no"/>lentas Graecorum manus non effugerent? fuitne
+          um<lb ed="#G" n="22" break="no"/>quam tempus, quo Graeci omncs inter sese conspirarent;
+          <lb ed="#G" n="23"/>&amp; codices non solum in tota Graecia, sed &amp; in
+          regioni<lb ed="#G" n="24" break="no"/>bus papali dominio subjectis exstantes universos
+          deprava<lb ed="#G" n="25" break="no"/>rent? Habueruntne Graeci Romam unquam a se
+          expu<lb ed="#G" n="26" break="no"/>gnatam, ut Latini sub Balduino Constantinopolim, &amp;
+          te<lb ed="#G" n="27" break="no"/>nueruntne eam tot annos in sua ditione? adeoque eo
+          <lb ed="#G" n="28"/>forte tempore in Bibliothecas irruperunt, loca Latinis
+          fa<lb ed="#G" n="29" break="no"/>ventia omnia eraserunt, &amp; non faventia intruserunt? Hoc
+          <lb ed="#G" n="30"/>quidem de Latinis credere possumus, praesertim cum,
+          fer<pb ed="#G" n="328"/><lb ed="#G" n="1" break="no"/>vente iam illos inter &amp; Graecos controversia,
+          constanti<lb ed="#G" n="2" break="no"/>nopolim obsederint, vi expugnaverint, domos &amp; Sacras
+          <lb ed="#G" n="3"/>aedes diripuerint, ac nec Bibliothecis forte tunc pepercerint;
+          <lb ed="#G" n="4"/>hoc, inquam, de latinis credere possumus, sed tamen, quia
+          <lb ed="#G" n="5"/>historici tacent, pro certo affirmare non audemus. De
+          <lb ed="#G" n="6"/>Graecis vero &amp; cogitare quidem huiusmodi aliquid
+          teme<lb ed="#G" n="7" break="no"/>rarium est. Deinde num Graeci conquisitis undequaque
+          <lb ed="#G" n="8"/>codicibus tantam illorum collationem instituerunt, ac ad
+          <lb ed="#G" n="9"/>suum sensum efformatos tandem in lucem protraxerunt,
+          <lb ed="#G" n="10"/>quemadmodum fecere Latini, ut postea videbimus? An
+          <lb ed="#G" n="11"/>Graeci edendis etiam Patrum scriptis tantam curam
+          adhi<lb ed="#G" n="12" break="no"/>buerunt, quantam Pontifices Romani, qui tot praescriptis
+          <lb ed="#G" n="13"/>regulis studiosissime caverunt, ne ullus sive recens sive
+          <lb ed="#G" n="14"/>antiquus liber sine censura inquisitorum &amp; expurgatorum
+          <lb ed="#G" n="15"/>typis excuderetur? Haec certe de Larinis notissima res est:
+          <lb ed="#G" n="16"/>de Graecis vero si quis dicet, pro rudissimo omnino
+          ha<lb ed="#G" n="17" break="no"/>bendus erit. Praeterea sunt non nulli cordatiores Latini,
+          <lb ed="#G" n="18"/>qui cx professo de corruptelis Patrum perfidia
+          Haeretico<lb ed="#G" n="19" break="no"/>rum perpetratis scripserunt, ac omnia quidem Secula a
+          <lb ed="#G" n="20"/>christo nato ad nostra usque tempora percurrendo, multa
+          <lb ed="#G" n="21"/>depravationum exempla collegerunt: de tam atroci tamen
+          <lb ed="#G" n="22"/>a Graecis instituta Librorum corruptione nullam
+          mentio<lb ed="#G" n="23" break="no"/>nem fecerunt. Quod nequaquam omisissent, si de eo
+          ali<lb ed="#G" n="24" break="no"/>quid scivissent. Perlege, si placet, BARTHOLOMEI
+          <lb ed="#G" n="25"/>GERMONIS librum de veteribus Haereticis
+          ecclesiastico<lb ed="#G" n="26" break="no"/>rum codicum corruptoribus; nihil certe hac de re in eo
+          <lb ed="#G" n="27"/>reperies. Evolve adhuc Benedictinorum Scriptum de rc
+          <lb ed="#G" n="28"/>Diplomatica ubi per omnia secula, incipiendo a primo
+          <lb ed="#G" n="29"/>usque ad nostrum, interpolatores Diplomatum &amp; etiam
+          <lb ed="#G" n="30"/>codicum studiose conquisiverunt: non tamen Graecos
+          <pb ed="#G" n="329"/><lb ed="#G" n="1"/>tanti facinoris accusarunt, excepto uno vel altero,
+          qua<lb ed="#G" n="2" break="no"/>les &amp; inter suos permultos repererunt. Quo ergo
+          <lb ed="#G" n="3"/>iure non nulli Latini morem corrumpendi libros
+          Grae<lb ed="#G" n="4" break="no"/>cis obiiciant, plane non video.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e521">
+          <lb ed="#G" n="5"/>§. 283.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e527">
+          <lb ed="#G" n="6"/>Dicent fortassis Photium Patriarcham
+          Constantinopo<lb ed="#G" n="7" break="no"/>litanum fuisse non imperitum talium depravationum
+          arti<lb ed="#G" n="8" break="no"/>ficem, ut &amp; omnino dicunt; quemadmodum supra §. 104.
+          <lb ed="#G" n="9"/>ad locum Gregorii M. vidimus, &amp; apud memoratum
+          Ger<lb ed="#G" n="10" break="no"/>monium Iesuitam ac Benedictinos m) non nulla
+          legi<lb ed="#G" n="11" break="no"/>mus. Sed fuerit Photius talis, qualem Latini eum nobis
+          <lb ed="#G" n="12"/>depingunt: Suntne ergo omnes Graeci tales? Verum
+          <lb ed="#G" n="13"/>nec Photio tantam corrumpendi libros artem obiici posse
+          <lb ed="#G" n="14"/>existimo. Qui enim fieri potuit, ut unus homo, tot
+          obru<lb ed="#G" n="15" break="no"/>tus negotiis, tot difficultatibus oppressus, tot undique
+          ho<lb ed="#G" n="16" break="no"/>stibus circumdatus, non semel etiam in exilium actus, &amp;
+          <lb ed="#G" n="17"/>tam brevi tempore omnes Patrum codices corruperit?
+          <lb ed="#G" n="18"/>Praeterea nec Anastasius ille, quem nobis Latini veluti
+          te<lb ed="#G" n="19" break="no"/>stem quemdam omni fide dignum obtrudunt, haec de
+          Pho<lb ed="#G" n="20" break="no"/>tio dicit: Sed, si scriptis illis sub Anastasii nomine
+          exstan<lb ed="#G" n="21" break="no"/>tibus credendum est, monet saltim, ne major actis Synodi
+          <lb ed="#G" n="22"/>octavae Graecis, quam iis, quae ille latine reddidit, fides
+          <lb ed="#G" n="23"/>habeatur; praeterea nihil. Ad haec, ut Baronius, ita &amp; illi
+          <lb ed="#G" n="24"/>memorati Scriptores, Germonius &amp; Benedictini, non
+          ali<lb ed="#G" n="25" break="no"/>ud falsationis photianae exemplum adducunt, quam
+          Nico<lb ed="#G" n="26" break="no"/>lai I. Papae, Ioannis VIII. &amp; Hadriani II. epistolas, &amp;
+          <lb ed="#G" n="27"/>adhuc Synodum contra Ignatium celebratam, quam
+          Grae<pb ed="#G" n="330"/><lb ed="#G" n="1" break="no"/>ci octavam vocant: haec, inquiunt, a Photio adulterata
+          <lb ed="#G" n="2"/>sunt. Si vero haec etiam fuerint adulterata, ut interim
+          <lb ed="#G" n="3"/>hoc Latinis concedamus, an Photius ita crat describendus,
+          <lb ed="#G" n="4"/>quemadmodum Baronius eum descripsit? arbor, inquit,
+          <lb ed="#G" n="5"/>infructuosa, falce Apostolica succidenda, Simulator,
+          by<lb ed="#G" n="6" break="no"/>pocrita, raptor, lupus, grassator, quique demum per
+          an<lb ed="#G" n="7" break="no"/>tipbrasim Photius nominatur, non secus ac princeps
+          tene<lb ed="#G" n="8" break="no"/>brarum Lucifer, pessimus omnium Daemon n). Nescio,
+          <lb ed="#G" n="9"/>num mentis fuerit sanae Baronius, dum haec scriberet,
+          <lb ed="#G" n="10"/>an prorsus illa captus? Etenim si Photium, qui tres
+          tan<lb ed="#G" n="11" break="no"/>tum epistolas, ut latini venditant, vitiavit, &amp; Synodum
+          <lb ed="#G" n="12"/>adhuc pro suo lubitu conscribi curavit, Baronius ita
+          depin<lb ed="#G" n="13" break="no"/>xit, quot certe &amp; quibus nominibus dignus erit ipse
+          Baro<lb ed="#G" n="14" break="no"/>nius, qui non tres epistolas adulteravit, sed innumeras,
+          <lb ed="#G" n="15"/>non uuius Synodi acta depravavit, sed plurium, non
+          <lb ed="#G" n="16"/>unius tantum aut alterius antiquorum Patrum, sed bene
+          <lb ed="#G" n="17"/>multorum scripta pervertit, in suam sententiam detorsit,
+          mul<lb ed="#G" n="18" break="no"/>ta in illis mutavit, multa de suo ingenio addidit, vera
+          sup<lb ed="#G" n="19" break="no"/>pressit, &amp; falsa honestis nominibus ornavit; qui, inquam,
+          <lb ed="#G" n="20"/>haec fecit, pro quo, quaeso te, qualive habendus est? Ego
+          <lb ed="#G" n="21"/>quidem ipse decernere nolo, sed aliis eruditioribus
+          Sen<lb ed="#G" n="22" break="no"/>tentiam relinquo. Hoc tantum dico, quod quaecunque
+          <lb ed="#G" n="23"/>Photio Latini cxprobrare solent, ea &amp; levia sint, &amp; soli
+          <lb ed="#G" n="24"/>tantum Papae noceant, quippe quae immanem ejus
+          po<lb ed="#G" n="25" break="no"/>testatem &amp; insolentiam praecidunt; &amp; praeterea non nisi
+          <lb ed="#G" n="26"/>dubio ac multis in locis ad palatum curiae romanae
+          inter<lb ed="#G" n="27" break="no"/>polato Anastasii Pibliothecarii Scripto atque non nullis
+          <lb ed="#G" n="28"/>Nicolai I. papae, Ioannis VIII. &amp; Hadriani II. sublestae
+          <lb ed="#G" n="29"/>fidei epistolis fundentur o. Quae vero a Baronio
+          habe<pb ed="#G" n="331"/><lb ed="#G" n="1" break="no"/>mus conficta &amp; adulterata, ea quod talia sint, nulla
+          indi<lb ed="#G" n="2" break="no"/>gent nova probatione: multis enim voluminibus ab a iis
+          <lb ed="#G" n="3"/>jam ostensum est; &amp; praeterea non paucis, sed infinitae
+          <lb ed="#G" n="4"/>paene hominum multitudini nocuerunt &amp; nunc adhuc
+          no<lb ed="#G" n="5" break="no"/>cent. Quanquam enim luce meridiana clarius jam viri
+          <lb ed="#G" n="6"/>eruditi ostenderunt, Baronii annales nugarum &amp; fraudum
+          <lb ed="#G" n="7"/>esse plenissimos, nihilominus tamen multi ad tantam
+          la<lb ed="#G" n="8" break="no"/>cem coecutiunt, &amp; omnia, quae a Baronio profecta sunt,
+          <lb ed="#G" n="9"/>tamquam vera &amp; Sancta venerantur &amp; exosculantur, nec
+          <pb ed="#G" n="332"/><lb ed="#G" n="1"/>unguem ab iis recedere volunt. Miror, vero, quinimo
+          <lb ed="#G" n="2"/>vehementer doleo, quod multi exquisitae etiam
+          eruditio<lb ed="#G" n="3" break="no"/>nis viri ab errore hoc non sint liberi. Sed quid miremur,
+          <lb ed="#G" n="4"/>cum quo semel est imbuta recens, servabit odorem testa
+          <lb ed="#G" n="5"/>diu; ut ait Horatius. Mittamus igitur has Latinorum
+          <lb ed="#G" n="6"/>ab invidia &amp; odio in Graecos profectas cavillationes, &amp;
+          vi<lb ed="#G" n="7" break="no"/>deamus multo veriora, quae Latinis ipsis de more
+          corrum<lb ed="#G" n="8" break="no"/>pendi libros obiiciantur; neque haec omni plane
+          argumen<lb ed="#G" n="9" break="no"/>to destituntur.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e683">
+          <lb ed="#G" n="10"/>§. 289.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e688">
+          <lb ed="#G" n="11"/>Quum nimirum Latini eam de Graecis, quam iam
+          <lb ed="#G" n="12"/>vidimus, suspicionem conceperint, &amp; praeterea quasdam
+          <lb ed="#G" n="13"/>Patrum querelas, quod Scripta eorum ab Haereticis
+          de<lb ed="#G" n="14" break="no"/>pravata sint, repererint; ac insuper clara sibi ex
+          monu<lb ed="#G" n="15" break="no"/>mentis antiquis testimonia ad evertenda ea, quae jam
+          se<lb ed="#G" n="16" break="no"/>mel docere coeperunt, ab aliis opponi viderint: non bene
+          <lb ed="#G" n="17"/>securos se ac tutos fore putarunt, si vetusti codices ita,
+          <lb ed="#G" n="18"/>ut sunt, in lucem prodeant. Quid ergo fecerunt?
+          Per<lb ed="#G" n="19" break="no"/>suaserunt Pontificibus suis, ut nulla veterum scripta absque
+          <lb ed="#G" n="20"/>censura, correctione &amp; expurgatione delectorum ad id
+          ho<lb ed="#G" n="21" break="no"/>minum in vulgus exire paterentur. Cuius rei gratia
+          Pon<lb ed="#G" n="22" break="no"/>tifices Romani, praecipue Pius V. Georgius III. &amp; Sixtus V.
+          <lb ed="#G" n="23"/>jusserunt confici indices nescio quos prohibitorios,
+          expur<lb ed="#G" n="24" break="no"/>gatorios &amp;, ut ipsi vocant, abolitorios noxiorum librorum.
+          <lb ed="#G" n="25"/>Qui indices primum non dum ita perfecti erant, ut
+          de<lb ed="#G" n="26" break="no"/>berent; quemadmodum quodlibet opus in initio suo
+          im<lb ed="#G" n="27" break="no"/>perfectum est: adeoque anno 1596. Clemens VIII. delecto
+          <lb ed="#G" n="28"/>7. Cardinalium Collegio &amp; aliis curiae romanae viris
+          do<lb ed="#G" n="29" break="no"/>ctis in consilium adhibitis, magnum prohibendorum &amp;
+          <lb ed="#G" n="30"/>expurgandorum librorum indicem conficiendum curavit,
+          <lb ed="#G" n="31"/>praescriptis etiam regulis: vbi capite de correctione
+          Libro<lb ed="#G" n="32" break="no"/>rum Soct. I. statutum est: vt episcopi &amp; inquisitores
+          con<pb ed="#G" n="333"/><lb ed="#G" n="1" break="no"/>junctim habeant facultatem, quoscunque Libros
+          iuxtaprae<lb ed="#G" n="2" break="no"/>scriptum huius indicis, etiam in locis exemptis expurgam
+          <lb ed="#G" n="3"/>di, hancque Librorum expurgationem non nisi viris
+          eru<lb ed="#G" n="4" break="no"/>ditione &amp; pietate insignibus committendam esse. Sectione
+          <lb ed="#G" n="5"/>vero II. haec inter alia a correctoribus expurganda
+          decer<lb ed="#G" n="6" break="no"/>nuntur; videl. propositiones haereticae, erroneae,
+          haere<lb ed="#G" n="7" break="no"/>sim sapientes, scandalosae, piarum aurium offensivae,
+          te<lb ed="#G" n="8" break="no"/>merariae etc. verba item dubia &amp; ambigua, quae
+          legen<lb ed="#G" n="9" break="no"/>tium animos a recto Catholicoque sensu ad nefarias
+          opinio<lb ed="#G" n="10" break="no"/>nes adducere possunt. etc. Huiusmodi vero indices
+          pro<lb ed="#G" n="11" break="no"/>hibitorii &amp; expurgatorii non solum in Italia &amp; regno
+          Ne<lb ed="#G" n="12" break="no"/>apolitano, sed etiam in Hispania, Portugallia, Francia,
+          <lb ed="#G" n="13"/>Belgio, Germania &amp; in aliis Papam venerantibus oris
+          con<lb ed="#G" n="14" break="no"/>cinnati sunt o). Atque Secundum hos indices non solum
+          <lb ed="#G" n="15"/>recentes novique Libri, sed &amp; antiqui, Patrumque
+          prae<lb ed="#G" n="16" break="no"/>cipue Scripta omnia ad palatum Pontificis maximi
+          corrige<lb ed="#G" n="17" break="no"/>bantur, expurgabantur, noxii vero Latinis prorsus
+          suppri<lb ed="#G" n="18" break="no"/>mebantur. Et pestis haec non in monumenta modo iam
+          <lb ed="#G" n="19"/>typis excusa, sed in manuscriptos etiam codices grassata
+          <lb ed="#G" n="20"/>est. Hinc factum, quod Patres antiqui, manibus
+          Roma<lb ed="#G" n="21" break="no"/>nensium tractati ac in Lucem emissi, ubique ferme Latinis
+          <lb ed="#G" n="22"/>consentiant, aut saltim e diametro cum ipsis non pugnent.
+          <lb ed="#G" n="23"/>Hoc Papicolarum institutum quot &amp; quanta damna
+          gene<lb ed="#G" n="24" break="no"/>ri humano intulerit, haud dici, ne dum enarrari potest.
+          <lb ed="#G" n="25"/>Huiusmodi vero damna fortassis viri ingenui praevenirent,
+          <lb ed="#G" n="26"/>nisi callide &amp; dolo occulto ad ea producenda itum esset.
+          <lb ed="#G" n="27"/>Nam institutum illud diu paucis erat cognitum, inter
+          do<pb ed="#G" n="334"/><lb ed="#G" n="1" break="no"/>mesticos tantum Censorum parietes conclusum, &amp; longo
+          <lb ed="#G" n="2"/>tempore exercebatur clanculum. Postquam vero arcanum
+          <lb ed="#G" n="3"/>hoc FRANCISCVS IVNIVS detexit, in lucem protracto
+          iudi<lb ed="#G" n="4" break="no"/>cs Belgico, Philippi Hispaniarum Regis Auctoritate
+          con<lb ed="#G" n="5" break="no"/>fecto p): totus tunc eruditorum obstupuit orbis. Sed
+          ta<lb ed="#G" n="6" break="no"/>men Latini nequaquam erubuerunt: quinimo inventi
+          <lb ed="#G" n="7"/>sunt, qui illud institutum tamquam bonum &amp; laudabile,
+          <lb ed="#G" n="8"/>eiusque auctores &amp; executores veluti de mortalibus
+          opti<lb ed="#G" n="9" break="no"/>mc meritos defenderent. Ex eiusmodi defensoribus
+          prae<lb ed="#G" n="10" break="no"/>cipuus erat IACORVS GRETSERVS Iesuita, qui duos libros
+          <lb ed="#G" n="11"/>de iurc &amp; morc probibendi, expurgandi &amp; abolendi libros
+          <lb ed="#G" n="12"/>haereticos ac noxios, cdidit Ingolstad. ann 1603. &amp; postea
+          <lb ed="#G" n="13"/>duas adhuc partes Supplementi loco evulgavit 4). Sed
+          <lb ed="#G" n="14"/>quo magis Gretserus pravam suorum caussam tueri
+          cona<lb ed="#G" n="15" break="no"/>tus est, eo serverius in eum animadverterunt viri docti,
+          <lb ed="#G" n="16"/>qui egregie ei, ejusque similibus Larvam detraxerunt, &amp;
+          <lb ed="#G" n="17"/>facinus hoc ut horrendum, impium &amp; in Scripta Patrum
+          <lb ed="#G" n="18"/>injurium ostenderunt. Praeterea quaenam mala
+          in<lb ed="#G" n="19" break="no"/>de in genus humanum consecuta sint, innumeris
+          pae<lb ed="#G" n="20" break="no"/>ne exemplis demonstrarunt. Horum praecipui sunt
+          <lb ed="#G" n="21"/>sequentes: memoratus FRANCISCVS IVNIVS,)
+          Tuo<lb ed="#G" n="22" break="no"/>MAS IAMESIVS DANIEL FRANCVSt) CASPAR
+          LoE<pb ed="#G" n="335"/><lb ed="#G" n="1" break="no"/>SCHERVS u) IoAN. CONR. SCHARMIVS X), Ioh. Christ.
+          <lb ed="#G" n="2"/>Vendlerus y). Alii alia agendo multa ad hoc
+          argumen<lb ed="#G" n="3" break="no"/>tum illustrandum adtulerunt, sicut ANPREAS RIVETVS2,
+          <lb ed="#G" n="4"/>IOH. DALLAEVS a) GvIt. CAVEVS, atque alii o.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e857">
+          <lb ed="#G" n="5"/>§. 290.
+        </p>
+        <p xml:id="cax7ya-d1e366-d1e862">
+          <lb ed="#G" n="6"/>Quoniam igitur viri eruditi iam ante nos satis abunde
+          <lb ed="#G" n="7"/>praestiterunt ea, quae nobis hic ex auctoris proposito
+          agen<lb ed="#G" n="8" break="no"/>da essent: id circo non est necesse, ut multa alia
+          depra<lb ed="#G" n="9" break="no"/>vationum exempla in medium producamus, libidinemque
+          <lb ed="#G" n="10"/>Latinorum falsariam compungamus. Interim tamen hoc
+          <lb ed="#G" n="11"/>adnotemus velim, quod, si tantam Pontificii Librorum
+          <lb ed="#G" n="12"/>expurgationem instituerint, qui fieri posset, ut loca etiam
+          <lb ed="#G" n="13"/>de processione Spiritus Sancti agentia, intacta
+          remane<lb ed="#G" n="14" break="no"/>rent &amp; non potius ad mentem Latinorum corrigerentur,
+          <lb ed="#G" n="15"/>aut integri tractatus contra illos in hac materia evulgati
+          <lb ed="#G" n="16"/>non prorsus supprimerentur? Quinimo clara huius rei
+          ha<lb ed="#G" n="17" break="no"/>bemus testimonia. Legimus enim &amp; apud haronium ad ann.
+          <lb ed="#G" n="18"/>865. &amp; apud alios, Scripta quaedam Photii adversus Latinos,
+          <pb ed="#G" n="336"/><lb ed="#G" n="1"/>coram Pontifice maximo pedibus conculcata, igni tradita &amp;
+          <lb ed="#G" n="2"/>flammis exusta esse. Praeterea DANIEL FRANCVS, oculatus
+          <lb ed="#G" n="3"/>testis, qui ipse multos indices expurgatorios vidit, multa ex iis
+          <lb ed="#G" n="4"/>excerpsit, haec de non nullis recentiorum Graecorum Scriptis
+          <lb ed="#G" n="5"/>male tractatis fatetur: horribiliter expurgatores in
+          Bibliothe<lb ed="#G" n="6" break="no"/>cam istam (scilicet Patrum, de qua ibi agit) esse grassatos,
+          fi<lb ed="#G" n="7" break="no"/>dem faciunt Antonius Melissa Melito, Nicolaus Cabasilas,
+          <lb ed="#G" n="8"/>Marcus Archiepiscopus Ephesinus etc. c) qui nimirum
+          La<lb ed="#G" n="9" break="no"/>tinis Schismatici audiunt, quod contra eos scripserint.
+          <lb ed="#G" n="10"/>Quid multa? Bellarminus ipse de Antonii Melissae &amp;
+          Ni<lb ed="#G" n="11" break="no"/>colai Cabasilae Scriptis hanc tulit Sententiam d): exstant,
+          <lb ed="#G" n="12"/>inquit, hi libri (elissae) in Bibliotheca Sanctorum
+          Pa<lb ed="#G" n="13" break="no"/>trum tomo quinto editionis secundae, sed caute legendi sunt,
+          <lb ed="#G" n="14"/>quoniam ab haereticis latinitate donati &amp; impressi sunt.
+          <lb ed="#G" n="15"/>Si ergo a Latinis excusi essent, non certe iam illa
+          conti<lb ed="#G" n="16" break="no"/>nerent, quae Bellarminus cavenda praecipit. Haec ejus
+          <lb ed="#G" n="17"/>mens clarius patet ex altero loco, ubi de Cabosila agit:
+          <lb ed="#G" n="18"/>fuit, inquit, vir valde doctus, sed schismaticus, exstat
+          <lb ed="#G" n="19"/>cjus explicatio Liturgiae apud Bignacum in Bibliotheca
+          <lb ed="#G" n="20"/>Patrum tom. 6nctus edit. secundae, ex qua cap. 29. &amp; 3o. omnino
+          <lb ed="#G" n="21"/>expungenda essent, vel cautissime legenda. Videmus igitur,
+          <lb ed="#G" n="22"/>quot &amp; quibus artibus Latini usi sint, ad Scripta Patrum &amp;
+          <lb ed="#G" n="23"/>aliorum, qui ipsis adversantur, corrigenda, expurganda, imo
+          <lb ed="#G" n="24"/>&amp; supprimenda. Dum ergo Graecos hujus facinoris
+          ac<lb ed="#G" n="25" break="no"/>cusant, ipsi praecipue &amp; potiori jure istam infamiae notam
+          <lb ed="#G" n="26"/>ad se pertinere existiment? Et haec fortassis auctor capite
+          <lb ed="#G" n="27"/>hoc pertractare voluit: sed aut idoneis libris destitutus, aut
+          <lb ed="#G" n="28"/>aliam nescio quam ob caussam non pertractavit; nos vero pro
+          <lb ed="#G" n="29"/>viribus supplevimus. Iam tempus est, ut ad ipsos
+          au<lb ed="#G" n="30" break="no"/>ctoris labores pergamus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 11</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 11</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="205"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e270">
+        <head xml:id="cax7ya-d1e270-Hd1e108">Caput 11</head>
+        <head xml:id="cax7ya-d1e270-Hd1e110" type="question-title">Ad obiectionem latinorum sextam respondetur: et quidnam sibi velit dictum illud Christi de Spiritu Sancto: Non a semet ipso loquetur, sed quaecunque audiet, et cetera: et docetur ex dicto isto non sequi Spiritum Sanctum procedere a Filio</head>
+        <p xml:id="cax7ya-d1e270-d1e113">
+          <pb ed="#G" n="205"/><lb ed="#G" n="1"/>V AEVI. AI,
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e119">
+          <lb ed="#G" n="2"/>Ad objectionem Latinorum sextam
+          responde<lb ed="#G" n="3" break="no"/>tur, &amp; quidnam sibi velit dictum illud
+          <lb ed="#G" n="4"/>Christi de Spiritu sancto: non a semet
+          <lb ed="#G" n="5"/>iplo loquetur, Ied quaecunque
+          au<lb ed="#G" n="6" break="no"/>diet &amp; cet: &amp; docetur ex dicto isto non
+          <lb ed="#G" n="7"/>sequi Spiritum sauctum procedere a Pilio.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e135">
+          <lb ed="#G" n="8"/>§. 177.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e141">
+          <lb ed="#G" n="9"/>Dandem Latini illo Christi de Spiritu Sanctus dicto
+          <lb ed="#G" n="10"/>I Ioan. xVI.3. Non enim loquetur a semet ipso,
+          <lb ed="#G" n="11"/>sed quae audiet, loquetur, probatum eunt dogma
+          <lb ed="#G" n="12"/>suum, quod tamen ut efficiant, volunt in Textu
+          <lb ed="#G" n="13"/>illo: sed quae audiet, subintelligi a me, &amp; hoc
+          <lb ed="#G" n="14"/>probant inde, quia subdidit mox Christus: de meo
+          <lb ed="#G" n="15"/>accipiet. Hoc positio ita argumentantur:
+          scien<lb ed="#G" n="16" break="no"/>sia unius personae est idem cum persona in
+          Tri<lb ed="#G" n="17" break="no"/>nitate: sed audire est participare scientiam: ergo
+          <lb ed="#G" n="18"/>audire est participare personam, seu suum esse
+          hy<lb ed="#G" n="19" break="no"/>postaticum, seu semet ipsum. Cum igitur
+          Spi<lb ed="#G" n="20" break="no"/>ritus Sanctus audiat a Filio, participat esse suum ab
+          ip<lb ed="#G" n="21" break="no"/>so. Ad hoc nos respondemus.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e172">
+          <pb ed="#G" n="206"/><lb ed="#G" n="1"/>§. 178.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e178">
+          <lb ed="#G" n="2"/>I. Siquidem ipsi Latini fatentur illud: de meo
+          <lb ed="#G" n="3"/>accipiet, esse idem, aut saltem de eodem intelligi,
+          <lb ed="#G" n="4"/>atque illud primum: sed quod audiet, loquetur, cur
+          <lb ed="#G" n="5"/>quaeso hoc pro alio argumento habent? non alia
+          <lb ed="#G" n="6"/>scilicet caussa est, nisi, ut videantur multa pro se
+          <lb ed="#G" n="7"/>habere argumenta, quae indoles est inopum, &amp;
+          <lb ed="#G" n="8"/>caussae suae metuentium hominum.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e196">
+          <lb ed="#G" n="9"/>§. 179.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e201">
+          <lb ed="#G" n="10"/>II. Male autem volunt subintelligi, a me: nam
+          <lb ed="#G" n="11"/>ab eo audit Spiritus Sancts a quo accipit, at accipit
+          <lb ed="#G" n="12"/>a Patre, ut ex syllogismo Christi supra exposito
+          <lb ed="#G" n="13"/>patuit, ergo etiam a Patre audit. Quia vero illa,
+          <lb ed="#G" n="14"/>quae audit, sicuti &amp; quac accipit, paterna simul
+          <lb ed="#G" n="15"/>&amp; Filii sunt, &amp; ideo Filii, quia Paterna: omnia enim,
+          <lb ed="#G" n="16"/>inquit, quae habet Pater, mea sunt: Idcirco licet
+          <lb ed="#G" n="17"/>a Patre audit, ea tamen audit, quac sunt Filii
+          pro<lb ed="#G" n="18" break="no"/>pria.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e223">
+          <lb ed="#G" n="19"/>§. 180.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e229">
+          <lb ed="#G" n="20"/>III. Id ipsum vero rursus erat Arianorum olim
+          <lb ed="#G" n="21"/>argumentum; ut patet ex Augustino: quibus
+          re<lb ed="#G" n="22" break="no"/>spondens Augustinus lib. contra sermonem
+          Arria<lb ed="#G" n="23" break="no"/>norum, cap. 23. ait: Quod autem dictum est, non
+          <lb ed="#G" n="24"/>a se loquetur, non est dictum: quaecunque a me
+          au<lb ed="#G" n="25" break="no"/>dierit, sed quaecunque audierit, loquetur; cur
+          au<lb ed="#G" n="26" break="no"/>tem dictum sit, paulo ante jam claruit ex ipsius,
+          <lb ed="#G" n="27"/>quam commemoravi, Domini expositione, ubi ait:
+          <lb ed="#G" n="28"/>omnia, quae babet Pater, mea sunt, &amp; cet. Sic
+          vc<lb ed="#G" n="29" break="no"/>ro &amp; alii Patres sub illo: quae audiet,
+          subintel<lb ed="#G" n="30" break="no"/>ligunt &amp; exponunt, a Patre. ATHANASIVS
+          <pb ed="#G" n="207"/><lb ed="#G" n="1"/>Dial. 1. contra Macedon. BEDA commentario in
+          <lb ed="#G" n="2"/>loann. cap. xVI. ALBINVS Alcuinus comment.
+          <lb ed="#G" n="3"/>in Ioan. ad verba: non a semer, &amp; cet. Ita
+          funda<lb ed="#G" n="4" break="no"/>mentum Latinorum syllogisiui, quod scilicet sub
+          <lb ed="#G" n="5"/>illo: sed quae audiet, subintelligi debeat a me,
+          <lb ed="#G" n="6"/>disjectum est, atque adeo &amp; ipse syllogismus
+          cor<lb ed="#G" n="7" break="no"/>ruit. Sed addamus plura.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e272">
+          <lb ed="#G" n="8"/>§. 181.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e277">
+          <lb ed="#G" n="9"/>IV. Quoniam eadem sunt, quae audire, &amp;
+          <lb ed="#G" n="10"/>quae accipere dicitur Spiritus Sanctus ut &amp; ex contextu
+          <lb ed="#G" n="11"/>patet, &amp; fatentur Latini; ostendimus autem supra,
+          <lb ed="#G" n="12"/>illa, quae accipit, nihil esse aliud, nisi mysteria
+          oe<lb ed="#G" n="13" break="no"/>conomiae Christi, eventus varios, &amp; uno nomine,
+          <lb ed="#G" n="14"/>res ad gloriam Dei &amp; Christi in Ecclesia
+          pertinen<lb ed="#G" n="15" break="no"/>tes: ea utique ipsa sunt, quae &amp; audit, &amp; audita
+          <lb ed="#G" n="16"/>loquitur Spiritus Sanctus Minor ergo propositio
+          syllo<lb ed="#G" n="17" break="no"/>gismi Latini (qui tantum attinet ad hoc Christi
+          di<lb ed="#G" n="18" break="no"/>ctum) falsa est. Id ipsum vero supra satis clare
+          <lb ed="#G" n="19"/>ostensum. Insuper hic aliquot exemplis
+          loquuti<lb ed="#G" n="20" break="no"/>onis Spiritus Sanctu demonstratum damus.  In
+          sym<lb ed="#G" n="21" break="no"/>bolo confitemur, quia tota scriptura hoc
+          ingemi<lb ed="#G" n="22" break="no"/>nat, Spiritum Sanctus loquutum per Prophetas, &amp;
+          eo<lb ed="#G" n="23" break="no"/>dem spectat dictum Sanctus Petri, Epist. 2. cap. I. 21.
+          <lb ed="#G" n="24"/>2) Loquutus est Spiritus Sanctum per Apostolos,
+          post<lb ed="#G" n="25" break="no"/>quam in specic linguarum in illos est delapsus,
+          <lb ed="#G" n="26"/>eosque dono linguarum instructos reddidit;
+          quae<lb ed="#G" n="27" break="no"/>cunque ergo docuerunt Apostoli, Spiritus sancti
+          <lb ed="#G" n="28"/>oracula sunt. 3) Spiritus Apostolo Paulo, &amp; per
+          <lb ed="#G" n="29"/>ipsum toti ecclesiae loquutus est de futuris falsis
+          <lb ed="#G" n="30"/>doctoribus, doctrina Daemoniorum, de
+          superstitio<pb ed="#G" n="208"/><lb ed="#G" n="1" break="no"/>sis &amp; electiciis cultibus tradendis. 1. Tim. 1v. 1.
+          <lb ed="#G" n="2"/>A Miras illas Ecclesiae tragoedias, Antichristi
+          Ty<lb ed="#G" n="3" break="no"/>rannidem &amp; ejus tandem exitum, triumphos
+          deni<lb ed="#G" n="4" break="no"/>que piorum post victoriam, Spiritus loquitur apud
+          <lb ed="#G" n="5"/>Ioan. in Apocalypsi. Ita enim ille Apocal. II. 7.
+          <lb ed="#G" n="6"/>&amp; alibi passim: audiat, quid Spiritus dicit. 5)
+          <lb ed="#G" n="7"/>Etiam quaedam particularia loquitur Spiritus:
+          <lb ed="#G" n="8"/>admonet Petrum de convertendo Cornelio Act.
+          <lb ed="#G" n="9"/>X. 10. vetat) Apostolos loqui in Asia, Act. XVI.
+          <lb ed="#G" n="10"/>v. 6. Iubet sibi segregari ministros Act. XIII. 2.
+          <lb ed="#G" n="11"/>praedicat oppidatim de vinculis Pauli Act. XX.
+          <lb ed="#G" n="12"/>23. Quidquid denique prophetatur, quidquid
+          <lb ed="#G" n="13"/>dicitur &amp; agitur ad Dei gloriam, totum Spiritui
+          <lb ed="#G" n="14"/>sancto tanquam proprium &amp; peculiare opus
+          tri<lb ed="#G" n="15" break="no"/>buitur. Haec ergo Spiritus sancti loquela est.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e361">
+          <lb ed="#G" n="16"/>§. 182.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e366">
+          <lb ed="#G" n="17"/>DICENT, non loquelam, sed auditionem
+          Spi<lb ed="#G" n="18" break="no"/>ritus sancti pro argumento hic esse propositam.
+          <lb ed="#G" n="19"/>RESP. Sed ea dicitur audire, quae loquitur:
+          loqui<lb ed="#G" n="20" break="no"/>tur autem haec, quae proposuimus &amp; generatim,
+          <lb ed="#G" n="21"/>&amp; quaedam in specie. Si ulterius instabunt,
+          quae<lb ed="#G" n="22" break="no"/>rendo: an ista talia differunt ab eorum scientia,
+          <lb ed="#G" n="23"/>quam habet Spiritus sanctus? dicemus, differre
+          <lb ed="#G" n="24"/>tanquam objecta scientiae a scientia; quaerent
+          er<lb ed="#G" n="25" break="no"/>go: an scientiam eorum Spiritus sanctus
+          partici<lb ed="#G" n="26" break="no"/>pet ab alio? respondebimus: minime. Scientia
+          <lb ed="#G" n="27"/>enim ejus est ipsa natura divina, communis
+          omni<lb ed="#G" n="28" break="no"/>bus tribus personis, quaeque adeo nec producit,
+          <lb ed="#G" n="29"/>nec producitur. Rogabunt autem: quamobrem
+          <lb ed="#G" n="30"/>Christus dixit Spiritum audire, quod nihil aliud
+          <pb ed="#G" n="209"/><lb ed="#G" n="1"/>videtur esse, nisi participare scientiam? RESP.
+          <lb ed="#G" n="2"/>tametsi hoc ita esset, nihil tamen obesset nobis,
+          <lb ed="#G" n="3"/>propter secundum responsum. 2) Cur praeter
+          <lb ed="#G" n="4"/>Arianos, aliis Theologis in mentem hoc non
+          ve<lb ed="#G" n="5" break="no"/>nit? 3) Audire idem est, atque mitti, seu pro
+          eo<lb ed="#G" n="6" break="no"/>dem a Christo usurpatur, vel certe tanquam unum
+          <lb ed="#G" n="7"/>&amp; praecipuum Legati, dum mittitur, officium ita
+          <lb ed="#G" n="8"/>expressum est: Ergo eadem analogia, qua antca
+          <lb ed="#G" n="9"/>missionem illustravimus, hic perquam
+          commodis<lb ed="#G" n="10" break="no"/>sime adhiberi debet.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e422">
+          <lb ed="#G" n="11"/>§. 183.
+        </p>
+        <p xml:id="cax7ya-d1e270-d1e428">
+          <lb ed="#G" n="12"/>V. Sunt porro loca huic nostro maxime
+          pa<lb ed="#G" n="13" break="no"/>rallela, quae similiter de Christo loquuntur; ut
+          il<lb ed="#G" n="14" break="no"/>le superius citatus: doctrina mea, non est mea.
+          <lb ed="#G" n="15"/>Perinde enim hoc est, atque dicere: non a me
+          lo<lb ed="#G" n="16" break="no"/>quor, sed quae audio loquor. Item ista alia, quae
+          <lb ed="#G" n="17"/>etiam iisdem verbis efferuntur Ioan. V. 30. Non
+          <lb ed="#G" n="18"/>possum a me ipso facere quidquam, prout audio
+          judi<lb ed="#G" n="19" break="no"/>t0. loan. VIII. 26. Multa habeo, quae de vobis
+          lo<lb ed="#G" n="20" break="no"/>quar ac judicem: sed qui misit me, verax est &amp;
+          <lb ed="#G" n="21"/>go, quae audivi ab eo, haec loquor mundo; &amp;
+          co<lb ed="#G" n="22" break="no"/>dem capite v. 40. Nunc autem studetis me
+          interi<lb ed="#G" n="23" break="no"/>mere, bominem, qui veritatem vobis loquutus sum,
+          <lb ed="#G" n="24"/>quam audivi a Patre. An in istis locis
+          ostendi<lb ed="#G" n="25" break="no"/>tur, vel saltem innuitur aeterna Filii ex Patre
+          ge<lb ed="#G" n="26" break="no"/>neratio? Dicunt quidem &amp; hoc Latini, sed ut
+          su<lb ed="#G" n="27" break="no"/>um istud argumentum sustentent; alioqui nunquam
+          <lb ed="#G" n="28"/>dicturi. Quis vero hoc dicet? Nonne haec
+          lega<lb ed="#G" n="29" break="no"/>ti munus exprimunt, &amp; nihil aliud? Quod si
+          di<lb ed="#G" n="30" break="no"/>c8, haec de Christo dici, qua homo est, adeoque
+          <pb ed="#G" n="210"/><lb ed="#G" n="1"/>disparem habere rationem: respondeo, etiam
+          il<lb ed="#G" n="2" break="no"/>lud de Spiritu Sancto dictum esse, non qua Deus
+          <lb ed="#G" n="3"/>est, sed qua legatus, &amp; ad extra operans. Vide, quae
+          <lb ed="#G" n="4"/>dicta sunt supra Capite VI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

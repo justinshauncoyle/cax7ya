@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 8</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 8</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="180"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e212">
+        <head xml:id="cax7ya-d1e212-Hd1e108">Caput 8</head>
+        <head xml:id="cax7ya-d1e212-Hd1e110" type="question-title">Respondet ad tertiam latinorum obiectionem, et demonstratur, Filium omnia, quae Patris sunt, habere, non esse argumentum processionis Spiritus Sancti a Filio</head>
+        <p xml:id="cax7ya-d1e212-d1e113">
+          <pb ed="#G" n="180"/><lb ed="#G" n="1"/>CAPVT. VIII.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e119">
+          <lb ed="#G" n="2"/>Respondetur ad tertiam Latinorum
+          obje<lb ed="#G" n="3" break="no"/>ctionem, &amp; ostenditur, Filium omnia,
+          <lb ed="#G" n="4"/>quae Patris sunt, habere, non esse
+          ar<lb ed="#G" n="5" break="no"/>gumentum processionis Spiritus Sanctu a Filio.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e130">
+          <lb ed="#G" n="6"/>§. 142.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e136">
+          <lb ed="#G" n="7"/>§ Tulgare &amp; hoc apud Latinos est: omnia Patris
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e141">
+          <lb ed="#G" n="8"/>sunt Filii. Patris est producere Spiritum Sanct
+          <lb ed="#G" n="9"/>ergo hoc &amp; Filii est. At haec argumentatio
+          suis<lb ed="#G" n="10" break="no"/>met auctoribus, non caussae nostrae, ita noxia est,
+          <lb ed="#G" n="11"/>ut eos in inextricabiles casses vel Labyrinthos
+          in<lb ed="#G" n="12" break="no"/>ducat.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e154">
+          <lb ed="#G" n="13"/>§. 143.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e159">
+          <lb ed="#G" n="14"/>I. Nam primo habet Pater generare Filium,
+          <lb ed="#G" n="15"/>ergo &amp; Filius hoc habebit, ergo &amp; Filii erit
+          Fili<lb ed="#G" n="16" break="no"/>us. Et sic alias etiam Paternae hypostaseos
+          pro<lb ed="#G" n="17" break="no"/>prietates ad Filium transferre licebit.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e170">
+          <lb ed="#G" n="18"/>§. 144.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e175">
+          <lb ed="#G" n="19"/>II. Habet vero vicissim Pater etiam quae sunt
+          <lb ed="#G" n="20"/>Filii: ait enim Dominus Ioan. XVII. 10. &amp; mea
+          <lb ed="#G" n="21"/>omnia tua sunt, &amp; tua mea &amp; glorificatus sum in
+          <lb ed="#G" n="22"/>illis. Subsumamus more Latinorum: Sed Filii est
+          <lb ed="#G" n="23"/>generari, ergo &amp; Patris.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e189">
+          <pb ed="#G" n="181"/><lb ed="#G" n="1"/>§. 145.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e195">
+          <lb ed="#G" n="2"/>III. Habet autem &amp; Spiritus Sanctu ea omnia, quae
+          <lb ed="#G" n="3"/>habet Pater, &amp; quae habet Filius. Nam secus
+          in<lb ed="#G" n="4" break="no"/>aequalis esset Patri &amp; Filio, &amp; major esset unitas
+          <lb ed="#G" n="5"/>inter Patrem &amp; Filium, quam inter Patrem &amp;
+          Spi<lb ed="#G" n="6" break="no"/>ritum Sanct Hanc assertionem etiam Patres docuer:
+          <lb ed="#G" n="7"/>DIONVSIVS, vel quis alius libro de Divinis
+          no<lb ed="#G" n="8" break="no"/>minibus cap. II. sub principium. BASILIVS M.
+          <lb ed="#G" n="9"/>lib. 2. adversus Eunomium. AVGVSTINVS lib. 2.
+          <lb ed="#G" n="10"/>de Trinitate cap. Iv. LEOM. Papa Rom. serm. 1.
+          <lb ed="#G" n="11"/>in Pentecosten. DIDYMVS Alexan. lib. 2. de
+          <lb ed="#G" n="12"/>Spiritu Sanct EPIPHANIVS haeresi 76. quae est
+          <lb ed="#G" n="13"/>Anomaeorum. HIERONYMVS in explicatione
+          <lb ed="#G" n="14"/>fidei ad Cyrillum. CHRYSOSTOMVS homil. 67.
+          <lb ed="#G" n="15"/>alias. 68. in Ioannem, post medium. Unius
+          eo<lb ed="#G" n="16" break="no"/>rum verba, nempe Augustini, audiamus: Omnia
+          <lb ed="#G" n="17"/>quae habet Pater, non tantum Filii, sed etiam
+          Spi<lb ed="#G" n="18" break="no"/>ritus Sanctus sunt. Et reliqui omnes id ipsum clare
+          <lb ed="#G" n="19"/>docent. Ex hoc ergo sequeretur, juxta
+          argumen<lb ed="#G" n="20" break="no"/>tationem Latinorum, etiam Spiritum Sanctus ingenitum
+          <lb ed="#G" n="21"/>esse &amp; generare, ut Patrem, &amp; generari, ut Filium,
+          <lb ed="#G" n="22"/>&amp; producere vel se ipsum, vel alium Spiritum, quac
+          <lb ed="#G" n="23"/>omnia blasphema sunt.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e245">
+          <lb ed="#G" n="24"/>§. 146.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e250">
+          <lb ed="#G" n="25"/>IV. Propositio itaque illa: omnia, quae habet
+          <lb ed="#G" n="26"/>Pater, Filii sunt, de substantialibus attributis non
+          <lb ed="#G" n="27"/>de hypostaticis proprietatibus loquitur.
+          Videli<lb ed="#G" n="28" break="no"/>cet, habet Filius Patris sapientiam,
+          omnipotenti<lb ed="#G" n="29" break="no"/>am, immensitatem, aeternitatem, &amp; quaecunque
+          <pb ed="#G" n="182"/><lb ed="#G" n="1"/>tandem divinae naturae insunt: haec autem
+          com<lb ed="#G" n="2" break="no"/>munia sunt etiam Spiritui Sanct Per
+          consubstantia<lb ed="#G" n="3" break="no"/>litatem denique Spiritum Sanctus habet Filius, &amp; una
+          <lb ed="#G" n="4"/>persona est sua, &amp; propria alteri vicissim: cur
+          ve<lb ed="#G" n="5" break="no"/>ro non dicatur Pater &amp; Filius, Spiritus Sanctu infra
+          di<lb ed="#G" n="6" break="no"/>cemus.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e278">
+          <lb ed="#G" n="7"/>§. 147.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e283">
+          <lb ed="#G" n="8"/>V. Id vero, cum per se pateat, confirmatut
+          <lb ed="#G" n="9"/>etiam testimonio Patrum; tum quia docent in
+          Tri<lb ed="#G" n="10" break="no"/>nitate praeter proprietates hypostaticas, nihil esse
+          <lb ed="#G" n="11"/>aliud, nisi substantiam; eamque omnibus tribus
+          <lb ed="#G" n="12"/>personis esse communem, exceptis proprietatibus
+          <lb ed="#G" n="13"/>hypostaticis, ut vidimus supra cap. Vct tum quod,
+          <lb ed="#G" n="14"/>ut nunc vidimus, docent etiam Spiritum Sanctus omnia
+          <lb ed="#G" n="15"/>Patris &amp; Filii habere: tum etiam, quod
+          singula<lb ed="#G" n="16" break="no"/>riter dictum Christi hoc, de quo agimus, expressis
+          <lb ed="#G" n="17"/>verbis nobiscum exponunt de omnibus, quae ad
+          <lb ed="#G" n="18"/>substantiam spectant. DioNYSIVS Areopagita lib. de
+          <lb ed="#G" n="19"/>Divinis nominibus. cap. 11. THEOPHILVS
+          An<lb ed="#G" n="20" break="no"/>tiochenus commentario in Evangelia, Tom. 2.
+          <lb ed="#G" n="21"/>Bibl. PP. Colon. pag. 151. TERTVLLIANVS lib.
+          <lb ed="#G" n="22"/>contra Praxeam. cap. XVII. ATHANASIVS in
+          <lb ed="#G" n="23"/>dictum: omnia, quae habet Pater, mea sunt, &amp;
+          <lb ed="#G" n="24"/>multis aliis in locis. HILARIVS Pictaviensis lib.
+          <lb ed="#G" n="25"/>9. de Trinitate. BASILIVS M. lib. de Spiritu Sanc
+          <lb ed="#G" n="26"/>cap. VIII. AMBROSIVS libr. 2. de fide cap. 3.
+          <lb ed="#G" n="27"/>HILRONVMVS in Explicatione fidei ad Cyrillum.
+          <lb ed="#G" n="28"/>LPIPHANIVS haeresi 67. quae est Anomaeorum,
+          <lb ed="#G" n="29"/>CHRYSOSTOMVS homil. de Trinitate multum
+          <lb ed="#G" n="30"/>post initium. CYRILLVS Alexandrinus lib. 12.
+          <pb ed="#G" n="183"/><lb ed="#G" n="1"/>in Ioannem cap. II. &amp; alibi. AVGVSTINVS
+          ser<lb ed="#G" n="2" break="no"/>mone 6nct de tempore, ad finem, &amp; alii atque alii
+          <lb ed="#G" n="3"/>passim. Hinc etiam URECORIVS Nazianzenus
+          <lb ed="#G" n="4"/>omnia habere Filium ait, quae sunt paterna, sed
+          <lb ed="#G" n="5"/>excepta caussa, ut supra vidimus cap. III. in secundo
+          <lb ed="#G" n="6"/>testimoniorum genere.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e351">
+          <lb ed="#G" n="7"/>§. 148.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e356">
+          <lb ed="#G" n="8"/>VI. Iste vero Patrum consensus non modo
+          La<lb ed="#G" n="9" break="no"/>tinorum argumentationem infringit, sed
+          singula<lb ed="#G" n="10" break="no"/>riter etiam dogma nostrum confirmat. Nam
+          ver<lb ed="#G" n="11" break="no"/>ba ista Christi exponentes, tacere de processione
+          <lb ed="#G" n="12"/>Latina non potuissent, si eam scivissent.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e369">
+          <lb ed="#G" n="13"/>§. 149. Sed INSTANT Latini Patres, dum
+          <lb ed="#G" n="14"/>omnia Paterna tribuunt Filio, excipiunt solam
+          in<lb ed="#G" n="15" break="no"/>nascibilitatem, ut Gregorius Nazianzenus oratione
+          <lb ed="#G" n="16"/>44. &amp; Damascenus lib. 1. de fide cap. 1x. Ergo
+          <lb ed="#G" n="17"/>productio Spiritus Sanctu quae non excipitur, est inter
+          <lb ed="#G" n="18"/>illa omnia, quae habet Filius. REsP. 1) Si Patres in
+          <lb ed="#G" n="19"/>sensu latinorum loquerentur, tunc Filio
+          compete<lb ed="#G" n="20" break="no"/>ret generare; nam hoc non excipitur. 2) Patres
+          <lb ed="#G" n="21"/>docent, Spiritum Sanctum omnia Patris habere, excepta
+          <lb ed="#G" n="22"/>innascibilitate, ut idem Damascenus lib. 1. de fide
+          <lb ed="#G" n="23"/>cap. X. ergo hinc liceret inferre, etiam Spiritum
+          <lb ed="#G" n="24"/>S. generare. 3) Cur dcinde Patres omnia
+          pater<lb ed="#G" n="25" break="no"/>na Filio tribuentes, alibi excipiunt innascibilitatem,
+          <lb ed="#G" n="26"/>alibi vim generandi, alibi, ut Nazianzenus,
+          sim<lb ed="#G" n="27" break="no"/>pliciter caussam.  Patet ergo hinc, Patres, cum
+          <lb ed="#G" n="28"/>excipiant unam Paternae hypostaseos proprietatem,
+          <lb ed="#G" n="29"/>illam non accipere in abstracto, ut ajunt, scdin
+          con<pb ed="#G" n="184"/><lb ed="#G" n="1" break="no"/>creto, hoc est, per unam proprietatem intelligunt
+          <lb ed="#G" n="2"/>totam primam hypostasin, quanta quanta est; quod
+          <lb ed="#G" n="3"/>adhuc rem nostram consolidat.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e416">
+          <lb ed="#G" n="4"/>§. 150 INSTANT 2 Patres identidem
+          doce<lb ed="#G" n="5" break="no"/>re, omnia Filii esse, quae sunt Patris, excepto,
+          Pa<lb ed="#G" n="6" break="no"/>trem esse: at producere Spiritum Sanctus non est esse
+          <lb ed="#G" n="7"/>Pitrem, ergo hoc non excipitur. Sed haec
+          ex<lb ed="#G" n="8" break="no"/>ceptio per prius responsum nostrum dissolvitur:
+          <lb ed="#G" n="9"/>scilicet ibi patres nomen paternum non accipiunt
+          <lb ed="#G" n="10"/>relative, sed absolute, quomodo eriam in dicto
+          <lb ed="#G" n="11"/>Christi: qui a Patre procedit, acceptum est. Id
+          ve<lb ed="#G" n="12" break="no"/>ro evicimus per datas jam instantias.
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e438">
+          <lb ed="#G" n="13"/>§. 151. INSTAT3) BELLARMINVS lib. 2. de
+          <lb ed="#G" n="14"/>Christo cap. XXII. Si pater, inquit, &amp; Filius non
+          <lb ed="#G" n="15"/>haberent omnia communia, excepta relatione
+          oppo<lb ed="#G" n="16" break="no"/>sita, distinguerentur plusquam relatione, &amp; proinde
+          <lb ed="#G" n="17"/>distinguerentur, quae est haeresis Ariana. Sed haec
+          <lb ed="#G" n="18"/>Bellarmini subtilisatio ridicula est, &amp; ipsi auctori
+          <lb ed="#G" n="19"/>noxia, Nam eandem convertam ad distinctionem
+          <lb ed="#G" n="20"/>Spiritus Sanct a Patre, &amp; ejusdem a Filio; &amp; quid
+          <lb ed="#G" n="21"/>dicet Iesuita?
+        </p>
+        <p xml:id="cax7ya-d1e212-d1e460">
+          <lb ed="#G" n="22"/>§. 152. Notandum ultimo est, absurdissimos
+          <lb ed="#G" n="23"/>plerosque ex Latinis esse, qui dum audiunt sibi ad
+          <lb ed="#G" n="24"/>fimilia eorum argumenta regeri instantias, quod
+          <lb ed="#G" n="25"/>scilicet inde (si bona latinorum argumentatio
+          fo<lb ed="#G" n="26" break="no"/>ret,) sequitur Spiritum Sanctus se ipsum producere, &amp;
+          <lb ed="#G" n="27"/>alias tales, excipiunt mox, sibi talia regeri non
+          <lb ed="#G" n="28"/>posse, quia impossibilia sunt. At haec est perquam
+          <pb ed="#G" n="185"/><lb ed="#G" n="1"/>stolida disceptandi ratio; nam &amp; ego scio talia
+          es<lb ed="#G" n="2" break="no"/>se impossibilia, &amp; ideo, quia impossibilia sunt, &amp;
+          <lb ed="#G" n="3"/>tamen juxta tuum argumentum sequuntur,
+          osten<lb ed="#G" n="4" break="no"/>dam argumentum tuum esse frivolum; ex quo
+          <lb ed="#G" n="5"/>enim falsum sequitur, illud &amp; ipsum falsum esse,
+          <lb ed="#G" n="6"/>docet Dialectica.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 15</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 15</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="273"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e346">
+        <head xml:id="cax7ya-d1e346-Hd1e108">Caput 15</head>
+        <head xml:id="cax7ya-d1e346-Hd1e110" type="question-title">Recensentur loca occidentalium Patrum a Latinis corrupta</head>
+        <p xml:id="cax7ya-d1e346-d1e113">
+          <pb ed="#G" n="273"/><lb ed="#G" n="1"/>CAPVT XV.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e119">
+          <lb ed="#G" n="2"/>Recensentur Loca occidentalium Patrum a
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e124">
+          <lb ed="#G" n="3"/>Latinis corrupta.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e130">
+          <lb ed="#G" n="4"/>§. 235.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e135">
+          <lb ed="#G" n="5"/>uodsi tantam Latini, &amp; eorum asseclae
+          Grae<lb ed="#G" n="6" break="no"/>culi non nulli adhibuerunt diligentiam
+          cor<lb ed="#G" n="7" break="no"/>rumpendis graecis Patribus, quorum scripta apud
+          <lb ed="#G" n="8"/>ipsos non ita erant frequentia, nec cuique obvia, illis
+          <lb ed="#G" n="9"/>olim temporibus, cum nondum ars
+          tvpographi<lb ed="#G" n="10" break="no"/>ca inventa esset: quid non fecerunt circa
+          domesti<lb ed="#G" n="11" break="no"/>cos suos, circa Latinos, inquam, Doctores
+          cor<lb ed="#G" n="12" break="no"/>rumpendos? Quapropter demonstratis tot
+          corrupte<lb ed="#G" n="13" break="no"/>lis inter orientalium Patrum opera exstantibus, jure
+          <lb ed="#G" n="14"/>merito tanquam suspectum &amp; spurium rejiciemus,
+          <lb ed="#G" n="15"/>quidquid illi ex scriptis Patrum occidentalium pro
+          <lb ed="#G" n="16"/>dogmate suo deprompserint. Nec major opera
+          su<lb ed="#G" n="17" break="no"/>menda est. Ad majus tamen specimen indolis
+          ho<lb ed="#G" n="18" break="no"/>minum, habe exempta bonae fidei.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e168">
+          <lb ed="#G" n="19"/>§. 236.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e173">
+          <lb ed="#G" n="20"/>I. CYPRIANVS sermone de Spiritu Sancto
+          <lb ed="#G" n="21"/>haec habet secundum editionem Parisiensem,
+          an<pb ed="#G" n="274"/><lb ed="#G" n="1" break="no"/>no 1648. pag. 490. &amp; plures alias, quas omnino
+          <lb ed="#G" n="2"/>undecim recenset 2ERNIKAV: Spiritus sanctus
+          <lb ed="#G" n="3"/>a Patre procedens, a Patre &amp; Filio quaternario
+          <lb ed="#G" n="4"/>superfertur. At sponte patet corruptela: quid
+          <lb ed="#G" n="5"/>enim sibi vult, a Patre procedens, a Patre &amp;
+          Fi<lb ed="#G" n="6" break="no"/>lio? nam illud, quod sequitur: quaternario
+          su<lb ed="#G" n="7" break="no"/>perfertur, minime hoc postulat, ut patet legenti:
+          <lb ed="#G" n="8"/>nam quaternartum vocat creaturas propter quatuor
+          <lb ed="#G" n="9"/>elementa. Spiritum ergo sanctum quaternario
+          su<lb ed="#G" n="10" break="no"/>perferri ait, hoc est, fovere &amp; conservare
+          creatu<lb ed="#G" n="11" break="no"/>ras. Mox enim subdit: &amp; opus suum conditor
+          be<lb ed="#G" n="12" break="no"/>nignus amplectitur &amp;c. Hinc &amp; Iacobus Pamelius
+          <lb ed="#G" n="13"/>in editione, quae penes nos habetur, Antverpiensi
+          <lb ed="#G" n="14"/>anno 1589. pag, 439. in annotationibus, agnoscit
+          <lb ed="#G" n="15"/>locum esse corruptum, licet ita corrigit, ut
+          ta<lb ed="#G" n="16" break="no"/>men sibi feveat: illud, inquit, a Patre procedens,
+          <lb ed="#G" n="17"/>superfluum est.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e218">
+          <lb ed="#G" n="18"/>§. 237.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e223">
+          <lb ed="#G" n="19"/>II. HILARIVS PCTAVIENSIS lib. 2. de
+          Trinita<lb ed="#G" n="20" break="no"/>te (uxta omnes editiones, quas vidi, ait
+          Terni<lb ed="#G" n="21" break="no"/>bav) ita habet: Loqui de Spiritu sancto non
+          neces<lb ed="#G" n="22" break="no"/>sum, quia de Patre &amp; Filio auctoribus
+          confiten<lb ed="#G" n="23" break="no"/>dum. Sponte &amp; haec corruptio se prodit. Nam
+          <lb ed="#G" n="24"/>ne latini quidem dicere audent duas caussas, duo
+          <lb ed="#G" n="25"/>principia, duos auctores esse Spiritus sancti, imo
+          <pb ed="#G" n="275"/><lb ed="#G" n="1"/>hoc tanquam blasphemum rejiciunt. Quomodo
+          <lb ed="#G" n="2"/>ergo tantus doctor ita dixisset? Ipse deinde
+          Hila<lb ed="#G" n="3" break="no"/>rius alibi in eodem libro sic loquitur: Spiritum Sancti
+          <lb ed="#G" n="4"/>nesciunt (haeretici) dum &amp; usum &amp; Auctorem ejus
+          <lb ed="#G" n="5"/>ignorant. Quomodo vir doctus in uno
+          eodem<lb ed="#G" n="6" break="no"/>que libro tam varius &amp; inconstans esse potuit?
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e256">
+          <lb ed="#G" n="7"/>§. 238.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e261">
+          <lb ed="#G" n="8"/>III. LIBERII Papae Romani, qui una cum
+          <lb ed="#G" n="9"/>sancto Athanasio floruit, circa tempora. Nycaeni
+          <lb ed="#G" n="10"/>primi concilii, Epistola ad Athanasium passim
+          im<lb ed="#G" n="11" break="no"/>primitur in tomis conciliorum, ut in LABBEI ac
+          <lb ed="#G" n="12"/>cOsSARTII tom. II. concil. p. 766. alibique. In
+          <lb ed="#G" n="13"/>ea vero repererunt Latini aliquid, quo se a
+          la<lb ed="#G" n="14" break="no"/>queo, quem eis injicit additamentum, extricare
+          <lb ed="#G" n="15"/>queant. Objicimus scilicet ipsis legem synodi
+          <lb ed="#G" n="16"/>Ephesinae, oecumenicae tertiae, qua cavetur, ne
+          <lb ed="#G" n="17"/>quidquam in symbolo innovetur, addatur,
+          detra<lb ed="#G" n="18" break="no"/>hatur. Quam legem etiam reliqua, quae secuta
+          <lb ed="#G" n="19"/>sunt, concilia confirmarunt, ut infra patebit.
+          Re<lb ed="#G" n="20" break="no"/>spondent Latini, prohibitam esse additionem falsi,
+          <lb ed="#G" n="21"/>non veri. Et citant memoratam Liberii Epistolam.
+          <lb ed="#G" n="22"/>Nam in illa similis lex laudatur, sed quasi a
+          Ny<lb ed="#G" n="23" break="no"/>caeno I. Concilio edita. Ajunt ergo Nycaenum
+          <lb ed="#G" n="24"/>symbolum a Concilio Constantinopolitano secundo
+          <lb ed="#G" n="25"/>oecumenico esse auctum, non obstante lege illa
+          <lb ed="#G" n="26"/>de non mutando symbolo: quare legis illius
+          sen<lb ed="#G" n="27" break="no"/>sum esse, non licere addere, quod falsum est,
+          li<lb ed="#G" n="28" break="no"/>cere, quod verum. Ita ex hac epistola effugium
+          <lb ed="#G" n="29"/>sibi quaerebat Cardinalis Iulianus, collation. seu
+          <lb ed="#G" n="30"/>Sess. XIII. in Concilio Florentino &amp; Bessarion
+          trans<pb ed="#G" n="276"/><lb ed="#G" n="1" break="no"/>fuga libr. de processione Spiritus sancti ad Alexium
+          <lb ed="#G" n="2"/>Lascarim, cap. III. At haec Epistola tota
+          fi<lb ed="#G" n="3" break="no"/>cta est, ut &amp; aliae plurimae sub nomine Pontificum
+          <lb ed="#G" n="4"/>Romanorum. Nam dictam legem citat
+          LIBE<lb ed="#G" n="5" break="no"/>RIVS sub nomine concilii Nycaeni: At vero nihil
+          <lb ed="#G" n="6"/>tale sanxit illud concilium. 2 Deindc lex
+          cita<lb ed="#G" n="7" break="no"/>tur a Liberio, ut est concepta a concilio
+          Chalce<lb ed="#G" n="8" break="no"/>donensi, quo ad singula verba: legit ergo
+          Liberi<lb ed="#G" n="9" break="no"/>us, quae scripsere Patres chalcedonenses, multis
+          <lb ed="#G" n="10"/>post obitum ipsius annis. 3) Meminit vero
+          Libe<lb ed="#G" n="11" break="no"/>rius venerabilium Abbatum, quasi cum ipsis
+          con<lb ed="#G" n="12" break="no"/>sultasset: at ejus tempore vix tum semina
+          Mo<lb ed="#G" n="13" break="no"/>nachismi jacta sunt in Aegypto. Nec Liberius
+          <lb ed="#G" n="14"/>nec Italia, nec totus occidens vidit vel unum
+          <lb ed="#G" n="15"/>monachum, nedum Abbates venerabiles A
+          Vo<lb ed="#G" n="16" break="no"/>cat se Patrem, Athanasium vero cum suis filios
+          <lb ed="#G" n="17"/>suos appellat, contra morem perpetuum sanctae
+          an<lb ed="#G" n="18" break="no"/>tiquitatis, quando vel minimi pagi Episcopus
+          An<lb ed="#G" n="19" break="no"/>tistites Regiarum urbium appellabat fratres suos.
+          <lb ed="#G" n="20"/>5) In anathemate subjecto dicit: si vero monachi
+          <lb ed="#G" n="21"/>sunt, segregentur, &amp; alieni sint de suis locis.
+          Mo<lb ed="#G" n="22" break="no"/>nachos scilicet &amp; monasteria somniavit Liberius,
+          <lb ed="#G" n="23"/>ut &amp; supra Abbates. o Sed vide, ut punit
+          ali<lb ed="#G" n="24" break="no"/>os: Milites (qui scilicet in haeresi
+          deprehendan<lb ed="#G" n="25" break="no"/>tur) privat cingulo, Magistratus dignitatibus,
+          pri<lb ed="#G" n="26" break="no"/>vatos bonorum proscriptione, ignobiles jubet
+          ver<lb ed="#G" n="27" break="no"/>berari &amp; agi in exilium perpetuum. Proh, quam
+          <pb ed="#G" n="277"/><lb ed="#G" n="1"/>iracundus Papa iste &amp; jam tunc jus gladii habuit
+          <lb ed="#G" n="2"/>nec enim in ulla ante &amp; post synodo minas
+          hujus<lb ed="#G" n="3" break="no"/>modi reperies. 7) Epistola haec insuper habet
+          <lb ed="#G" n="4"/>plura membra, ne minimum quidem verbis
+          immu<lb ed="#G" n="5" break="no"/>tatis, ex concilio Lateranensi, quod celebravit
+          <lb ed="#G" n="6"/>Martinus Papa anno 649. trecentis annis post
+          Libe<lb ed="#G" n="7" break="no"/>rium; sicut &amp; memorata poenalis sententia
+          sum<lb ed="#G" n="8" break="no"/>pta est ex edicto Constantis Imperatoris hacretici,
+          <lb ed="#G" n="9"/>quod in eodem Concilio recitatur. 8 Notatur
+          <lb ed="#G" n="10"/>vero &amp; tempus, quo scripta est haec Epistola:
+          <lb ed="#G" n="11"/>Data. 8. Kalen. Iunii, Asclepio &amp; Deodato viris
+          <lb ed="#G" n="12"/>clarissimis consulibus. At nec ante Liberium, nec
+          <lb ed="#G" n="13"/>post ipsum ad Iustiniani usque tempora, ulli
+          fue<lb ed="#G" n="14" break="no"/>runt istorum nominum consules. Unus
+          Ascle<lb ed="#G" n="15" break="no"/>piodatus cum Mariano, consulatu defunctus est
+          <lb ed="#G" n="16"/>anno 423. quinquagesimo videlicet sexto a morte
+          <lb ed="#G" n="17"/>Liberii. 9) Denique SEVERINVS BINIVS tom.
+          <lb ed="#G" n="18"/>II. concil. &amp; Iesuita LABRE in editione ultima
+          con<lb ed="#G" n="19" break="no"/>ciliorum Parisiensi fatentur hanc epistolam
+          confi<lb ed="#G" n="20" break="no"/>ctam esse, quin &amp; alias omnes confictas ab
+          1SI<lb ed="#G" n="21" break="no"/>DoRO MERCATORE fatetur Labbe. 10) Seculo
+          <lb ed="#G" n="22"/>scilicet IX. ISIDORVS MERCATOR evulgavit
+          <lb ed="#G" n="23"/>Epistolas magno numero, sub nomine Pontificum
+          <lb ed="#G" n="24"/>Romanorum, qui primis seculis floruerunt. Sed
+          <lb ed="#G" n="25"/>postea, ante nostram aetatem, David
+          BLONDEL<lb ed="#G" n="26" break="no"/>LVS Calvinianus sagacissime fraudem
+          subodora<lb ed="#G" n="27" break="no"/>tus est, &amp; edito singulari sed incomparabili opere,
+          <lb ed="#G" n="28"/>omnes illas Epistolas a Mercatore evulgatas, ab
+          <lb ed="#G" n="29"/>eodem Mercatore fuisse consictas, luculentissimc
+          <lb ed="#G" n="30"/>demonstravit; ut jam vel ipsi doctores pontificii,
+          <lb ed="#G" n="31"/>id ipsum ultro fateantur: cum tamen majorcs
+          eo<pb ed="#G" n="278"/><lb ed="#G" n="1" break="no"/>rum dictas Epistolas pro oraculis habuerint. Et
+          <lb ed="#G" n="2"/>tamen improbus ille Cardinalis Iulianus in synodo
+          <lb ed="#G" n="3"/>Florentina summa petulantia Graecis insultabat,
+          <lb ed="#G" n="4"/>ubi prius citavit hanc Epistolem: Exuite, inquit,
+          <lb ed="#G" n="5"/>conscientias vestras, &amp; videatis, si huic poteritis
+          <lb ed="#G" n="6"/>respondere: dicatis breviter responsum ad hoc.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e456">
+          <lb ed="#G" n="7"/>§. 239.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e461">
+          <lb ed="#G" n="8"/>IV. Ex DAMASI Papac confessione fidei ad
+          <lb ed="#G" n="9"/>Paulinum Episcopum Antiochenum citat
+          1OAN<lb ed="#G" n="10" break="no"/>NES Florentinus disputator, collation. XIII.
+          syno<lb ed="#G" n="11" break="no"/>di Florentinae ab Horatio Iustiniano latine editae
+          <lb ed="#G" n="12"/>tom. XIII. conciliorum LABBEI columna 1108.
+          <lb ed="#G" n="13"/>haec inter alia: Spiritum Paraclitum, qui nec
+          Pa<lb ed="#G" n="14" break="no"/>ter sit, nec Filius, sed a Patre procedat &amp; Filio.
+          <lb ed="#G" n="15"/>Sed nihil tale reperitur in dicta confessione apud
+          <lb ed="#G" n="16"/>AVGVSTINVM, sermone 129. de tempore,
+          THEO<lb ed="#G" n="17" break="no"/>DORETVM lib. 5. Histor. Eccl. cap. 11.
+          NICEPHO<lb ed="#G" n="18" break="no"/>RVM Xant opulum lib. 12. Histor. cap. 18. Imo
+          <lb ed="#G" n="19"/>in illa confessionc contrarium docetur, ut
+          vidi<lb ed="#G" n="20" break="no"/>mus supra cap. IV. §. 80. Repetc hic illa, &amp;
+          Baro<lb ed="#G" n="21" break="no"/>nii exceptionem iterum ride.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e494">
+          <lb ed="#G" n="22"/>§. 240.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e499">
+          <lb ed="#G" n="23"/>V. Ex AMEROSII lib. 2. de Spiritu sancto,
+          <lb ed="#G" n="24"/>LOMBARDVS lib. 3. sententiarum distinctione 4.
+          <lb ed="#G" n="25"/>haec citat: Quod ex aliquo est, aut ex substantia,
+          <lb ed="#G" n="26"/>aut ex potestate ejus est: ex substantia, sicut
+          Fili<lb ed="#G" n="27" break="no"/>us, qui a Patre, &amp; Spiritus sanctus, qui a Patre
+          <lb ed="#G" n="28"/>Filioque procedit. At nunc in operibus Ambrosii
+          <lb ed="#G" n="29"/>juxta editiones omnes, ita illa leguntur: Ex
+          sub<lb ed="#G" n="30" break="no"/>stantia, sicut Filius, qui ait: ex ore altissimi
+          pro<lb ed="#G" n="31" break="no"/>dvi; sicut Siritus, qui a Patre procedit, de quo
+          <pb ed="#G" n="279"/><lb ed="#G" n="1"/>Filius dicit: ille me glorificabit, quia de meo
+          ac<lb ed="#G" n="2" break="no"/>cipiet.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e528">
+          <lb ed="#G" n="3"/>§. 241.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e533">
+          <lb ed="#G" n="4"/>VI. Iesuita PETAVIVS objicit nobis haec ex
+          <lb ed="#G" n="5"/>Ambrosii libro de symbolo cap. Iv. Spiritus vero
+          <lb ed="#G" n="6"/>Sctus, qui ab utroque procedit, nec ipse coepit.
+          <lb ed="#G" n="7"/>cet. Et hic subsistit lesuita, posita illa
+          interrum<lb ed="#G" n="8" break="no"/>peodi particula, &amp; cet. Habebat vero nasum
+          Pe<lb ed="#G" n="9" break="no"/>tavius, sed non habebat frontem: subsistit ideo,
+          <lb ed="#G" n="10"/>quia videbat, sequentem textum non cohaerere
+          <lb ed="#G" n="11"/>cum verbis citatis, &amp; prodere corruptelam. Nam
+          <lb ed="#G" n="12"/>peit ultro ibi Ambrosius. ouia prccesso ejus es
+          <lb ed="#G" n="13"/>contnua, &amp; ab eo, qui non coepit; non enim Pater
+          <lb ed="#G" n="14"/>ceit: &amp; quia non coepit, nec Spiritus coepit, ea
+          <lb ed="#G" n="15"/>quoque ratione, quia &amp; in ipso est, &amp; ejus est.
+          <lb ed="#G" n="16"/>dt si dixisset Ambrosius: Spiritus, qui a Patre
+          Fi<lb ed="#G" n="17" break="no"/>lioque procedit, nec ipse coepit, utique &amp; hic,
+          <lb ed="#G" n="18"/>ubi Anarchiae ejus reddit rationem per ejus
+          caus<lb ed="#G" n="19" break="no"/>sam, tam Patris, quam Filii meminisset. Facile
+          <lb ed="#G" n="20"/>ergo erat addere, Filioque, sed quomodo
+          augmen<lb ed="#G" n="21" break="no"/>tum illud pugnaret cum contextu, non potuit
+          vi<lb ed="#G" n="22" break="no"/>dere stupidus, qui ista addebat.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e577">
+          <lb ed="#G" n="23"/>§. 242.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e582">
+          <lb ed="#G" n="24"/>VII. Legitur item apud AMBROSIVMlib. I.
+          <lb ed="#G" n="25"/>de Spiritu sancto cap. 10. ita: Spiritus quoque
+          San<lb ed="#G" n="26" break="no"/>ctus cum procedit a Patre &amp; Filio, non separatur
+          <lb ed="#G" n="27"/>a Patre, non separatur a Filio. Sed &amp; haec esse
+          <lb ed="#G" n="28"/>corrupta prodit sequens textus; pergit enim
+          Am<lb ed="#G" n="29" break="no"/>brosius: Quemadmodum enim separari potest a
+          Pa<pb ed="#G" n="280"/><lb ed="#G" n="1" break="no"/>tre, qui spiritus oris ejus est? Sed cur non
+          expli<lb ed="#G" n="2" break="no"/>cat, quomodo &amp; a Filio non separatur?
+          Explicas<lb ed="#G" n="3" break="no"/>set procul dubio, si antea ita dixisset, sicuti jam
+          <lb ed="#G" n="4"/>imprimuntur verba ejus. De solo scilicet Patre
+          <lb ed="#G" n="5"/>Ambrosius loquutus est, sed falsarii de Filio
+          addi<lb ed="#G" n="6" break="no"/>derunt, tegere tamen fraudem nescivere.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e612">
+          <lb ed="#G" n="7"/>§. 243.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e617">
+          <lb ed="#G" n="8"/>VIII. RVFFINI Presbyteri Aquileensis
+          ex<lb ed="#G" n="9" break="no"/>positio in symbolum Apostolicum solet imprimi, &amp;
+          <lb ed="#G" n="10"/>cum operibus Hieronymi, &amp; cum operibus
+          Cy<lb ed="#G" n="11" break="no"/>priani. Ut ergo impressa est penes Hieronymum,
+          <lb ed="#G" n="12"/>haec habet: Spiritus Sanctus tanquam de utroque
+          <lb ed="#G" n="13"/>procedens, &amp; cuncta sanctisicans. Ut vero
+          impres<lb ed="#G" n="14" break="no"/>sa est penes Cyprianum Coloniae anno 1617.
+          Ant<lb ed="#G" n="15" break="no"/>verpiac anno 1568. item anno 1541. item an. 1589.
+          <lb ed="#G" n="16"/>Parisiis anno 1648. &amp; anno 1541. &amp; anno 1633. &amp;
+          <lb ed="#G" n="17"/>anno 1563. Basileae anno 1521. &amp; anno 1525. &amp;
+          an<lb ed="#G" n="18" break="no"/>no 1558. Romae denique anno 1563. verba illa ita
+          <lb ed="#G" n="19"/>leguntur: Spiritus sanctus tamquam de Dei ore
+          <lb ed="#G" n="20"/>procedens &amp; cuncta sanctificans.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e649">
+          <lb ed="#G" n="21"/>§. 244.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e654">
+          <lb ed="#G" n="22"/>IX. Apud HIERONYMVM, ut ejus opera
+          im<lb ed="#G" n="23" break="no"/>primuntur vulgo, istud leges in explanatione fidei
+          <lb ed="#G" n="24"/>ad Cyrillum: Spiritus proprie &amp; vere de Patre
+          <lb ed="#G" n="25"/>Filioque procedit. Quis vero putaret fraudem hanc
+          <lb ed="#G" n="26"/>posse deprehendi (nisi forte ex generali
+          corrupte<lb ed="#G" n="27" break="no"/>larum argumento) cum ita omnes habeant
+          editio<lb ed="#G" n="28" break="no"/>nes, nec ex contextu vestigia falsatoris appareant?
+          <lb ed="#G" n="29"/>deprehendit tamen &amp; optime cruditissimus
+          2ER<pb ed="#G" n="281"/><lb ed="#G" n="1" break="no"/>NIKAV. I Nam PETRVSLOMBARDVS lib.
+          <lb ed="#G" n="2"/>I. senten. distin. 12. quaerit: Cur Hieronymus
+          di<lb ed="#G" n="3" break="no"/>cens Spiritum sanctum procedere a Patre, non dixit
+          <lb ed="#G" n="4"/>&amp; de Filio? &amp; aliquot ejus verba citat, inter quae
+          <lb ed="#G" n="5"/>&amp; ista supra adducta ita legit: Spiritus proprie &amp;
+          <lb ed="#G" n="6"/>vere a Patre procedit. 2) Ita eadem citat
+          PE<lb ed="#G" n="7" break="no"/>TRVSABALEARDVS lib. 2. introductionis ad
+          <lb ed="#G" n="8"/>Theologiam cap. XIV. 3.) Eadem ita legit PETRVS
+          <lb ed="#G" n="9"/>DAMIANI tractatu de Spiritu sancto, cap. 2. quod
+          <lb ed="#G" n="10"/>est opusculum XXXVIII. tom. III. operum ejus edit.
+          <lb ed="#G" n="11"/>Parisien. anno 1642 pag. 287.  Ita habuit &amp;
+          <lb ed="#G" n="12"/>codex Ioannis disputatoris Florentini: cum enim
+          <lb ed="#G" n="13"/>aliqua ex dicta Hieronymi cxplanatione citavit
+          cor<lb ed="#G" n="14" break="no"/>rupte, haec verba non citavit, nunquam omissurus,
+          <lb ed="#G" n="15"/>si ita legisset. Magnum scilicet negotium est,
+          <lb ed="#G" n="16"/>scriptum depravare, &amp; scelus non prodere:
+          cor<lb ed="#G" n="17" break="no"/>rupti sunt omnes codices: sed evolvendi erant
+          <lb ed="#G" n="18"/>omnes alii auctores, nonne verba illa Hieronymi
+          <lb ed="#G" n="19"/>alicubi in suis scriptis adducunt, atque adeo &amp; illi
+          <lb ed="#G" n="20"/>corrumpendi erant. Quis vero non videt
+          insupe<lb ed="#G" n="21" break="no"/>rabilem hanc molem esse?
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e721">
+          <lb ed="#G" n="22"/>§. 245.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e726">
+          <lb ed="#G" n="23"/>X. IOANNES disputator Florentinus Sesst seu
+          <lb ed="#G" n="24"/>collation. XXI. Florentinae synodi haec objecit ex
+          <lb ed="#G" n="25"/>Hieronymi expositione fidei ad Augustinum &amp;
+          Aly<lb ed="#G" n="26" break="no"/>pium (juxta supra memoratam Horatii Iustiniani
+          <lb ed="#G" n="27"/>editionem) Credimus &amp; in Spiritum sanctum,
+          De<lb ed="#G" n="28" break="no"/>im verum, ex Patre Filioque procedentem cet.
+          Ea<lb ed="#G" n="29" break="no"/>lem vero expositio nunc inscribitur ad Damasum,
+          <pb ed="#G" n="282"/><lb ed="#G" n="1"/>&amp; juxta omnes editiones, Filioque, non habet in
+          <lb ed="#G" n="2"/>loco adducto.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e749">
+          <lb ed="#G" n="3"/>§. 246.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e754">
+          <lb ed="#G" n="4"/>XI. Similiter ex eodem Hieronymi scripto
+          <lb ed="#G" n="5"/>objiciebat idem Ioannes haec: Et in Spiritum
+          san<lb ed="#G" n="6" break="no"/>ctum, qui de Patre Filioque procedit, qui est Deus
+          <lb ed="#G" n="7"/>verus sicut &amp; Filius. Sed &amp; haec verba illud:
+          <lb ed="#G" n="8"/>Filioque, juxta omnes editiones hodie non habent.
+          <lb ed="#G" n="9"/>Et eadem citant LOMBARDVS, ABALEARDVS
+          <lb ed="#G" n="10"/>&amp; TETRVS DAMIANI ita.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e773">
+          <lb ed="#G" n="11"/>§. 247.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e778">
+          <lb ed="#G" n="12"/>XII. Legati synodi Aquisgranensis ad
+          LEO<lb ed="#G" n="13" break="no"/>NEM Papam missi in libello suo de processione
+          Spi<lb ed="#G" n="14" break="no"/>ritus Sanctu haec citabant ex Hieronymi dicta
+          exposi<lb ed="#G" n="15" break="no"/>tione: Spiritus, qui a Patre Filioque procedit,
+          Pa<lb ed="#G" n="16" break="no"/>tri Filioque coaeternus, &amp; per omnia coaequalis
+          <lb ed="#G" n="17"/>est. At haec nusquam occurrunt in scriptis
+          Hiero<lb ed="#G" n="18" break="no"/>nymi: nec reperit, dum quaesivit PETRVS
+          DA<lb ed="#G" n="19" break="no"/>MIANI, ut ipse fatetur, tractatu de processione
+          <lb ed="#G" n="20"/>Spiritus sancti. cap. 5. tom. III. operum. p. 288.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e800">
+          <lb ed="#G" n="21"/>§. 228.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e805">
+          <lb ed="#G" n="22"/>XIII. In AVGVSTINI Epistola 66. editionis
+          <lb ed="#G" n="23"/>Basileensis, anno 1556. &amp; anno 1569. Parisiensis,
+          <lb ed="#G" n="24"/>anno 1586. Antrerpiensis 1577. haec nunc
+          le<lb ed="#G" n="25" break="no"/>guntur: Spiritus sanctus non sicut creatura ex
+          ni<lb ed="#G" n="26" break="no"/>bilo est factus, sed sic a Patre Filioque procedit, ut
+          <lb ed="#G" n="27"/>nec a Filio sit factus. Aliae autem editiones
+          ni<lb ed="#G" n="28" break="no"/>hil ibi de processione habent: aliae vero habent
+          <lb ed="#G" n="29"/>quidem processionem, sed eam a Patre tantum
+          re<pb ed="#G" n="283"/><lb ed="#G" n="1" break="no"/>petunt. In Epistolis Augustini seorsim Parisiis
+          edi<lb ed="#G" n="2" break="no"/>tis, anno 1516. Item in editionibus operum ejus
+          <lb ed="#G" n="3"/>Basileae, anno 1528. &amp; anno 1541. &amp; anno 1545.
+          <lb ed="#G" n="4"/>nihil est de processione in loco citato. In
+          editio<lb ed="#G" n="5" break="no"/>ne Veneta anno 1552. ita leguntur: Spiritus quoque
+          <lb ed="#G" n="6"/>sanctus non sicut creatura ex nihilo factus, (sed
+          <lb ed="#G" n="7"/>sic a Patre procedit, ut nec a Patre nec a Filio sit
+          <lb ed="#G" n="8"/>factus), ut scilicet ultima verba parenthesi
+          inclu<lb ed="#G" n="9" break="no"/>dantur. Ita pariter habet editio Parisiensis anno
+          <lb ed="#G" n="10"/>1541. &amp; alia anno 1555. sed &amp; ex consequenti
+          tex<lb ed="#G" n="11" break="no"/>tu id ipsum apparet: ita enim ibidem pergit
+          Au<lb ed="#G" n="12" break="no"/>gustinus: neque enim Pater, ut haberet Filium de
+          <lb ed="#G" n="13"/>se ipso, minuit se ipsum, sed ita genuit de se
+          alte<lb ed="#G" n="14" break="no"/>rum se, ut totus maneret in se, &amp; esset in Filio
+          tan<lb ed="#G" n="15" break="no"/>tus, quantus &amp; solus, similiter &amp; Spiritus sanctus
+          <lb ed="#G" n="16"/>integer de integro, non praecedit, unde procedit,
+          <lb ed="#G" n="17"/>sed tantus cum illo, quantus ex illo, nec minuit
+          <lb ed="#G" n="18"/>eum procedendo, nec auget haerendo. Non
+          uti<lb ed="#G" n="19" break="no"/>que unius hic, a quo procedit Spiritus sanctus,
+          <lb ed="#G" n="20"/>meminisset Augustinus, si prius dixisset a Patre eum
+          <lb ed="#G" n="21"/>Filioque procedere.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e872">
+          <lb ed="#G" n="22"/>§. 249.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e877">
+          <lb ed="#G" n="23"/>XIV. LOMBARDVS libro 1. sententiarum
+          di<lb ed="#G" n="24" break="no"/>stinct. 18. haec citat ex lib. 1. Augustini de
+          Trinita<lb ed="#G" n="25" break="no"/>te cap. 11. Spiritus sanctus est donum Patris &amp;
+          Fi<lb ed="#G" n="26" break="no"/>lii, quia &amp; a Patre procedit &amp; a Filio. Hodie
+          <lb ed="#G" n="27"/>vero omnes editiones sic legunt loco citato:
+          Spi<lb ed="#G" n="28" break="no"/>ritus sanctus est donum Patris &amp; Filii, quia &amp; a
+          <lb ed="#G" n="29"/>Patre procedit, sicut Dominus dicit, &amp; quod
+          Apo<lb ed="#G" n="30" break="no"/>stolus ait: qui spiritum Christi non habet, hic non
+          <lb ed="#G" n="31"/>est ejus, de ipso utique sancto spiritu ait.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e900">
+          <pb ed="#G" n="284"/><lb ed="#G" n="1"/>§. 250.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e906">
+          <lb ed="#G" n="2"/>XV. Lib. xv. de Trinitate AVCVSTINI
+          <lb ed="#G" n="3"/>haec occurrunt verba cap. 27. Ipsa tibi ostendit in
+          <lb ed="#G" n="4"/>te tria illa, in quibus tu summae ipsius, quam
+          <lb ed="#G" n="5"/>fixis oculis nondum contemplari vales, imaginem
+          <lb ed="#G" n="6"/>Trinitatis agnosceres. Ipsa ostendit tibi verbum
+          <lb ed="#G" n="7"/>verum esse in te, quando de scientia tua gignitur, id
+          <lb ed="#G" n="8"/>est, quando, quod scimus, dicimus; quamvis nullius
+          <lb ed="#G" n="9"/>gentis lingua significantem vocem vel proferamus,
+          <lb ed="#G" n="10"/>vel cogitemus, sed ex illo, quod novimus, cogitatio
+          <lb ed="#G" n="11"/>nostra formetur; sitque in acie cogitantis, imago
+          <lb ed="#G" n="12"/>simillima cogitationis ejus, quam memoria
+          contine<lb ed="#G" n="13" break="no"/>bat, ista duo scilicet velut Parentem ac prolem
+          ter<lb ed="#G" n="14" break="no"/>tia voluntate sive dilectione jungente. Quam
+          qui<lb ed="#G" n="15" break="no"/>dem voluntatem de cogitatione procedere. Hic
+          ve<lb ed="#G" n="16" break="no"/>ro latere fraudem prodit editio sVeneta anno 1552.
+          <lb ed="#G" n="17"/>ibi enim ad haec verba annotatio ista posita est:
+          <lb ed="#G" n="18"/>vetera interim loco cogitationis habent cognitionis; o)
+          <lb ed="#G" n="19"/>Nimirum Augustinus Patrem assimilat scientiae seu
+          <lb ed="#G" n="20"/>cognitioni, Filium verbo mentis, quod &amp;
+          cogita<lb ed="#G" n="21" break="no"/>tionem appellat. Scripserat ergo voluntatem, hoc
+          <lb ed="#G" n="22"/>est, Spiritum Sanctus procedere a scientia, seu
+          cognitio<lb ed="#G" n="23" break="no"/>ne, hoc est, a Patre, ut annotavit editio Veneta:
+          <lb ed="#G" n="24"/>latini autem falsatores vocem cognitionis,
+          muta<pb ed="#G" n="285"/><lb ed="#G" n="1" break="no"/>runt in vocem, cogitationis, ut a cogitatione, hoc
+          <lb ed="#G" n="2"/>est, a Filio dicatur procedere Spiritus Sancts Patet id
+          <lb ed="#G" n="3"/>ipsum &amp; ex contextu: subdit enim ibidem
+          Au<lb ed="#G" n="4" break="no"/>gustinus: Nemo enim vult, quod omnino, quid, vel
+          <lb ed="#G" n="5"/>quale sit, nescit. Dixit igitur prius a scientia seu
+          <lb ed="#G" n="6"/>cognitione non a cogitatione procedere voluntatem.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e973">
+          <lb ed="#G" n="7"/>§. 251.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e978">
+          <lb ed="#G" n="8"/>XVI. Apud eundem AVGVSTINVM serm.
+          <lb ed="#G" n="9"/>38. de tempore, secundum omnes editionesD ista
+          <lb ed="#G" n="10"/>hodie leguntur: Spiritus sanctus nec ingenitus, sed
+          <lb ed="#G" n="11"/>tantum procedere de Patre &amp; Filio salva fide
+          dicen<lb ed="#G" n="12" break="no"/>dus est, qui cum non de Patre procedit in Filium, &amp;
+          <lb ed="#G" n="13"/>de Filio procedit ad sonctificandam creaturam,
+          si<lb ed="#G" n="14" break="no"/>cut quidam male intelligentes credendum esse
+          puta<lb ed="#G" n="15" break="no"/>bant, sed simul de utroque procedit: quia Pater
+          ta<lb ed="#G" n="16" break="no"/>lem genuit Filium, ut quemadmodum de se, ita de
+          <lb ed="#G" n="17"/>illo quoque procedat Spiritus sanctus. Sola vero
+          <lb ed="#G" n="18"/>per se ista verba corruptelam produnt. Nam
+          fa<lb ed="#G" n="19" break="no"/>tentibus ipsis latinis, nulla usquam fuit quaestio,
+          <lb ed="#G" n="20"/>dum controversia de processione Spiritus sancti,
+          <lb ed="#G" n="21"/>aqd Nestorii, Theodoreti, &amp; cyrilli Alexandrini
+          <lb ed="#G" n="22"/>lites. AvGVSTINVS autem ne nomen quidem
+          <lb ed="#G" n="23"/>Nestorii inaudiit; prius enim obiit, quam ejus
+          <lb ed="#G" n="24"/>mqus excitarentur. Ephesina enim synodus
+          ha<pb ed="#G" n="286"/><lb ed="#G" n="1" break="no"/>buit in animo etiam Augustinum advocare, magni
+          <lb ed="#G" n="2"/>tunc nominis Theologum: sed interea fama
+          per<lb ed="#G" n="3" break="no"/>crebuit, ipsum jam obiisse, ut patet ex actis
+          con<lb ed="#G" n="4" break="no"/>cilii Ephesini. Hinc Augustinus nusquam in suis
+          <lb ed="#G" n="5"/>scriptis, ne in illo quidem Haereticorum
+          catha<lb ed="#G" n="6" break="no"/>logo meminit Nestorii, diligentissimus alioquin
+          <lb ed="#G" n="7"/>scriptor. Quomodo igitur ille reprehenderet jam
+          <lb ed="#G" n="8"/>quosdam, qui de processione, non sicut latini,
+          sen<lb ed="#G" n="9" break="no"/>tiebant? Deinde ipse clarissime docuit, Spiritum
+          <lb ed="#G" n="10"/>Sc. a solo Patre procedere; ut &amp; vidimus supra cap.
+          <lb ed="#G" n="11"/>1v. Qui igitur accusasset sui similes? Sed &amp;
+          sty<lb ed="#G" n="12" break="no"/>lus, syntaxisque haec licet paucorum verborum,
+          <lb ed="#G" n="13"/>olet putidum ludimagistrum, non Augustinum;
+          il<lb ed="#G" n="14" break="no"/>la praesertim ultima, quia Pater talem genuit
+          Fi<lb ed="#G" n="15" break="no"/>lium, ut quemadmodum de se, ita de illo quoque
+          pro<lb ed="#G" n="16" break="no"/>cedat Spiritus Sanctus nata sunt tunc, quando
+          Scotisti<lb ed="#G" n="17" break="no"/>ca, Thomisticaque quodlibeta nata sunt.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1055">
+          <lb ed="#G" n="18"/>§. 252.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1060">
+          <lb ed="#G" n="19"/>XVII. Pari modo produnt se fraudes aliis in
+          <lb ed="#G" n="20"/>locis Augustini; ut I libr. xv. de Trinitate cap.
+          <lb ed="#G" n="21"/>26. 2 Ibidem cap. 27. 3) Tractatu in Ioannem 9o.
+          <lb ed="#G" n="22"/>&amp; alibi: ubi prolixas habet disputationes pro
+          Spi<lb ed="#G" n="23" break="no"/>ritus Sanctus processione a Filio. Sed quae in
+          memo<lb ed="#G" n="24" break="no"/>rato in loannem tractatu leguntur, haec eadem,
+          <lb ed="#G" n="25"/>non mutatis verbis, leguntur lib. xv. de
+          Trinita<lb ed="#G" n="26" break="no"/>te cap. 27. &amp; subdit: Haec de illo sermone in hunc
+          <lb ed="#G" n="27"/>librum transtuli, sed fidelibus, non infidelibus
+          lo<lb ed="#G" n="28" break="no"/>quens. Spuria ista omnia, nec ab Augustino
+          pro<lb ed="#G" n="29" break="no"/>fecta. Nam non est mos doctorum orationes
+          <lb ed="#G" n="30"/>suas alibi positas, quo ad singula, eaque prolixa
+          <pb ed="#G" n="287"/><lb ed="#G" n="1"/>verba alio transcribere, nisi quaedam hoc posceret
+          <lb ed="#G" n="2"/>singularis necessitas. Nam cur ita facerent? num
+          <lb ed="#G" n="3"/>sensa sua aliter atque aliter effari non possent, nisi
+          <lb ed="#G" n="4"/>ut semel effati sunt? Tales vocantur infantes &amp;
+          <lb ed="#G" n="5"/>elingues. 2) Et hic etiam prior valet censura,
+          <lb ed="#G" n="6"/>quod scilicet nulla tum adhuc extiterit de hac re
+          <lb ed="#G" n="7"/>controversia; cur ergo dixisset: sed fidelibus, non
+          <lb ed="#G" n="8"/>infidelibus loquor. 3) Ceterum clarissime
+          depre<lb ed="#G" n="9" break="no"/>henditur corruptela ista ex Beda, qui commentario
+          <lb ed="#G" n="10"/>in Ioannis caput XVI. Augustini verba
+          exscri<lb ed="#G" n="11" break="no"/>bit ex dicto Tractatu, &amp; ista tamen non habet.
+          <lb ed="#G" n="12"/>4) Dubium etiam est, an tractatus in Ioannem ille
+          <lb ed="#G" n="13"/>sit foetus Augustini, tametsi PoSSIDIVS inter
+          <lb ed="#G" n="14"/>opera ejus enumeret tomo 1. ab initio, in vita
+          <lb ed="#G" n="15"/>Augustini. AVGVSTINVS enim ante mortem
+          <lb ed="#G" n="16"/>omnia sua opera retractavit, hoc est, recognovit,
+          <lb ed="#G" n="17"/>recensuit, &amp; si quae dubia vel male sonantia
+          es<lb ed="#G" n="18" break="no"/>sent, correxit, &amp; tamen horum tractatuum non
+          <lb ed="#G" n="19"/>meminit. Po SSIDIVS potuit Augustini nomine
+          <lb ed="#G" n="20"/>falli, vel sua opinione, vel Possidii indiculus ille
+          <lb ed="#G" n="21"/>ab alio fuit auctus postea.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1136">
+          <lb ed="#G" n="22"/>§. 253.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1141">
+          <lb ed="#G" n="23"/>XVIII. Dialogo quaestionum sexaginta quinque,
+          <lb ed="#G" n="24"/>quaestion. XI. tom. 4. sic habet: Spiritus non loquetur
+          <lb ed="#G" n="25"/>a semet ipso, quia non est a semet ipso: Pater enim
+          <lb ed="#G" n="26"/>a nullo est natus, Filius a Patre est genitus,
+          Spi<lb ed="#G" n="27" break="no"/>ritus sanctus a Patre &amp; Filio procedens. Verba
+          <lb ed="#G" n="28"/>ultima corrupta esse patet ex iis, quae ibidem
+          sub<lb ed="#G" n="29" break="no"/>dit Augustinus. Pergit enim: audire illi esse est;
+          <lb ed="#G" n="30"/>esse autem a se non est, sed a Patre: ideo
+          quae<pb ed="#G" n="288"/><lb ed="#G" n="1" break="no"/>cunque audit, loquitur. Non omisisset hic Filium,
+          <lb ed="#G" n="2"/>si ibi Patri conjunxisset; nam per haec reddit
+          ra<lb ed="#G" n="3" break="no"/>tionem prioris dicti. 2 Paria vero habentur
+          tra<lb ed="#G" n="4" break="no"/>ctatu 9o. in Ioannem, (sive eos Augustinus, seu
+          <lb ed="#G" n="5"/>alius, sed Augustini imitator ediderit) &amp; non
+          ha<lb ed="#G" n="6" break="no"/>bent additamentum, ita enim leguntur: Non
+          lo<lb ed="#G" n="7" break="no"/>quetur a semet ipso, quia non est a semet ipso;
+          Pa<lb ed="#G" n="8" break="no"/>ter enim solus de alio non est: nam &amp; Filius a
+          Pa<lb ed="#G" n="9" break="no"/>tre est genitus, &amp; Spiritus de Patre procedit. 3)
+          <lb ed="#G" n="10"/>Denique citata hic verba Augustini, quae
+          subjici<lb ed="#G" n="11" break="no"/>untur corruptis, cum secundum omnes editiones
+          <lb ed="#G" n="12"/>illud augmentum non habeant, ait tamen
+          LERNI<lb ed="#G" n="13" break="no"/>KAV sese vidisse cum augmento, in codice
+          manu<lb ed="#G" n="14" break="no"/>scripto, in Bibliotheca Oxoniensi in Anglia, sub
+          <lb ed="#G" n="15"/>litera H. num. 22. scilicet ubique reperiunrur
+          ve<lb ed="#G" n="16" break="no"/>stigia malae fidei latinorum.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1197">
+          <lb ed="#G" n="17"/>§. 254.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1202">
+          <lb ed="#G" n="18"/>XIX. Libro xv. de Trinitate, cap. 12. Et
+          <lb ed="#G" n="19"/>tamen non frustra in hac Trinitate non dicitur
+          ver<lb ed="#G" n="20" break="no"/>bum nisi Filius, nec donum Dei, nisi Spiritus Sanctu nec
+          <lb ed="#G" n="21"/>de quo genitum est verbum, &amp; de quo procedit
+          prin<lb ed="#G" n="22" break="no"/>cipaliter Spiritus Sanctus nisi Deus Pater. Ideo autem
+          <pb ed="#G" n="289"/><lb ed="#G" n="1"/>adidi, principaliter, quia &amp; de Filio Spiritus Sanct
+          <lb ed="#G" n="2"/>procedere reperitur. Cui emunctae nares sunt,
+          fa<lb ed="#G" n="3" break="no"/>cile haec odoratur. AVGVSTINVS vult
+          osten<lb ed="#G" n="4" break="no"/>dere, quid huic, quid illi personae sit proprium:
+          <lb ed="#G" n="5"/>cur ergo hic diceret de productione Spiritus Sanctus si
+          <lb ed="#G" n="6"/>quidem eam Patri &amp; Filio putabat esse
+          commu<lb ed="#G" n="7" break="no"/>nem? Sed principaliter a Patre eum procedere
+          <lb ed="#G" n="8"/>ait, &amp; hoc est Patri proprium. Sed hoc
+          princi<lb ed="#G" n="9" break="no"/>paliter, sicuti &amp; subjecta dicti istius ratio, ideo
+          <lb ed="#G" n="10"/>dixi, principaliter, stercus falsatoris est. Nam
+          <lb ed="#G" n="11"/>nec latini dicunt Spiritum Sanctu a Patre principaliter,
+          <lb ed="#G" n="12"/>a Filio autem minus principaliter procedere, sed
+          <lb ed="#G" n="13"/>procedere ab utroque ajunt unica actione. Et si
+          <lb ed="#G" n="14"/>tale quid dixisset Augustinus, rationem vocis illius
+          <lb ed="#G" n="15"/>subjecisset; ut taceam vocabulum barbarum esse,
+          <lb ed="#G" n="16"/>nec Augustino usitatum; &amp; si dixisset, quia &amp; a
+          <lb ed="#G" n="17"/>Filio Spiritus Sanctus procedere reperitur: mox
+          citas<lb ed="#G" n="18" break="no"/>set scripturae locum, ubi putabat hoc reperiri.
+          <lb ed="#G" n="19"/>Haec enim est viri illius indoles, haec est
+          omni<lb ed="#G" n="20" break="no"/>um, qui solide docti sunt.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1260">
+          <lb ed="#G" n="21"/>§. 225.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1265">
+          <lb ed="#G" n="22"/>XX. Libro de Trinitate &amp; unitate, cap. 5. haec
+          <lb ed="#G" n="23"/>apud Augustinum leges: solus Pater non dicitur
+          mis<lb ed="#G" n="24" break="no"/>sus, non enim splendor aut fervor ignem, sed ignis
+          <lb ed="#G" n="25"/>mittit sive splendorem, sive fervorem: sic Pater
+          <lb ed="#G" n="26"/>mittit Filium, &amp; Spiritus Sanctus ab utroque procedit.
+          <lb ed="#G" n="27"/>At ultima esse adulterina, quis non vidct. Nam
+          <pb ed="#G" n="290"/><lb ed="#G" n="1"/>cur ita diceret hic, etiamsi crederet? quaerit
+          <lb ed="#G" n="2"/>de missione, quid ergo opus fuit mentionem
+          face<lb ed="#G" n="3" break="no"/>re processionis? quaerit vero, cur solus Pater non
+          <lb ed="#G" n="4"/>sit missus, quid ergo adhaec facit: Et Spiritus Sancti
+          <lb ed="#G" n="5"/>ab utroque procedit. Loquuntur &amp; ita, sed
+          ho<lb ed="#G" n="6" break="no"/>mines bardi, battologi, non Augustini. 2)
+          De<lb ed="#G" n="7" break="no"/>inde usus est similitudine: ignis, inquit, mittit
+          <lb ed="#G" n="8"/>sive splendorem sive fervorem. Ubi igni Patrem,
+          <lb ed="#G" n="9"/>splendori Filium, fervori Spiritum Sanctu assimilat.
+          Igi<lb ed="#G" n="10" break="no"/>tur ita consequenter diceret: sic Pater mittit &amp;
+          <lb ed="#G" n="11"/>Filium &amp; Spiritum Sanct Quo modo autem hodie
+          <lb ed="#G" n="12"/>imprimitur, minime respondet similitudini. 3)
+          <lb ed="#G" n="13"/>Cum vero multa hujus capitis desumpta sint ex
+          li<lb ed="#G" n="14" break="no"/>bro contra Arianorum sermonem, quae his
+          respon<lb ed="#G" n="15" break="no"/>dent, sub eadem ignis, splendoris, &amp; fervoris
+          alle<lb ed="#G" n="16" break="no"/>goria, non habent illud: sic Pater mittit filium.
+          <lb ed="#G" n="17"/>cet. A) Sed nec rei pro similitudine hic
+          usurpa<lb ed="#G" n="18" break="no"/>tae natura talis est, ut hic esse subintelligitur:
+          si<lb ed="#G" n="19" break="no"/>quidem splendor non producit fervorem, sed
+          uter<lb ed="#G" n="20" break="no"/>que ab igne oritur.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1326">
+          <lb ed="#G" n="21"/>§. 256.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1331">
+          <lb ed="#G" n="22"/>XXI. Eodem libro cap. 10. Spiritus Sancts a Filio
+          <lb ed="#G" n="23"/>non est factus, sed a Patre Filioque procedens. At
+          <lb ed="#G" n="24"/>haec ipsa dicuntur in libro contra sermonem
+          Aria<lb ed="#G" n="25" break="no"/>norum, cap. XXI. &amp; ita se habent: factum a Filio
+          di<pb ed="#G" n="291"/><lb ed="#G" n="1" break="no"/>cunt Spiritum Sanctus quod in scriptura nusquam legunt,
+          <lb ed="#G" n="2"/>cum Filius ipse dicat, quod spiritus a Patre
+          proce<lb ed="#G" n="3" break="no"/>dat. Nota interim, librum hunc de unitate &amp;
+          <lb ed="#G" n="4"/>Trinitate non esse Augustini, quod patet ex
+          diver<lb ed="#G" n="5" break="no"/>sitate, &amp; barbarie stili, &amp; ex eo etiam, qud a
+          ca<lb ed="#G" n="6" break="no"/>pite V. usque ad finem plurima, si non omnia, ex
+          <lb ed="#G" n="7"/>libro Augustini contra sermonem Arianorum
+          de<lb ed="#G" n="8" break="no"/>sumpta sint, ut jam diximus: ita vero viri docti
+          <lb ed="#G" n="9"/>non faciunt. Quid enim opus est, unum
+          cundem<lb ed="#G" n="10" break="no"/>que librum bis scribere, &amp; unum pro duobus
+          ven<lb ed="#G" n="11" break="no"/>ditare? Hinc &amp; Editor fatetur librum hunc non
+          <lb ed="#G" n="12"/>esse Augustini, ac propterea etiam extra opera
+          Au<lb ed="#G" n="13" break="no"/>gustini &amp; diverso charactere impressit. Vel
+          igi<lb ed="#G" n="14" break="no"/>tur Compilator ipse hujus libri, Augustini verba
+          <lb ed="#G" n="15"/>quasi sua fundens corrupit, vel aliunde ab aliis
+          al<lb ed="#G" n="16" break="no"/>laboratum est.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1378">
+          <lb ed="#G" n="17"/>§. 257.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1383">
+          <lb ed="#G" n="18"/>XXII. Repete vero hic Augustini locum ex
+          <lb ed="#G" n="19"/>libro contra sermonem Arianorum cap. 23. quem
+          ci<lb ed="#G" n="20" break="no"/>tavimus supra, cap. IV. in testimoniis tertii
+          gene<lb ed="#G" n="21" break="no"/>ris num. II. ubi clarissime docet Spiritum sanctum
+          <lb ed="#G" n="22"/>a solo Patre procedere; &amp; confer illa cum his, quae
+          <lb ed="#G" n="23"/>in dicto jam pseudo Augustiniano libro de
+          Trinita<lb ed="#G" n="24" break="no"/>te &amp; unitate ita leguntur: cum Filius &amp; Spiritus
+          <lb ed="#G" n="25"/>sanctus ambo a Patre, ille nascatur, iste procedat,
+          <lb ed="#G" n="26"/>quae duo in illius naturae sublimitate discernere
+          <lb ed="#G" n="27"/>omnino est difficile: ergo ne putaretur, dictum est:
+          <lb ed="#G" n="28"/>quia de meo accipiet, ista sine dubio intellipi volens,
+          <lb ed="#G" n="29"/>quod de Patre accipiat, sed ideo de ipso Filio, quia
+          <lb ed="#G" n="30"/>onnio, quae habet Pater, ipsuus sunt. faec
+          at<pb ed="#G" n="292"/><lb ed="#G" n="1" break="no"/>tem non est diversitas naturae, sed unius principii
+          <lb ed="#G" n="2"/>commendatio. Ubi vides alia inversa, alia omissa,
+          <lb ed="#G" n="3"/>ut nec sensus ullus sit. Quid enim sibi vult illud:
+          <lb ed="#G" n="4"/>ergo ne putaretur, dictum est. Quid ne putaretur?
+          <lb ed="#G" n="5"/>scutica erat dignus iste nebulo.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1426">
+          <lb ed="#G" n="6"/>§. 258.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1431">
+          <lb ed="#G" n="7"/>XXIII. RATRAMNVS toties supra
+          memora<lb ed="#G" n="8" break="no"/>tus Corbejensis monachus lib. 3. cap. 6. haec
+          ci<lb ed="#G" n="9" break="no"/>tat ex libro de unita natura divinitatis, qui non est
+          <lb ed="#G" n="10"/>Athanasii, sed cujusdam latini, sub Athanasii tamen
+          <lb ed="#G" n="11"/>nomine circumfertur: non alius est Spiritus hic
+          prin<lb ed="#G" n="12" break="no"/>cipalis Paracletus a Patre &amp; Filio, qui in pentecoste
+          <lb ed="#G" n="13"/>in Apostolos effusus est, quia vere de unita
+          divinita<lb ed="#G" n="14" break="no"/>te Patris &amp; Filii procedit. At ista ultima verba
+          <lb ed="#G" n="15"/>secundum omnes Athanasii editiones, in dicto
+          li<lb ed="#G" n="16" break="no"/>bro nunc non habentur. AENEAS quoque
+          Epi<lb ed="#G" n="17" break="no"/>scopus Parisiensis agens de processione Spiritus Sanct
+          <lb ed="#G" n="18"/>tom. VII. Spicilegii veterum a Luca Dacherio
+          edi<lb ed="#G" n="19" break="no"/>ti pag. 13. verba illa ita citat, sicuti nunc
+          impri<lb ed="#G" n="20" break="no"/>muntur, non sicuti Ratramnus laudabat. Uterque
+          <lb ed="#G" n="21"/>autem, AENEAS iste &amp; RATRAMNVS eodem
+          an<lb ed="#G" n="22" break="no"/>no scribebant, seculo IX. Ergo jam tunc scripta
+          <lb ed="#G" n="23"/>Patrum a Latinis corrumpebantur.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1471">
+          <lb ed="#G" n="24"/>§. 259.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1476">
+          <lb ed="#G" n="25"/>XXIV. Dictus nunc liber de unita natura
+          di<lb ed="#G" n="26" break="no"/>vinitatis numero VIII. qui in Parisiensi operum
+          <lb ed="#G" n="27"/>Athanasii editione anno 1627. inscribitur: de
+          Ca<lb ed="#G" n="28" break="no"/>tholica &amp; ariana confessione ad Theophilum, tom.
+          <pb ed="#G" n="293"/><lb ed="#G" n="1"/>II. p. 576. in editionc vero a MONTFAVCONIO
+          <lb ed="#G" n="2"/>adornata, pag. 625. &amp; secundum alias editiones,
+          <lb ed="#G" n="3"/>in quibus liber iste octavus habetur, in
+          Comme<lb ed="#G" n="4" break="no"/>liniana autem non reperitur, ita habct: ego credo
+          <lb ed="#G" n="5"/>Filium in Patre, &amp; Patrem in Filio, spiritum
+          <lb ed="#G" n="6"/>quoque Sanctu paracletum, qui procedit a Patre &amp;
+          Fi<lb ed="#G" n="7" break="no"/>lio, esse &amp; Patris, quia &amp; a Filio procedit, sicut
+          <lb ed="#G" n="8"/>&amp; in evangelio scriptum est, quod per
+          insufflatio<lb ed="#G" n="9" break="no"/>nem suam dederit discipulis suis Spiritum sanctum.
+          <lb ed="#G" n="10"/>Sponte prodit se corruptela: quid enim est
+          dice<lb ed="#G" n="11" break="no"/>re: esse &amp; Patris, quia &amp; a Filio procedit? Et
+          <lb ed="#G" n="12"/>praeterea oratores Aquisgranenses locum hunc sub
+          <lb ed="#G" n="13"/>nomine Athanasii ita citarunt Leoni Papae
+          deci<lb ed="#G" n="14" break="no"/>piendo: Spiritum quoque paracletum, qui procedit
+          <lb ed="#G" n="15"/>a Patre, esse &amp; Filii &amp; Patris, quia &amp; a Filio
+          <lb ed="#G" n="16"/>procedit. Scilicet aliter &amp; aliter sciunt isti scripta
+          <lb ed="#G" n="17"/>corrumpere.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1525">
+          <lb ed="#G" n="18"/>§. 260.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1530">
+          <lb ed="#G" n="19"/>XXV. Apud EVSEBIVM Emesenum,
+          Domi<lb ed="#G" n="20" break="no"/>nica quarta post Pascha, tom. Vnc.u part. III.
+          Bibliothe<lb ed="#G" n="21" break="no"/>cae Patrum Colonien. A. 1618. atque inde tom. VI.
+          <lb ed="#G" n="22"/>Lugd. edit. haec habentur: Quoniam autem &amp;
+          Spi<lb ed="#G" n="23" break="no"/>ritus Sanctu &amp; Patris &amp; Filii spiritus est, unde habet
+          <pb ed="#G" n="294"/><lb ed="#G" n="1"/>esse, inde habet &amp; sapientem &amp; veracem esse; quod
+          <lb ed="#G" n="2"/>enim est esse ei, hoc est ei sapientem &amp; veracem esse,
+          <lb ed="#G" n="3"/>&amp; similia. Est enim Spiritus sapientiae &amp;
+          intel<lb ed="#G" n="4" break="no"/>lectus, est &amp; Spiritus omnis veritatis: sed haec de
+          <lb ed="#G" n="5"/>Patre Filioque habet. Et hoc est, quod Dominus
+          <lb ed="#G" n="6"/>ait: quia de meo accipiet, &amp; annunciabit vobis.
+          <lb ed="#G" n="7"/>Deprehenditur vero corruptela ex sequentibus
+          ver<lb ed="#G" n="8" break="no"/>bis. Nam mox subjicit Eusebius. Haec autem
+          <lb ed="#G" n="9"/>quoniam omnium trium communia sunt, potuit
+          dixis<lb ed="#G" n="10" break="no"/>se Dominus, si voluisset: Quia de meo &amp; suo
+          accipi<lb ed="#G" n="11" break="no"/>et, &amp; annunciabit vobis. Nam &amp; Filius quando
+          <lb ed="#G" n="12"/>praedicabat, de suo &amp; de his, quae Spiritus
+          san<lb ed="#G" n="13" break="no"/>cti sunt, accipiebat. Observa sagaciter: supra
+          di<lb ed="#G" n="14" break="no"/>ctum est, veracem &amp; sapientem esse, idem Spiritui
+          <lb ed="#G" n="15"/>sancto esse, quod est ipsum ejus esse; personaliter
+          <lb ed="#G" n="16"/>ergo accipiebatur, hic jam dicitur, ista esse
+          omni<lb ed="#G" n="17" break="no"/>um trium personarum communia. Supra dictum
+          <lb ed="#G" n="18"/>est, Spiritum Sanctus ista habere inde, unde habet esse,
+          <lb ed="#G" n="19"/>&amp; expresse a Patre &amp; Filio: hic vero dicitur,
+          ha<lb ed="#G" n="20" break="no"/>bere illa &amp; de suo: an ergo &amp; a se ipso habet
+          es<lb ed="#G" n="21" break="no"/>se? Praeterea dicitur hic, Filium quoquc &amp; de
+          <lb ed="#G" n="22"/>suo sua habere, &amp; ex iis, quae sunt Spiritus Sanct
+          <lb ed="#G" n="23"/>Si ergo prior lectio germana est, docet hic Pater
+          <lb ed="#G" n="24"/>Filium &amp; a se ipso &amp; a Spiritu Sanctu habere esse,
+          adeo<lb ed="#G" n="25" break="no"/>que generari. Vides, ut ista se prodant. Pessima
+          <lb ed="#G" n="26"/>ergo fide priora Eusebii verba corrupta sunt.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1601">
+          <pb ed="#G" n="295"/><lb ed="#G" n="1"/>§. 261.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1607">
+          <lb ed="#G" n="2"/>XXVI. Inter orthodoxographa Basileae edita
+          <lb ed="#G" n="3"/>anno 1555. p. 647. occurrit confessio fidci LVGENII
+          <lb ed="#G" n="4"/>Carthaginensis Episcopi, in qua haec leguntur: de
+          <lb ed="#G" n="5"/>Patre &amp; Filio procedentem Spiritum Sanctu credimus
+          <lb ed="#G" n="6"/>unius esse substantiae atque essentiae. At ipsa haec
+          <lb ed="#G" n="7"/>confessio refertur a VICTOREViticensi Episcopo
+          <lb ed="#G" n="8"/>lib. 2. persecutionum Pandalicarum, &amp; vocem
+          <lb ed="#G" n="9"/>Filioque ibi non habet.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1628">
+          <lb ed="#G" n="10"/>§. 262.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1633">
+          <lb ed="#G" n="11"/>XXVII. RVSTICI Cardinalis corruptum
+          lo<lb ed="#G" n="12" break="no"/>cum notavimus cap. IV. num. IX. §. 95. corruptus
+          <lb ed="#G" n="13"/>enim revera est, ubi dicitur, quod dubitet ille
+          <lb ed="#G" n="14"/>Auctor de processione Spiritus Sanct a Filio. An
+          <lb ed="#G" n="15"/>enim Cardinalis Romanus nesciret, quid Romana
+          <lb ed="#G" n="16"/>ecclesia de hoc articulo sentiret? Praeterea non
+          <lb ed="#G" n="17"/>cohaerent verba, si illa dubitatio vera &amp; genuina
+          <lb ed="#G" n="18"/>sit, ut patet consideranti.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1653">
+          <lb ed="#G" n="19"/>§. 263.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1658">
+          <lb ed="#G" n="20"/>XXVIII. In VIGILII Episcopi Tridentini
+          <lb ed="#G" n="21"/>libr. 1. contra Eutuchem haec habentur, juxta
+          Bi<lb ed="#G" n="22" break="no"/>bliothecam Patrum Parisiensem de la Bigne, anno
+          <pb ed="#G" n="296"/><lb ed="#G" n="1"/>1610. &amp; Parisiensem de la Bigne, anno 1624.
+          Au<lb ed="#G" n="2" break="no"/>di manifestius, proprium Patris est, genuisse, &amp;
+          <lb ed="#G" n="3"/>proprium Filii, natum esse, proprium vero
+          Spiri<lb ed="#G" n="4" break="no"/>tus Sanctu procedere de Patre Filioque. At in prima
+          <lb ed="#G" n="5"/>editione Parisiensi de la Bigne anno 1575. &amp;
+          <lb ed="#G" n="6"/>in secunda ejusdem anno 1589. haec ita leguntur:
+          <lb ed="#G" n="7"/>Proprium vero Spiritus Sancu procedere. Nec
+          ad<lb ed="#G" n="8" break="no"/>ditur vel de Patre, vel de Filio, sed tantum,
+          pro<lb ed="#G" n="9" break="no"/>cedere, proprium dicitur.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1688">
+          <lb ed="#G" n="10"/>§. 264.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1693">
+          <lb ed="#G" n="11"/>XXIX. HORMISDA Papa Romanus in
+          Epi<lb ed="#G" n="12" break="no"/>stola 79. quae est ad lustinum Imperatorem tom.
+          <lb ed="#G" n="13"/>IV. concil. LABBEIita nunc habet: tamen notum
+          <lb ed="#G" n="14"/>est, quia proprium est Patris, ut generaret
+          Fili<lb ed="#G" n="15" break="no"/>um, proprium Filii Dei, ut ex Patre Patri
+          nas<lb ed="#G" n="16" break="no"/>ceretur aequalis, proprium Spiritus sancti, ut de
+          <lb ed="#G" n="17"/>Patre &amp; Filio procederet, sub una substantia
+          dei<lb ed="#G" n="18" break="no"/>tatis. Haec vero ultima a quodam, qui cum
+          ma<lb ed="#G" n="19" break="no"/>nuscripto contulit, deleta esse, idque se vidisse ait
+          <lb ed="#G" n="20"/>LERNIKAV Hamburgi, ad scholam Sanctu Ioannis in
+          <pb ed="#G" n="297"/><lb ed="#G" n="1"/>Bibliotheca, &amp; ita restituta: notum etiam, quod sit
+          <lb ed="#G" n="2"/>proprium Spiritus sancti.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1724">
+          <lb ed="#G" n="3"/>§. 265.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1729">
+          <lb ed="#G" n="4"/>XXX. In concilio Toletano in Hispania
+          cele<lb ed="#G" n="5" break="no"/>brato anno 589. quod numero tertium in urbe
+          To<lb ed="#G" n="6" break="no"/>leto fuit habitum, juxta editionem Regiam, anno
+          <lb ed="#G" n="7"/>1644. tom. XIII. concil. &amp; alteram Parisiensem,
+          an<lb ed="#G" n="8" break="no"/>no 1671. tom. V. refertur Rex Reccaredus recitare
+          <lb ed="#G" n="9"/>constantinopolitanum symbolum cum
+          additamen<lb ed="#G" n="10" break="no"/>t0. At in editione Conciliorum Coloniensi
+          an<lb ed="#G" n="11" break="no"/>no 1530. folio 107. &amp; Parisiensi vetustiore, anno
+          <lb ed="#G" n="12"/>1535. tom. I. fol. 114. legitur illud symbolum
+          abs<lb ed="#G" n="13" break="no"/>que additamento. Fatetur etiam BELLARMINVS
+          <lb ed="#G" n="14"/>absque additamento lectum fuisse symbolum in
+          <lb ed="#G" n="15"/>illo concilio lib. 2. de Christo cap. 21.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1758">
+          <lb ed="#G" n="16"/>§. 266.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1763">
+          <lb ed="#G" n="17"/>XXXI. Ex libro III. moralium Gregorii II.
+          Pa<lb ed="#G" n="18" break="no"/>pae Romani haec citavit Ioannes Florentinus
+          Di<pb ed="#G" n="298"/><lb ed="#G" n="1" break="no"/>sputator collation. XXI. concilii Floren. ab
+          Hora<lb ed="#G" n="2" break="no"/>ratio sustiniano latine editi: Et quomodo ab
+          ut<lb ed="#G" n="3" break="no"/>roque Spiritus, utrique coaeternus procedat,
+          osten<lb ed="#G" n="4" break="no"/>dit. Hodie vero secundum quasvis Gregorii
+          edi<lb ed="#G" n="5" break="no"/>tiones ita illa se habent: Et quomodo utrorumque
+          <lb ed="#G" n="6"/>Spiritus utrique coaeternus procedat, ostendit.
+          <lb ed="#G" n="7"/>Porro in editionibus Gregorii mox infra plura
+          ad<lb ed="#G" n="8" break="no"/>duntur, quibus asseritur Spiritus Sanctu a Filio
+          proce<lb ed="#G" n="9" break="no"/>dere; &amp; haec tamen Ioannes non citavit,
+          nequa<lb ed="#G" n="10" break="no"/>quam praeteriturus, si ita, ut legimus hodie,
+          legis<lb ed="#G" n="11" break="no"/>set; scilicet varii falsatores varie istum scriptorem
+          <lb ed="#G" n="12"/>violarunt.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1797">
+          <lb ed="#G" n="13"/>§. 267.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1802">
+          <lb ed="#G" n="14"/>XXXII. In libro Dialogorum GREGORII
+          <lb ed="#G" n="15"/>ejusdem secundo, capite ultimo, asseritur
+          proces<lb ed="#G" n="16" break="no"/>sio Spiritus Sanct a Filio, juxta editiones latinas.
+          Con<lb ed="#G" n="17" break="no"/>vertit vero eosdem libros in Graccum
+          LACHARI<lb ed="#G" n="18" break="no"/>AS Papa Romanus &amp; in textu Graeco, ut nunc
+          <lb ed="#G" n="19"/>imprimitur, τc Filioque non est, sed ita se habent
+          <lb ed="#G" n="20"/>verba Gregorii: a Patre procedit &amp; in Filio
+          per<lb ed="#G" n="21" break="no"/>manet. Sed objiciunt Latini, a Graecis textum
+          grae<lb ed="#G" n="22" break="no"/>cum esse corruptum, &amp; id ipsum jam olim
+          adver<lb ed="#G" n="23" break="no"/>tisse IOANNEM Diaconum Romanum, &amp; lib. 4.
+          <lb ed="#G" n="24"/>vitae Gregoru, num. 75. de hoc testari, ut est
+          <lb ed="#G" n="25"/>tom. 1. operum Gregoru editionis Romanae anno
+          <lb ed="#G" n="26"/>1588. Sed respondemus &amp; Ioanni illi ista postea
+          <lb ed="#G" n="27"/>inserta esse, adeoquc hanc esse novam
+          cor<lb ed="#G" n="28" break="no"/>ruptelam. Nam Ioannes iste vixit tempore
+          Ioan<lb ed="#G" n="29" break="no"/>nis octavi Papae, eique libros istos dedicavit.
+          Vi<lb ed="#G" n="30" break="no"/>dimus autem in historia, Ioannem hunc Papam
+          <pb ed="#G" n="299"/><lb ed="#G" n="1"/>tam additamentum, quam dogma latinorum, quod
+          <lb ed="#G" n="2"/>tunc Patronos sibi repererat, rejecissc. Quomodo
+          <lb ed="#G" n="3"/>igitur Ioannes Diaconus in iis libris fautorem se
+          <lb ed="#G" n="4"/>dogmatis Domino suo exosi professus esset?
+          De<lb ed="#G" n="5" break="no"/>inde an non erant Graeci codices etiam tunc
+          Ro<lb ed="#G" n="6" break="no"/>mae? Quid igitur? Num ubiquc omnes codices,
+          <lb ed="#G" n="7"/>etiam in Archivo paparum, Romae, Graeci
+          con<lb ed="#G" n="8" break="no"/>quisierint, &amp; corruperint? Et quidem sub ipsum
+          <lb ed="#G" n="9"/>controversiae istius initium? Quis credat?
+          Quod<lb ed="#G" n="10" break="no"/>si fieri non potuit, ut certe non potuit, cur ergo
+          <lb ed="#G" n="11"/>latini hactenus nullum codicem Graecum latino
+          <lb ed="#G" n="12"/>suo consonantem reperire &amp; nobis ostendere
+          po<lb ed="#G" n="13" break="no"/>tuere?
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1872">
+          <lb ed="#G" n="14"/>§. 268.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1877">
+          <lb ed="#G" n="15"/>XXXIII. ISIDORVS Hispalensis libr. VIII.
+          <lb ed="#G" n="16"/>riginum cap. 3. ita nunc habet: Spiritus Sanctu ideo
+          <lb ed="#G" n="17"/>praedicatur Deus, quia ex Patre Filioque
+          proce<lb ed="#G" n="18" break="no"/>dit &amp; substantiam eorum habet. Sed corruptelam
+          <lb ed="#G" n="19"/>produnt, quae mox ibidem sequuntur, pergit
+          <lb ed="#G" n="20"/>enim Isidorus: neque enim aliud a Patre
+          proce<lb ed="#G" n="21" break="no"/>dere potuit, quam quod ipse est Pater¬ At
+          dixis<lb ed="#G" n="22" break="no"/>set: neque enim aliud ab tis procedere potuit,
+          <lb ed="#G" n="23"/>quam quod ipsi illi sunt, Si prius pronunciasset,
+          <lb ed="#G" n="24"/>procedere eum a Patre Filioque, eorumque
+          sub<lb ed="#G" n="25" break="no"/>stantiam habere. Fuit vero Isidorus hic non
+          elin<lb ed="#G" n="26" break="no"/>guis, sed nitidus &amp; doctus, ut patet ex hoc ejus
+          <lb ed="#G" n="27"/>opere erudito; ergo ita ineptire non potuit.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1908">
+          <pb ed="#G" n="300"/><lb ed="#G" n="1"/>§. 269.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1914">
+          <lb ed="#G" n="2"/>XXXIV. Idem porro ISIDORVS in epistola
+          <lb ed="#G" n="3"/>ad Claudium ducem, prolixe disputat de
+          processio<lb ed="#G" n="4" break="no"/>ne Spiritus Sancti a Filio, &amp; inter alia ait inique
+          lati<lb ed="#G" n="5" break="no"/>nam ecclesiam a Graecis reprehendi, quod
+          symbo<lb ed="#G" n="6" break="no"/>lo constanopolitano addiderit, Filioque. Nam
+          <lb ed="#G" n="7"/>canones, quibus additio prohibetur, prohibere
+          <lb ed="#G" n="8"/>dicit contrariam additionem. Prodidit vero
+          ne<lb ed="#G" n="9" break="no"/>quissimum plagiarium, qui haec scriptis Isidori
+          <lb ed="#G" n="10"/>inseruit, sua chronologiae ignorantia:
+          flore<lb ed="#G" n="11" break="no"/>bat Isidorus iste seculo septimo: additamento
+          au<lb ed="#G" n="12" break="no"/>tem augere symbolum conabantur
+          Aquisgranen<lb ed="#G" n="13" break="no"/>ses circa finem seculi octavi, nec tamen tunc
+          effi<lb ed="#G" n="14" break="no"/>cere potuerunt, obstante Leone tertio, ut vidimus,
+          <lb ed="#G" n="15"/>&amp; ut omnes sponte latini fatentur. Sed hoc adhuc
+          <lb ed="#G" n="16"/>inter Latinos ipsos agebatur: Graeci nondum
+          au<lb ed="#G" n="17" break="no"/>divere, nedum cum latinis altercarentur; &amp;
+          alter<lb ed="#G" n="18" break="no"/>catio primum accendi coepit sub PHOTIO,
+          secu<lb ed="#G" n="19" break="no"/>lo nono. Quomodo igitur Isidorus ducentis ante
+          <lb ed="#G" n="20"/>annis, ista, quae audivimus, ut nunc imprimitur,
+          di<lb ed="#G" n="21" break="no"/>cere potuit? Ita etiam ille nequam, qui historiam,
+          <pb ed="#G" n="301"/><lb ed="#G" n="1"/>hoc est, anilem fabulam de miraculis Hieronymi
+          <lb ed="#G" n="2"/>sub nomine Sanctu Cyrilli Hierosolumitani edidit,
+          fin<lb ed="#G" n="3" break="no"/>git, Cyrillum conqueri de schismate Graecorum
+          <lb ed="#G" n="4"/>&amp; odio, quo se latinos prosequuntur, quasi vel
+          <lb ed="#G" n="5"/>tempore jam Cyrilli schisma istud, vel Cyrillus
+          <lb ed="#G" n="6"/>homo latinus fuerit? o stolidas pecudes Et tamen
+          <lb ed="#G" n="7"/>apud plerosque fidem sibi inveniunt; pecudes
+          sci<lb ed="#G" n="8" break="no"/>licet pecudibus credunt.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1978">
+          <lb ed="#G" n="9"/>§. 270.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e1983">
+          <lb ed="#G" n="10"/>XXXV. NICOLAVS Cichovsley toties
+          memo<lb ed="#G" n="11" break="no"/>ratus Iesuita Polonus, quaesito sl. de
+          processio<lb ed="#G" n="12" break="no"/>ne Spiritus Sanct pag. 73. ex epistola sunodica
+          Aga<lb ed="#G" n="13" break="no"/>thonis papae &amp; synodi Romanae CCVc.
+          Episcopo<lb ed="#G" n="14" break="no"/>rum (quae ad sextam oecumenicam synodum missa
+          <lb ed="#G" n="15"/>fuit) haec citat: credimus in Spiritum Sanctu ex Patre
+          <lb ed="#G" n="16"/>Filioque procedentem. Sed jesuita iste
+          corru<lb ed="#G" n="17" break="no"/>pit textum extra textum: nam ubi ita legit?
+          pri<lb ed="#G" n="18" break="no"/>mum enim omnes editiones tam Graecae quam
+          La<lb ed="#G" n="19" break="no"/>tinae concilii oecumenici VI. (inter cujus acta
+          re<lb ed="#G" n="20" break="no"/>peritur haec epistola) non habent illud, Filioque.
+          <lb ed="#G" n="21"/>2 Nullus deinde ex latinis pro dogmate suo verba
+          <lb ed="#G" n="22"/>Agathonis adduxit; cum tamen non leve hoc
+          es<lb ed="#G" n="23" break="no"/>set testimonium tot episcoporum latinorum una
+          <lb ed="#G" n="24"/>cum Papa suo. (Tametsi conqueritur Agatho in
+          <lb ed="#G" n="25"/>tanta latinorum Episcoporum caterva, ne unicum
+          <lb ed="#G" n="26"/>quidem reperiri potuisse vel mediocriter doctum,
+          <lb ed="#G" n="27"/>qui munus legationis ad syn odum oecumenicam
+          <lb ed="#G" n="28"/>sustinere posuisset. 3) HINCMARVS item
+          Rhe<lb ed="#G" n="29" break="no"/>mensis Archiepiscopus (de quo vide supra in
+          histo<lb ed="#G" n="30" break="no"/>ria) qui tempore Photii vixit, libro de trina
+          dei<pb ed="#G" n="302"/><lb ed="#G" n="1" break="no"/>tate tom. 1. operum, pag. 431. epistolam istam
+          ad<lb ed="#G" n="2" break="no"/>ducens legit illa verba sine additamento, Filioque.
+          <lb ed="#G" n="3"/>A Ipse tandem PITHOEVS, latinus homo,
+          fate<lb ed="#G" n="4" break="no"/>tur illa verba ita esse legenda: Qui ex Patre
+          pro<lb ed="#G" n="5" break="no"/>cedit, sine additamento, libro de historia istius
+          con<lb ed="#G" n="6" break="no"/>troversiae. Sed BARONIVS tamen ad annum
+          <lb ed="#G" n="7"/>360. num. 32. &amp; SEVERINVS Binius in notis ad
+          <lb ed="#G" n="8"/>illud concilium, Agathonis verba citata a Graecis
+          <lb ed="#G" n="9"/>esse corrupta volunt, sublata scilicet voce, Filioque,
+          <lb ed="#G" n="10"/>atque istorum auctoritate fascinatus, credo,
+          Ci<lb ed="#G" n="11" break="no"/>chovius ita verbis illis vim intulit. Videamus
+          ve<lb ed="#G" n="12" break="no"/>ro, quo argumento seu Binius, seu Baronius rem
+          <lb ed="#G" n="13"/>suam promoveant. Baronius ergo, citato loco,
+          <lb ed="#G" n="14"/>verba haec a Graecis corrupta esse ex eo probat,
+          <lb ed="#G" n="15"/>quod Iulianus Cardinalis (ille scilicet impius impii
+          <lb ed="#G" n="16"/>Papae Eugenii minister, apud Vladislaum Regem
+          <lb ed="#G" n="17"/>Poloniae hortator sceleris, quem ad rumpendam
+          <lb ed="#G" n="18"/>cum Amurathe pacem, juramentumque suum
+          vio<lb ed="#G" n="19" break="no"/>landum adduxit, tantaeque cladis ad
+          Var<lb ed="#G" n="20" break="no"/>nam acceptae, &amp; ipsius regiae coedis auctor
+          exsti<lb ed="#G" n="21" break="no"/>tit) in concilio Florentino de quodam corrupto
+          <lb ed="#G" n="22"/>textu Graccos arguer it, (arguebat autem de
+          cor<lb ed="#G" n="23" break="no"/>rupto symbolo septimae synodi) &amp; quod id ipsum
+          <lb ed="#G" n="24"/>Graecis suis Calecas exprobrarit. Mira profecto
+          <lb ed="#G" n="25"/>Baronii sagacitas Iulianus Cardinalis vitium
+          cor<lb ed="#G" n="26" break="no"/>rumpendi Graecis objecit, ergo illi Agathonis
+          epi<lb ed="#G" n="27" break="no"/>stolam corruperunt. Et quare hic suimet ipsius
+          <pb ed="#G" n="303"/><lb ed="#G" n="1"/>oblitus est Baronius? liceret ei ita dicere: ego
+          <lb ed="#G" n="2"/>ajo Graecos corrupisse, &amp; esset jam invictum
+          te<lb ed="#G" n="3" break="no"/>stimonium. Deinde optima consequentia:
+          obje<lb ed="#G" n="4" break="no"/>cit Iulianus Graecis, quod corruperint symbolum
+          <lb ed="#G" n="5"/>in synodo VII. recitatum, ergo illi corruperunt
+          <lb ed="#G" n="6"/>etiam verba Agathonis. Obliviosus &amp; hic fuit
+          <lb ed="#G" n="7"/>Baronius. Nam cur ita non intulit: ergo illi &amp;
+          <lb ed="#G" n="8"/>quintae &amp; quartae, &amp; tertiae, &amp; secundae synodi
+          <lb ed="#G" n="9"/>symbolum corruperunt? in iis enim conciliis
+          sym<lb ed="#G" n="10" break="no"/>bolum legitur sine additamento. Stupido
+          Baro<lb ed="#G" n="11" break="no"/>nio stupidior fuit Binius: nam cum Baronius
+          di<lb ed="#G" n="12" break="no"/>ceret de objecta graecis corruptcla septimae
+          syno<lb ed="#G" n="13" break="no"/>di, Binius putavit ipsum dicere de objecta
+          cor<lb ed="#G" n="14" break="no"/>ruptcla citatorum verborum Agathonis. Si vero
+          <lb ed="#G" n="15"/>isti non fuerint stupidi, fuerunt ergo absque
+          fron<lb ed="#G" n="16" break="no"/>te mendaces, &amp; famae suae nimis prodigi.
+          Por<lb ed="#G" n="17" break="no"/>ro ut vera fit Iuliani exprobratio de corrupto a
+          <lb ed="#G" n="18"/>Graecis symbolo synodi septimae, vidimus capite
+          <lb ed="#G" n="19"/>superiore in prima corruptela.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2134">
+          <lb ed="#G" n="20"/>§. 271.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2139">
+          <lb ed="#G" n="21"/>XXXVI. In ordine Romano de divinis officuis,
+          <lb ed="#G" n="22"/>inter scriptores de divinis officis editos Romae an.
+          <lb ed="#G" n="23"/>1601. a MELCHIOREHITTORPIO, pag. 28.
+          <lb ed="#G" n="24"/>legitur symbolum cum additamento Filioque.
+          <pb ed="#G" n="304"/><lb ed="#G" n="1"/>Ordo vero ille octavo seculo compactus
+          perhibe<lb ed="#G" n="2" break="no"/>tur. Quomodo autem seculo octavo Romana
+          ec<lb ed="#G" n="3" break="no"/>clesia auctum haberet symbolum, si demum ad
+          <lb ed="#G" n="4"/>finem illius seculi augere ita symbolum
+          Aquis<lb ed="#G" n="5" break="no"/>granenses satagebant, nec a Leone tertio obtinere
+          <lb ed="#G" n="6"/>potuerunt? Deinde eodem in loco symbolum
+          grae<lb ed="#G" n="7" break="no"/>ce sine additamento impressum est; ultro patet fraus.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2166">
+          <lb ed="#G" n="8"/>§. 272.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2171">
+          <lb ed="#G" n="9"/>XXXVII. BEDA commentario in librum
+          Boe<lb ed="#G" n="10" break="no"/>thu de Trinitate tom. Sanctu operum colum. 938.
+          con<lb ed="#G" n="11" break="no"/>queritur (id est, conqueri fingitur) inique
+          Grae<lb ed="#G" n="12" break="no"/>cos contra latinos insurgere pro aucto symbolo:
+          <lb ed="#G" n="13"/>anathema, inquit, in eos est dictum, qui aliud quid
+          <lb ed="#G" n="14"/>contrarium symbolo audent addere, se vero
+          lati<lb ed="#G" n="15" break="no"/>nos hoc non facere, imo potius Graecos aperte
+          <lb ed="#G" n="16"/>contra apostolum dicere; &amp; deinde latinum dogma
+          <lb ed="#G" n="17"/>probat ex illo dicto Apostoli: misit Spiritum
+          Fi<lb ed="#G" n="18" break="no"/>lii sui, clamantem in cordibus nostris: Abba
+          Pa<lb ed="#G" n="19" break="no"/>ter &amp;c. At haec impostura similis est illi, quae
+          <lb ed="#G" n="20"/>in Isidoro supra notata est num. XXXIV. &amp; forte ab
+          <lb ed="#G" n="21"/>codem auctore profecta. Beda enim vixit ante
+          <lb ed="#G" n="22"/>synodum oecumenicam septimam: tunc vero
+          nul<lb ed="#G" n="23" break="no"/>la suit Graecis cum latinis ncc de hoc dogmate,
+          <lb ed="#G" n="24"/>nec de additamento simultas, &amp; necdum ipsi
+          in<lb ed="#G" n="25" break="no"/>ter se latini hac de re disputarunt, &amp; nemo adhuc
+          <lb ed="#G" n="26"/>de augendo symbolo cogitavit. Patent ista ex
+          cer<lb ed="#G" n="27" break="no"/>tissima historia de legationc Aquisgranensium ad
+          <lb ed="#G" n="28"/>Leonem papam tertium.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2217">
+          <lb ed="#G" n="29"/>§. 273.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2222">
+          <lb ed="#G" n="30"/>XXXVIII. ETHERIVS Episcopus Uxamensis
+          <lb ed="#G" n="31"/>in Hispania &amp; BEATVS presbyter libr. 1. adversus
+          <pb ed="#G" n="307"/><lb ed="#G" n="1"/>Elipandum Toletanum Archiepiscopum, post
+          <lb ed="#G" n="2"/>principium tom VIII. Bibliot. PP. Colonien. pag.
+          <lb ed="#G" n="3"/>344. ita hodie loquuntur: Neque a duobus
+          proces<lb ed="#G" n="4" break="no"/>sit aut Filius, sed tantum Spiritus Sanctu ac per hoc
+          <lb ed="#G" n="5"/>solus Pater Divinus a nullo Deus est, sed a se:
+          Fi<lb ed="#G" n="6" break="no"/>lius Deus est, sicut Pater, sed a Patre est Deus, non
+          <lb ed="#G" n="7"/>a se. Spiritus quoque Sanctu Deus est, sicut Pater &amp;
+          <lb ed="#G" n="8"/>Filius, sed a Patre &amp; a Filio Deus est, non a se.
+          <lb ed="#G" n="9"/>Prodit vero fraudem &amp; citatorum verborum, &amp;
+          <lb ed="#G" n="10"/>eorum, quae sequuntur, contextus. Nam in
+          ip<lb ed="#G" n="11" break="no"/>sis verbis citatis, quid sibi velit hoc: neque a
+          duo<lb ed="#G" n="12" break="no"/>bus processit, aut Filius: sed tantum &amp;c. Quac
+          <lb ed="#G" n="13"/>sententia? imo quae loquendi ratio? Cum enim
+          <lb ed="#G" n="14"/>dixit: aut Filius, debuit adhuc alium, sub eadem
+          <lb ed="#G" n="15"/>particula, aut, subjicere: alioqui loquutio esset
+          <lb ed="#G" n="16"/>ineptissima, particula distinctiva unam rem
+          indu<lb ed="#G" n="17" break="no"/>cere. Quis non rideat ita loquentem: neque
+          mi<lb ed="#G" n="18" break="no"/>hi curae est aut domus, sed tantum suppellex?
+          quod<lb ed="#G" n="19" break="no"/>siquis scriptum ita reperisset, certe diceret esse
+          men<lb ed="#G" n="20" break="no"/>dum, &amp; ita restitueret sententiam: neque mihi
+          cu<lb ed="#G" n="21" break="no"/>rae est aut domus, aut supellex. Sic quoque
+          ci<lb ed="#G" n="22" break="no"/>tata verba restituenda sunt: neque a duobus
+          pro<lb ed="#G" n="23" break="no"/>cessit aut Filius, aut Spiritus Sanct Haec erat
+          le<pb ed="#G" n="308"/><lb ed="#G" n="1" break="no"/>ctio genuina, sed Latinis contraria, quae proinde
+          <lb ed="#G" n="2"/>rudis nescio quis plagiarius in suam transformare
+          <lb ed="#G" n="3"/>allaboravit, sed infeliciter. Id ipsum patet ex
+          <lb ed="#G" n="4"/>mox subjectis verbis; nam ita ibi pergit Etherius:
+          <lb ed="#G" n="5"/>solus Pater a se Deus, hi vero duo ab uno sunt
+          <lb ed="#G" n="6"/>Deus, id est, a Patre. Ait hic utrumque esse ab
+          <lb ed="#G" n="7"/>uno, ergo supra dicebat neutrum esse a duobus;
+          <lb ed="#G" n="8"/>&amp; sic posteriora prioribus optime respondent: ut
+          <lb ed="#G" n="9"/>vero jam imprimuntur, pugnant secum maxime.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2301">
+          <lb ed="#G" n="10"/>§. 274.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2306">
+          <lb ed="#G" n="11"/>XXXIX. De PAVLINI Forojuliensis Episcopi
+          <lb ed="#G" n="12"/>corruptela diximus in historia. Agebat ille
+          syno<lb ed="#G" n="13" break="no"/>dum adversus Novatores, dogma &amp; symbolum hoc
+          <lb ed="#G" n="14"/>additamento corrumpentes, ut patet ex actis
+          sy<lb ed="#G" n="15" break="no"/>nodi, &amp; temporis observatione, quo non alia,
+          <lb ed="#G" n="16"/>nisi haec additio turbas fecerat; vetatque Paulinus
+          <lb ed="#G" n="17"/>quidquam symbolo vel addi, vel detrahi debere,
+          <lb ed="#G" n="18"/>allegando antiquas conciliorum leges, tum
+          defen<lb ed="#G" n="19" break="no"/>dit, bene esse additum: Filioque, &amp; de dogmate
+          <lb ed="#G" n="20"/>disputat. Quis hoc credat? Credat judaeus
+          apel<lb ed="#G" n="21" break="no"/>la. Sed necdum a Latinis etiam auctum erat
+          <lb ed="#G" n="22"/>symbolum, certe Italia hoc nondum audierat, sed
+          <lb ed="#G" n="23"/>neque Gallia, excepto, quod forte jam in palatio
+          <pb ed="#G" n="309"/><lb ed="#G" n="1"/>Caroli M. ita canebatur: quae omnia constant ex
+          <lb ed="#G" n="2"/>colloquio Aquisgranensium cum papa Leone
+          ter<lb ed="#G" n="3" break="no"/>tio, quod vide in historia.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2344">
+          <lb ed="#G" n="4"/>§. 275.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2349">
+          <lb ed="#G" n="5"/>XL. RABANVS Maurus lib. 1. de universo,
+          <lb ed="#G" n="6"/>cap. 3. tom. I. Spiritus Sanctu ideo praedicatur
+          De<lb ed="#G" n="7" break="no"/>us, quia ex Patre Filioque procedit, &amp;
+          substanti<lb ed="#G" n="8" break="no"/>am ejus habet. At ista vulnus &amp; ulcus suum ultro
+          <lb ed="#G" n="9"/>produnt. Nam si dixisset auctor, ex Patre
+          Filio<lb ed="#G" n="10" break="no"/>que, subjunxisset utique: &amp; substantiam eorum
+          <lb ed="#G" n="11"/>habet, non, &amp; substantiam ejus habet. Deinde
+          <lb ed="#G" n="12"/>mox ista subjungit Rabanus: neque enim aliud de
+          <lb ed="#G" n="13"/>Patre procedere potuit, quam quod ipse est Pater,
+          <lb ed="#G" n="14"/>Cur hic jam solius patris meminit? similia verba
+          <lb ed="#G" n="15"/>erant Isidiori supra.
+          <lb ed="#G" n="16"/>coRayPTELAE RELIOVAE PLVSOVAM XXX. VNO
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2378">
+          <lb ed="#G" n="17"/>ARGVMENTO DEMONSTRANTVR.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2383">
+          <lb ed="#G" n="18"/>§. 276.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2389">
+          <lb ed="#G" n="19"/>Sunt vcro &amp; aliae plurimae in scriptis
+          oc<lb ed="#G" n="20" break="no"/>cidentalium corruptelae, quarum hic
+          recensebi<lb ed="#G" n="21" break="no"/>mus plures quam triginta, &amp; uno argumento
+          cor<lb ed="#G" n="22" break="no"/>ruptelas esse demonstrabimus: unde &amp;, quae
+          pri<lb ed="#G" n="23" break="no"/>us probata fuerunt, magis confirmabuntur.
+          DDog<lb ed="#G" n="24" break="no"/>ma latinorum confitetur Concilium Heldtfeldense.
+          <pb ed="#G" n="310"/><lb ed="#G" n="1"/>in Anglia anno 68o. celebratum. 2) Item
+          Con<lb ed="#G" n="2" break="no"/>cilium Toletanum XI. alias IX. anno 675. habitum.
+          <lb ed="#G" n="3"/>3) Item Toletanum XVI. anno 693. coactum.
+          <lb ed="#G" n="4"/>4 Docet idem HILDEPHONSVS Episcopus
+          To<lb ed="#G" n="5" break="no"/>letanus libro de virginitate Mariae cap. VIII.
+          <lb ed="#G" n="6"/>5) Et APONIVS lib. 3. &amp; 6. in Cantica. 6) Et
+          <lb ed="#G" n="7"/>ordinatio episcoporum Gallica.
+          BEDAcom<lb ed="#G" n="8" break="no"/>mentario in epist. ad Romanos cap. VIII. 8) Et
+          <lb ed="#G" n="9"/>cemmentario in 1. ad Corinthios epist. cap. XII.
+          <lb ed="#G" n="10"/>9) Et commentario in epist. ad Galatas cap. 1v.
+          <lb ed="#G" n="11"/>1O) Et homilia aestivali Dominica, exaudi. 11)
+          <lb ed="#G" n="12"/>Et commentario in caput Ioannis VII. &amp; VIII.
+          <lb ed="#G" n="13"/>12) Et libro de sex dierum creatione, ad verba
+          il<lb ed="#G" n="14" break="no"/>la: &amp; Spiritus Dei ferebatur super aquas. 13)
+          <pb ed="#G" n="311"/><lb ed="#G" n="1"/>Et lib. I. de elementis Philosophiae. 14) Anno
+          <lb ed="#G" n="2"/>767. ajunt latinos in magna synodo sub Rege
+          <lb ed="#G" n="3"/>Pipino, in Gallia, disputasse cum Graecis de hoc
+          <lb ed="#G" n="4"/>dogmate; idque in aliquot annalibus Francorum
+          <lb ed="#G" n="5"/>imprimitur, &amp; ex expresse in Chronico Adonis
+          Vi<lb ed="#G" n="6" break="no"/>ennensis tom. 1x. parte 2. Biblioth. PP.
+          Colo<lb ed="#G" n="7" break="no"/>niensis, pag. 292. 15) Idem dogma
+          adtru<lb ed="#G" n="8" break="no"/>unt episcopi Itali contra Elipandum in concilio
+          <lb ed="#G" n="9"/>Francofordiensi an. 794. habito. 16)
+          ETHERI<lb ed="#G" n="10" break="no"/>vS item cum BEATO presbytero, praeter
+          superi<lb ed="#G" n="11" break="no"/>us verba vindicata, libr. II. contra Elipandum
+          va<lb ed="#G" n="12" break="no"/>riis in locis. 17) HADRIANVS papa in
+          Episto<lb ed="#G" n="13" break="no"/>la ad Carolum Regem Francorum. 18) Idem
+          quo<lb ed="#G" n="14" break="no"/>que in Epistola ad episcopos Hispaniae, in
+          con<lb ed="#G" n="15" break="no"/>cilio Francofordiensi. 19) ALBINVS Alcuinus
+          <pb ed="#G" n="312"/><lb ed="#G" n="1"/>libr. 1. de Trinitate cap. 6. 11. 15. &amp; lib. 2. cap. 9.
+          <lb ed="#G" n="2"/>11. 19. 20. has Albini corruptelas pro una
+          habea<lb ed="#G" n="3" break="no"/>mus brevitatis gratia. 20) Idem tractatu ad verba
+          <lb ed="#G" n="4"/>illa: faciamus hominem. 21 Libro de psalmorum
+          <lb ed="#G" n="5"/>usu, part. II. 22) Commentario in loannem, ad
+          <lb ed="#G" n="6"/>illa verba: mea doctrina non est mea. 23) Item
+          <lb ed="#G" n="7"/>ad verba: tu quis es? 24 In invocatione
+          sanctis<lb ed="#G" n="8" break="no"/>simae Trinitatis &amp; aliis in locis. 25) Quid,
+          <lb ed="#G" n="9"/>quod multa concilia symbolum
+          Constantinopolita<lb ed="#G" n="10" break="no"/>num legant cum additamento? concilium
+          Toleta<lb ed="#G" n="11" break="no"/>num VIII. anno 653. celebratum. 26)
+          Emeriten<lb ed="#G" n="12" break="no"/>se in Lusitania anno 666. habitum. 27)
+          Braca<lb ed="#G" n="13" break="no"/>rense 1v. in Hispania anno. 675. coactum. 28)
+          <lb ed="#G" n="14"/>Toletanum x. vulgo XII. anno 681. celebratum.
+          <lb ed="#G" n="15"/>29) Toletanum xI. vulgo XIII. anno 683. 30)
+          <lb ed="#G" n="16"/>Toletanum XIII. vulgo xv. anno 688. congregatum
+          <lb ed="#G" n="17"/>31 Toletanum xv. vulgo XVII. anno 694.
+          habi<lb ed="#G" n="18" break="no"/>tum. 32) ETHERIVS item &amp; BEATVS
+          <lb ed="#G" n="19"/>presbyter citato lib. 1. praeter assertionem
+          dogma<lb ed="#G" n="20" break="no"/>tis, symbolum legit cum additamento. Haec
+          <pb ed="#G" n="313"/><lb ed="#G" n="1"/>omnia, &amp; si quae sint alia, pessimae esse fidei,
+          <lb ed="#G" n="2"/>facile deprehendes, si ad chronologiam istorum, &amp;
+          <lb ed="#G" n="3"/>ad acta Aquisgranensium cum Leone III. papa,
+          re<lb ed="#G" n="4" break="no"/>spexeris. Sciendum igitur est, tam concilia haec
+          <lb ed="#G" n="5"/>citata, quam auctores adductos vixisse omnes
+          <lb ed="#G" n="6"/>ante finem octavi saeculi, ac consequenter ante
+          li<lb ed="#G" n="7" break="no"/>tes illas latinorum de processione Spiritus sancti,
+          <lb ed="#G" n="8"/>&amp; de augendo symbolo, atque adeo ante acta
+          Aquis<lb ed="#G" n="9" break="no"/>granensium cum papa Leone III. Igitur ante lites
+          <lb ed="#G" n="10"/>istas, &amp; acta Aquisgranensium patet (si hic
+          addu<lb ed="#G" n="11" break="no"/>ctis locis credimus) totam occidentalem
+          ecclesi<lb ed="#G" n="12" break="no"/>am &amp; dogma latinorum semper habuisse pro
+          con<lb ed="#G" n="13" break="no"/>fesso, idque ubique &amp; perpetuo praedicasse; &amp;
+          <lb ed="#G" n="14"/>etiam symbolum additamento illo auctum
+          tenuis<lb ed="#G" n="15" break="no"/>se: tot enim concilia &amp; tot auctores hic
+          vi<lb ed="#G" n="16" break="no"/>demus, &amp; eo magis, si etiam supra hactenus
+          ad<lb ed="#G" n="17" break="no"/>ducti ad eos adjungantur.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2552">
+          <lb ed="#G" n="18"/>§. 277.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2557">
+          <lb ed="#G" n="19"/>At vero Aquisgranenses oratores in libello suo
+          <lb ed="#G" n="20"/>ad Papam Leonem dicunt, hanc quaestionem ab
+          anti<lb ed="#G" n="21" break="no"/>quis quidem patribus ventilatam, (quod ipsum
+          qui<lb ed="#G" n="22" break="no"/>dem illi mentiuntur) tamen jam diu jacuisse
+          negle<lb ed="#G" n="23" break="no"/>ctam, sed suis tandem temporibus subito emersisse, &amp;
+          <lb ed="#G" n="24"/>nuper exortam esse. Quomodo ergo ista secum
+          <lb ed="#G" n="25"/>cohaerent? omnia ista concilia hic memorata,
+          ce<lb ed="#G" n="26" break="no"/>lebrata fuerunt ante &amp; prope finem seculi septimi:
+          <lb ed="#G" n="27"/>BEDA, vivebat adhuc anno 731. ut Bellarminus
+          <lb ed="#G" n="28"/>ex ipso eo probat libro de scriptoribus ecclesiasticis.
+          <lb ed="#G" n="29"/>Disputatio illa Graecorum &amp; latinorum in Gallia
+          <lb ed="#G" n="30"/>fuisse perhibetur anno 767. ut annotavimus supra
+          <pb ed="#G" n="314"/><lb ed="#G" n="1"/>num. 14. HADRIANVS Papa sedere coepit anno
+          <lb ed="#G" n="2"/>772. testante Bellarmino libro de scriptoribus
+          ec<lb ed="#G" n="3" break="no"/>cles. ALBINVS Alcuinus scripsit in Gallia post
+          an<lb ed="#G" n="4" break="no"/>num 790. ut vidimus in historia. PAVLINI
+          con<lb ed="#G" n="5" break="no"/>cilium Forojuliense (quod quidem citavimus
+          pau<lb ed="#G" n="6" break="no"/>lo supra, num. XXXIX. §. 274.) fuit anno 791.
+          <lb ed="#G" n="7"/>FELIX Urgelitanus &amp; ELIPANDVS episcopus
+          <lb ed="#G" n="8"/>Toletanus renovabant Nestorianismum circa
+          an<lb ed="#G" n="9" break="no"/>num 772. teste Bellarmino in chronologia parte
+          al<lb ed="#G" n="10" break="no"/>tera. Ergo &amp; Francofordiense concilium,
+          nota<lb ed="#G" n="11" break="no"/>tum num. 15. &amp; ETHERIVS ac BEATVS iisdem
+          <lb ed="#G" n="12"/>temporibus fuere. Agunt enim adversus
+          Elipan<lb ed="#G" n="13" break="no"/>dum. Quomodo igitur per saecula duo
+          conti<lb ed="#G" n="14" break="no"/>nua ante illud concilium Aquisgranense
+          continua<lb ed="#G" n="15" break="no"/>ta usque ad ipsius tempora, ubique per ora
+          scri<lb ed="#G" n="16" break="no"/>ptorum, &amp; in conciliis dogma istud sonuit,
+          disputa<lb ed="#G" n="17" break="no"/>batur, probabatur, &amp; tamen legati
+          Aquisgranen<lb ed="#G" n="18" break="no"/>ses ajunt, eam quaestionem diu neglectam
+          ja<lb ed="#G" n="19" break="no"/>cuisse, &amp; nuper demum exortam? Cui hic
+          crede<lb ed="#G" n="20" break="no"/>mus? Latini ipsi historiam Concilii Aquisgranensis,
+          <lb ed="#G" n="21"/>&amp; ejus acta legatorum apud Leonem tertium,
+          ul<lb ed="#G" n="22" break="no"/>tro fatentur vera esse, omnes imprimunt, neque
+          <lb ed="#G" n="23"/>vel unus hactenus repertus cst, qui inficiaretur:
+          <lb ed="#G" n="24"/>Ergo omnia ista hic adducta spuria sunt; &amp; hoc
+          <lb ed="#G" n="25"/>quantum ad dogma.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2641">
+          <lb ed="#G" n="26"/>§. 278.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2646">
+          <lb ed="#G" n="27"/>lam si Constantinopolitanum symbolum in tot
+          <lb ed="#G" n="28"/>conciliis, &amp; in ordine Romano, &amp; quidem jam
+          <lb ed="#G" n="29"/>ante initium octavi saeculi, &amp; ante finem
+          sae<lb ed="#G" n="30" break="no"/>culi ejusdem, in concilio Forojuliensi, &amp; apud
+          <pb ed="#G" n="315"/><lb ed="#G" n="1"/>Etherium ac Beatum, cum additamento
+          recitaba<lb ed="#G" n="2" break="no"/>tur: ecquid, quaeso, opus fuit Aquisgranensibus
+          <lb ed="#G" n="3"/>petere a Leone tertio, ut concederet augere
+          sym<lb ed="#G" n="4" break="no"/>bolum? Quae necessitas fuit, disputare de hac re
+          <lb ed="#G" n="5"/>cum Papa illo? Cur non concedebat Leo? Cur
+          <lb ed="#G" n="6"/>legati illi non opposucrunt ei tot concilia, sed
+          <lb ed="#G" n="7"/>non nisi Carolini Palatii consuetudinem? Cur
+          de<lb ed="#G" n="8" break="no"/>nique Leo cavens, ne augeatur ita symbolum,
+          <lb ed="#G" n="9"/>illas excudi curavit tabulas? cur IOANNES
+          octa<lb ed="#G" n="10" break="no"/>vus in epistola ad Photium augmentum illud vocat
+          <lb ed="#G" n="11"/>rem novam? cur ante hos omnes ALBINVS
+          Al<lb ed="#G" n="12" break="no"/>cuinus vetabat id ipsum? quae omnia patent ex
+          <lb ed="#G" n="13"/>praemissa huic controversiae historia. Quare
+          sti<lb ed="#G" n="14" break="no"/>pes sit necesse est, qui non agnoscat illa omnia
+          cor<lb ed="#G" n="15" break="no"/>rupta esse. Et jam de his satis.
+          <lb ed="#G" n="16"/>ocC VRRITVA EXCEPTIONIBVS LATINORVM, SI
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2693">
+          <lb ed="#G" n="17"/>OVAE FORTE PoSSVVT ESSE AD HACTE.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2699">
+          <lb ed="#G" n="18"/>NVS DICTA.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2704">
+          <lb ed="#G" n="19"/>§. 279.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2709">
+          <lb ed="#G" n="20"/>Iam ad alia transituri eramus, tamquam toto
+          <lb ed="#G" n="21"/>peracto negotio, sed subiit in mentem,
+          cogita<lb ed="#G" n="22" break="no"/>turos sollicite adversarios, quidnam ad haec
+          re<lb ed="#G" n="23" break="no"/>gerere queant, ne plane muti consideant. Ergo
+          <lb ed="#G" n="24"/>quasi in eorum translati sortem, ipsi meditati
+          su<lb ed="#G" n="25" break="no"/>mus, ecquid tandem ad utrumque hoc caput
+          ex<lb ed="#G" n="26" break="no"/>cipi possit; &amp; subierunt haec pauca, quae hic
+          <lb ed="#G" n="27"/>subjicimus, &amp; facile refellimus.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2729">
+          <pb ed="#G" n="316"/><lb ed="#G" n="1"/>Primum igitur possunt ita dicere: si
+          <lb ed="#G" n="2"/>quidem &amp; ipsi secum latini de hac
+          con<lb ed="#G" n="3" break="no"/>troversia multum ab initio litigarunt, atque
+          <lb ed="#G" n="4"/>tumultuati sunt, ut ipsi ostendimus in
+          histo<lb ed="#G" n="5" break="no"/>ria: quis scit, utra pars patrum scripta
+          cor<lb ed="#G" n="6" break="no"/>ruperit, illine, qui a solo Patre, a isti, qui a
+          <lb ed="#G" n="7"/>Patre Filioque procedere Spiritum sanctum
+          do<lb ed="#G" n="8" break="no"/>cuere? licebit enim dicere, potius eos
+          codi<lb ed="#G" n="9" break="no"/>ces, in quibus solius Patris fit mentio, ab illa
+          prio<lb ed="#G" n="10" break="no"/>re secta diminutos, quam alios, qui Patri Filium
+          <lb ed="#G" n="11"/>adjungunt, ab ista auctos esse. Aut certe
+          contra<lb ed="#G" n="12" break="no"/>rium probandum superest. Et hoc quidem,
+          quan<lb ed="#G" n="13" break="no"/>tum attinet ad scripta patrum Latinorum: id ipsum
+          <lb ed="#G" n="14"/>vero dici debet &amp; de graecorum patrum libris.
+          <lb ed="#G" n="15"/>Nam &amp; Graeci non omnes, absque exceptione,
+          <lb ed="#G" n="16"/>latinis hac in parte adversati sunt, sed erant, qui
+          <lb ed="#G" n="17"/>latinorum secuti sunt castra, ut ille BLEMMIDAS,
+          <lb ed="#G" n="18"/>BECCAS, CALECAS &amp; alii: Ergo forte dum istos
+          <lb ed="#G" n="19"/>alii illi opprimere student, in plerisque patrum
+          <lb ed="#G" n="20"/>suorum codicibus illud Filioque eraserunt: non
+          po<lb ed="#G" n="21" break="no"/>tuerunt tamen eradere in omnibus, atque hinc
+          <lb ed="#G" n="22"/>codicum diversitas exorta est.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2780">
+          <lb ed="#G" n="23"/>2 Multorum scriptorum cum
+          Ecclesiastico<lb ed="#G" n="24" break="no"/>rum, tum etiam ethnicorum scripta passim
+          men<lb ed="#G" n="25" break="no"/>dis &amp; corruptelis scatent: quod quidem planum
+          <lb ed="#G" n="26"/>est vel mediocriter in lectione librorum versatis,
+          <lb ed="#G" n="27"/>ex restitutionibus, quas fere ubique notat, Iusti
+          <lb ed="#G" n="28"/>Lipsii, item Iulii Scaligeri, Isaaci Casauboni,
+          alio<lb ed="#G" n="29" break="no"/>rumque, qui in scripta oratorum, poetarum,
+          alio<lb ed="#G" n="30" break="no"/>rumque annotationes ediderunt; ut vero illae
+          cor<pb ed="#G" n="317"/><lb ed="#G" n="1" break="no"/>ruptelae nemini vertuntur crimini, sed non nisi
+          <lb ed="#G" n="2"/>transcribentium errori, ita &amp; istae utroque hoc
+          ca<lb ed="#G" n="3" break="no"/>pite recensitae latinos malae fidei accusare posse
+          <lb ed="#G" n="4"/>non videntur.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2810">
+          <lb ed="#G" n="5"/>3) Editores item latini ita imprimunt, ut in
+          <lb ed="#G" n="6"/>manuscriptis codicibus reperiunt: quare fraudi
+          <lb ed="#G" n="7"/>iis, si quid spurium est, esse non debet. Et, quod
+          <lb ed="#G" n="8"/>majus est, ipsi latini, quas adverterunt,
+          corrupte<lb ed="#G" n="9" break="no"/>las fassi sunt, &amp; coarguerunt, ut supra passim
+          vidi<lb ed="#G" n="10" break="no"/>mus: quod certe ingenui animi specimen est,
+          tan<lb ed="#G" n="11" break="no"/>tum abest, ut de dolo malo suspecti habeantur.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2829">
+          <lb ed="#G" n="12"/>A Denique valet hic illud Cassianum, quod
+          <lb ed="#G" n="13"/>Cicero laudat tamquam regulam boni judicii,
+          nem<lb ed="#G" n="14" break="no"/>pe, cui bono? Controversia haec non est lucrosa,
+          <lb ed="#G" n="15"/>non expectatur ullum temporarium
+          emolumen<lb ed="#G" n="16" break="no"/>tum: si ita, non detrimentum timctur, si aliter
+          <lb ed="#G" n="17"/>doceatur. Ergo cui bono suo latini
+          scri<lb ed="#G" n="18" break="no"/>pta veterum corrumperent? Si ista
+          deprehen<lb ed="#G" n="19" break="no"/>derentur in caussa primatus pontificis, forte
+          <lb ed="#G" n="20"/>esset ratio, cur pontificii suspicione artis plagiariae
+          <lb ed="#G" n="21"/>laborarent: quaeritur hic lucrum &amp; timetur
+          dam<lb ed="#G" n="22" break="no"/>num, ut interim opinioni de Papa nostrac aliquid
+          <lb ed="#G" n="23"/>concedatur. At vero in hac de Spiritus Sancti
+          <lb ed="#G" n="24"/>processione controversia, libros scriptorum
+          corrum<lb ed="#G" n="25" break="no"/>pere cui bono? Igitur corruptelas illas temere
+          <lb ed="#G" n="26"/>potius in scripta patrum irrepsisse, quam dolo
+          ma<lb ed="#G" n="27" break="no"/>lo intrusas esse, statuendum est. Quid amplius
+          ex<lb ed="#G" n="28" break="no"/>cipere possint, modo non subit: at hae
+          exceptio<lb ed="#G" n="29" break="no"/>nes &amp; esse possunt, &amp; speciosae videntur esse.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2871">
+          <pb ed="#G" n="318"/><lb ed="#G" n="1"/>§. 280.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2877">
+          <lb ed="#G" n="2"/>Sed primo aspectu aliquid esse videntur; si
+          be<lb ed="#G" n="3" break="no"/>ne rem perspexeris, sunt nullae. Facile ergo
+          re<lb ed="#G" n="4" break="no"/>spondemus. Ad primam, posse eam valere aliquid
+          <lb ed="#G" n="5"/>pro aliquibus; imo vix pro aliquibus corruptelis:
+          <lb ed="#G" n="6"/>plurimae enim sunt, quae palam demonstrantur ab
+          <lb ed="#G" n="7"/>adversaria nobis parte esse perpetratae. Tales sunt
+          <lb ed="#G" n="8"/>capite superiore, 1. 7. S. 11. 12. 13. 14. 15. 16. 17. 18. 19.
+          <lb ed="#G" n="9"/>20. 21. 25. 26. 27. 28. 29. 30. 31. 32. 33. 38. 39. 40.
+          <lb ed="#G" n="10"/>41. 42. 43. Harum corruptelarum ex quanam parte
+          <lb ed="#G" n="11"/>habeatur origo, patet vel ex reclamante
+          contex<lb ed="#G" n="12" break="no"/>tu, vel ex confessione latinorum, vel aliis
+          deni<lb ed="#G" n="13" break="no"/>que firmissimis argumentis evincitur, ut patet
+          le<lb ed="#G" n="14" break="no"/>genti. Hujusmodi sunt &amp; in isto capite hae
+          po<lb ed="#G" n="15" break="no"/>tissimum: 1. 2. 3. 4. 5. 6. 7. 9. 10. 1I. 12. 13.
+          <lb ed="#G" n="16"/>14. 15. 16. 17. 18. 19. 20. 22. 24. 25. 30. 31.
+          <lb ed="#G" n="17"/>33. 34. 35. 36. 37. 38. 39. 40. &amp; omnes illac
+          <lb ed="#G" n="18"/>plus 30. corruptelae, ad finem uno argumento
+          con<lb ed="#G" n="19" break="no"/>fixae, tales utique sunt, ut nullus locus
+          dubita<lb ed="#G" n="20" break="no"/>tioni relinquatur, quinam sint codices veriores.
+          <lb ed="#G" n="21"/>Ex quo conficitur, non esse dubitandum etiam
+          <lb ed="#G" n="22"/>de illis paucissimis (quae quidem pro se nihil,
+          ni<lb ed="#G" n="23" break="no"/>si diversitatem codicum arguunt) eas quoque
+          lati<lb ed="#G" n="24" break="no"/>norum foetum esse. Deinde si in utramque
+          lati<lb ed="#G" n="25" break="no"/>norum partem, qui hac de re ab initio secum
+          dis<lb ed="#G" n="26" break="no"/>sidebant, serio inquirat vir doctus, videbit ex
+          <lb ed="#G" n="27"/>parte nostra stetisse doctiores &amp; sanctiores
+          homi<lb ed="#G" n="28" break="no"/>nes, qualis erat ALBINVS Alcuinus: ex adversa
+          <lb ed="#G" n="29"/>autem sciolos litteratores. Excmplo sint vel
+          so<lb ed="#G" n="30" break="no"/>li illi Aquisgranenses Oratorculi, quorum
+          pueri<lb ed="#G" n="31" break="no"/>lem sciolatum, simulque raucidae rhetoricationis
+          <pb ed="#G" n="319"/><lb ed="#G" n="1"/>tumorem videbit &amp; ridebit, qui sapit aliquid, ex
+          <lb ed="#G" n="2"/>affectatis illis ineptulis (quibus orationem suam
+          <lb ed="#G" n="3"/>exornare se putabant) allegoriis; ut quod ajunt:
+          <lb ed="#G" n="4"/>Exercitationis sanctae brachio coelestem thesaurum
+          <lb ed="#G" n="5"/>persodiendum esse, item: sermonis Dominici
+          sur<lb ed="#G" n="6" break="no"/>culo, divinarum scripturarum campum proscindi
+          <lb ed="#G" n="7"/>oportere, &amp; alia ibi talia: quis haec blaterare non
+          <lb ed="#G" n="8"/>videt barbatos pueros? &amp; surculo etiam agros
+          ara<lb ed="#G" n="9" break="no"/>ri opinati sunt; scilicet, quid sit surculus,
+          ignora<lb ed="#G" n="10" break="no"/>bant. Hujusmodi vero rabularum indoles est, tum
+          <lb ed="#G" n="11"/>quidvis ex sacris litteris ad sua pertrahere (ut cum
+          <lb ed="#G" n="12"/>v. g. coronas, hoc est, precatorios illos
+          globu<lb ed="#G" n="13" break="no"/>los pro concione commendant, citant illud
+          Psal<lb ed="#G" n="14" break="no"/>mi: benedices coronam anni dc. tum etiam
+          scri<lb ed="#G" n="15" break="no"/>pta secure corrumpere, de veritate minime
+          sol<lb ed="#G" n="16" break="no"/>licitos esse, (nec enim id possunt) modo plausum
+          <lb ed="#G" n="17"/>sibi apud stolidam plebeculam aucupentur. De
+          <lb ed="#G" n="18"/>sraecis autem latinisantibus etiam alia ratio est.
+          <lb ed="#G" n="19"/>Nam graeci codices exstabant multi apud latinos:
+          <lb ed="#G" n="20"/>num igitur graeci latinis adversantes, in
+          latino<lb ed="#G" n="21" break="no"/>rum archiva irrumpebant, &amp; illud Filioque in
+          pa<lb ed="#G" n="22" break="no"/>trum suorum scriptis longe lateque eraserunt? an
+          <lb ed="#G" n="23"/>probabilius sit latinizatos graecos quibusdam
+          co<lb ed="#G" n="24" break="no"/>dicibus illud inseruisse?
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e2998">
+          <lb ed="#G" n="25"/>§. 281.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3003">
+          <lb ed="#G" n="26"/>Ad secundam exceptionem dico, longe
+          dispa<lb ed="#G" n="27" break="no"/>rem esse rationem de mendis, quac vitio &amp; errore
+          <lb ed="#G" n="28"/>scribentium, in aliis auctoribus committuntur,
+          at<lb ed="#G" n="29" break="no"/>que de corruptelis istis. Nam illa plerumque
+          ob<lb ed="#G" n="30" break="no"/>repunt in solis vocibus, ut si pro faustus scribatur
+          <lb ed="#G" n="31"/>festus, pro aliqui, antiqui, quod non male
+          ad<pb ed="#G" n="320"/><lb ed="#G" n="1" break="no"/>vertit BELLARMINVS quodam in libro de
+          <lb ed="#G" n="2"/>gratia &amp; libero arbitrio; &amp; talis hic etiam est
+          il<lb ed="#G" n="3" break="no"/>la capite superiore num. XXVIII. ubi illud ex Deo
+          <lb ed="#G" n="4"/>mutatum est in istud, ex eo: at vero hic pleraque
+          <lb ed="#G" n="5"/>membra integra mutata, addita, ejecta vidimus.
+          <lb ed="#G" n="6"/>Sed, quod maximum est mali doli argumentum,
+          <lb ed="#G" n="7"/>menda alia in scriptis non in una caussa omnia
+          <lb ed="#G" n="8"/>committuntur, sed in diversis materiis; ut
+          teme<lb ed="#G" n="9" break="no"/>re hic vel illic erravit scriba: at si quae in una
+          <lb ed="#G" n="10"/>caussa, numero multa perpetrantur, quomodo
+          <lb ed="#G" n="11"/>hic videmus: quis hoc lapsui innocuo, &amp; non
+          po<lb ed="#G" n="12" break="no"/>tius perfidiae tribuat? Denique utut sit, nos hic
+          <lb ed="#G" n="13"/>non admodum curamus vel perquirere (quod
+          im<lb ed="#G" n="14" break="no"/>possibile videtur) vel deprehensos corruptelarum
+          <lb ed="#G" n="15"/>auctores accusare damnareque, sed tantum
+          osten<lb ed="#G" n="16" break="no"/>dere, plurima patrum scripta esse corrupta, ut istis
+          <lb ed="#G" n="17"/>ita demonstratis, tot testimoniis, quibus se
+          mu<lb ed="#G" n="18" break="no"/>niri putant, adversarios nostros exarmemus: quod
+          <lb ed="#G" n="19"/>Dei gratia ecce factum est.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3061">
+          <lb ed="#G" n="20"/>§. 282.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3067">
+          <lb ed="#G" n="21"/>Ad tertiam id ipsum, quod diximus proxime,
+          <lb ed="#G" n="22"/>dicimus, sufficere nobis, quod corruptelas
+          depre<lb ed="#G" n="23" break="no"/>hendimus. Deinde licet nec modernos editores, nec
+          <lb ed="#G" n="24"/>eos, qui corruptelas aliquot confessi sunt, PITHOEVM,
+          <lb ed="#G" n="25"/>inquam, BELLARMINVM,ALLATIVM,&amp; alios
+          reprehen<lb ed="#G" n="26" break="no"/>dimus; fuerint isti viri ingenui: at erant tamen,
+          <lb ed="#G" n="27"/>qui corrumperent. Non nocet hoc Bellarmini
+          alio<lb ed="#G" n="28" break="no"/>rumque (quantum ad hoc solum) famae, sed
+          no<lb ed="#G" n="29" break="no"/>cet caussae eorum. Ceterum Bellarminus quoque
+          <lb ed="#G" n="30"/>&amp; alii ideo forte facile &amp; secure corrupta
+          quae<pb ed="#G" n="321"/><lb ed="#G" n="1" break="no"/>dam fassi sunt, quia ignorarunt tam multa
+          corru<lb ed="#G" n="2" break="no"/>pta esse; putabant igitur nullum inde caussae suae
+          <lb ed="#G" n="3"/>fore detrimentum, at ingenuitatis insuper suac
+          <lb ed="#G" n="4"/>specimen sese edituros, si unum aut alium locum
+          <lb ed="#G" n="5"/>corruptum esse faterentur. Quid vero facerent,
+          <lb ed="#G" n="6"/>si tanto numero corruptelas deprehendissent,
+          fa<lb ed="#G" n="7" break="no"/>terenturne, an dissimularent, ego quidem nescio.
+          <lb ed="#G" n="8"/>Terruisset profecto illos tantum caussae suae
+          peri<lb ed="#G" n="9" break="no"/>culum. Exemplum calamitatis esto vel solus
+          Bel<lb ed="#G" n="10" break="no"/>larminus: congessit ille quindecim locos
+          Graeco<lb ed="#G" n="11" break="no"/>rum Patrum adversus nos, lib. 2. de Christo, cap.
+          <lb ed="#G" n="12"/>25. &amp; ex illis loci undecim hic, capite superiore,
+          <lb ed="#G" n="13"/>jugulati sunt: supersunt ergo ei quatuor tantum,
+          <lb ed="#G" n="14"/>qui tamen nihil ad rem faciunt. Ex Latinis
+          au<lb ed="#G" n="15" break="no"/>tem Patribus citat Bellarminus sex locos, qui hic
+          <lb ed="#G" n="16"/>perempti sunt: Alii, qui hic non memorantur, ex
+          <lb ed="#G" n="17"/>PROSPERO,LEONE, BOETHIO &amp;c. veluti
+          prui<lb ed="#G" n="18" break="no"/>na coram tanta hic affusa luce, sponte evanescunt.
+          <lb ed="#G" n="19"/>Quis enim, tot deprehensis corruptelis,
+          codici<lb ed="#G" n="20" break="no"/>bus Latinis aliis etiam credet? Mirum vero est,
+          <lb ed="#G" n="21"/>quod Bellarminus lib. 2. de Christo, cap. 24.
+          Am<lb ed="#G" n="22" break="no"/>brosii &amp; Hieronymi adducat verba, nihil de
+          pro<lb ed="#G" n="23" break="no"/>cessione Spiritus sancti habentia, &amp; non citet illa
+          <lb ed="#G" n="24"/>clarissima, quae hoc capite, numero VII. &amp; IX.
+          <lb ed="#G" n="25"/>producta, &amp; spuria esse demonstrata sunt;
+          nimi<lb ed="#G" n="26" break="no"/>rum &amp; ipse putavit illa spuria esse. Mirum item,
+          <lb ed="#G" n="27"/>quod tantum citet ex antiquis conciliis quatuor,
+          <lb ed="#G" n="28"/>nimirum primum, tertium, quartum &amp; octavum,
+          <lb ed="#G" n="29"/>Toletana omnia, &amp; non citet tot alia, quae hic
+          <lb ed="#G" n="30"/>ad finem recensita sunt? At sponte illa in
+          to<pb ed="#G" n="322"/><lb ed="#G" n="1" break="no"/>mis iisdem conciliorum occurrebant, nec tu
+          Bel<lb ed="#G" n="2" break="no"/>larmine fraudem tuorum olfaciebas
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3163">
+          <lb ed="#G" n="3"/>§. 283.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3168">
+          <lb ed="#G" n="4"/>Ad illud tandem, si quis id objecerit, cui
+          bo<lb ed="#G" n="5" break="no"/>no? respondeo: pertinaciae &amp; libidini. Cui
+          bo<lb ed="#G" n="6" break="no"/>no tot perversi &amp; protervi haeretici, in
+          statuminan<lb ed="#G" n="7" break="no"/>dis suis dogmatibus laborant, sudant, &amp; algent,
+          <lb ed="#G" n="8"/>quin &amp; gravissima quaeque non pauci
+          perpetiun<lb ed="#G" n="9" break="no"/>tur? cui bono Manichaei, Cataphryges, Cathari,
+          <lb ed="#G" n="10"/>alii, vel universim nuptias vel saltim secundas
+          <lb ed="#G" n="11"/>damnabant? esum carnium, &amp; usum vini,
+          tam<lb ed="#G" n="12" break="no"/>quam rem pollutam &amp; Deo exosam prohibebant?
+          <lb ed="#G" n="13"/>cui bonol Donatistae ultroneam mortem
+          oppete<lb ed="#G" n="14" break="no"/>bant? proterviae hoc virus est, cujus nusquam alia
+          <lb ed="#G" n="15"/>plura exempla, quam apud Papales Doctorastros
+          <lb ed="#G" n="16"/>reperies. Qui Dominicano cucullo sese
+          illaquea<lb ed="#G" n="17" break="no"/>vit, subiit simul jugum sententiae Thomisticae,
+          <lb ed="#G" n="18"/>ita, ut Scotistarum Iesuitarumque dogmata
+          falsis<lb ed="#G" n="19" break="no"/>sima, sua vero verissima esse jurare sit paratus. Et
+          <lb ed="#G" n="20"/>idem ille si ad Loyo lae familiam se conferat: omnia
+          <lb ed="#G" n="21"/>contraria tenacissime amplectetur. Quae mali
+          isti<lb ed="#G" n="22" break="no"/>us caussa? ipsi forte nihil respondebunt, nisi
+          quo<lb ed="#G" n="23" break="no"/>modo MARTIALIS ad quemdam lusit:
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3214">
+          <lb ed="#G" n="24"/>Non amo te Tulli, nec possum dicere, quare,
+          <lb ed="#G" n="25"/>Hoc tantum possum dicere, non amo te.
+          <lb ed="#G" n="26"/>At qui diversas diversi generis hominum indoles
+          <lb ed="#G" n="27"/>observant, facile ista vident. Nimirum non
+          Ita<lb ed="#G" n="28" break="no"/>licae, Hispanicae, Germanicae, aliusve nationis
+          <pb ed="#G" n="321a"/><lb ed="#G" n="1"/>hoc vitium est, sed sciolatus: sciolorum siquidem
+          <lb ed="#G" n="2"/>ingenium idem est, atque vilium muliercularum,
+          <lb ed="#G" n="3"/>dicta &amp; sensa sua, quae temere ipsis semel
+          exci<lb ed="#G" n="4" break="no"/>derunt, perpetuo mordicus defendere, divinis
+          ora<lb ed="#G" n="5" break="no"/>culis praeferre, licet omni destituantur
+          argumen<lb ed="#G" n="6" break="no"/>to: atque isti viri hujusmodi sunt, quales illae
+          fe<lb ed="#G" n="7" break="no"/>minae, de quibus ait Apostolus, 2 Tim. III. 7.
+          <lb ed="#G" n="8"/>semper discentes, sed nunquam ad cognitionem
+          ve<lb ed="#G" n="9" break="no"/>ritatis pervenire valentes. Hic revera character
+          <lb ed="#G" n="10"/>sciolorum est.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3250">
+          <lb ed="#G" n="11"/>§. 284.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3255">
+          <lb ed="#G" n="12"/>Accedit singularis in hoc nostro iurgio
+          caus<lb ed="#G" n="13" break="no"/>sa, infensissimi scilicet partium animi. Duae illae
+          <lb ed="#G" n="14"/>nationes, Latini &amp; Graeci, antiquis &amp; fere
+          inna<lb ed="#G" n="15" break="no"/>tis semper certabant odiis: Latinis autem magis
+          il<lb ed="#G" n="16" break="no"/>lud vulnus cxarcebatum est tranglatione sui in
+          ori<lb ed="#G" n="17" break="no"/>entem imperii, splendoris, nominis; ad haec
+          in<lb ed="#G" n="18" break="no"/>visa Constantinopolitanorum Imperatorum, qui
+          fe<lb ed="#G" n="19" break="no"/>re jam tum ex graecis salutabantur, dominatione.
+          <lb ed="#G" n="20"/>Quid? cum imperii divulsio facta est, &amp; occidens
+          <lb ed="#G" n="21"/>orienti terga vertit, atque Carolum Magnum
+          im<lb ed="#G" n="22" break="no"/>peratorem salutavit, quantis utrinque inimicitiis
+          <lb ed="#G" n="23"/>saevitum? quot motibus perturbata sunt omnia,
+          <lb ed="#G" n="24"/>plenae sunt historiae. Cum vero Papa, liber &amp;
+          <lb ed="#G" n="25"/>sui juris factus, cristas erigere occoepit, nec tamen
+          <lb ed="#G" n="26"/>libidini suae morem gerere, imo plurimum
+          obsta<lb ed="#G" n="27" break="no"/>re Orientales vidit; cum deinde rebus occidentis
+          <lb ed="#G" n="28"/>pacatis, enati sint hinc inde Theologastri,
+          scriptil<lb ed="#G" n="29" break="no"/>latores fastuosi, rabulae, ubi dissidii istius semina
+          <lb ed="#G" n="30"/>jacta sunt, incredibile dictu est, ut tunc Latini
+          hae<pb ed="#G" n="322a"/><lb ed="#G" n="1" break="no"/>reditaria Majorum in Graecos odia dictis, scriptis,
+          <lb ed="#G" n="2"/>&amp; factis in immensum auxerint. Ergo quid
+          mi<lb ed="#G" n="3" break="no"/>rum, si tantus livor eo proterviae devenit, ut
+          <lb ed="#G" n="4"/>scripta Patrum corrumpere non dubitaret, nihil
+          <lb ed="#G" n="5"/>pensi habens, bonisne an malis artibus fulciret
+          <lb ed="#G" n="6"/>caussam suam &amp; adversarios protereret. Sed &amp;
+          <lb ed="#G" n="7"/>tantum abest, ut rabidi, qui de se multum
+          sapi<lb ed="#G" n="8" break="no"/>unt, disputatores istud scelus vereantur, ut
+          po<lb ed="#G" n="9" break="no"/>tius pietatis loco habeant, &amp; depravare scriptorum
+          <lb ed="#G" n="10"/>libros, in melius corrigere se arbitrentur,
+          Deo<lb ed="#G" n="11" break="no"/>que &amp; ecclesiae hoc pacto gratificari. Haec
+          sem<lb ed="#G" n="12" break="no"/>per est, haec &amp; hic caussa fuit corruptelarum. Sed
+          <lb ed="#G" n="13"/>nec tamen spes brevi in isto facinore defuit (ut
+          <lb ed="#G" n="14"/>hoc item notemus) cum praesertim impius ille
+          <lb ed="#G" n="15"/>Sergius Papa (ut vidimus in historia) Episcopos
+          <lb ed="#G" n="16"/>suos, &amp;, quos alicujus nominis inaudivit,
+          Docto<lb ed="#G" n="17" break="no"/>res ad defendendum istud, adversus Graecos,
+          do<lb ed="#G" n="18" break="no"/>gma pelliceret, sollicitaretque.
+        </p>
+        <p xml:id="cax7ya-d1e346-d1e3340">
+          <lb ed="#G" n="19"/>Ergo praeter alia, fuit hic etiam, quid ad
+          il<lb ed="#G" n="20" break="no"/>lam quaestionem, cui bono? responderem. Sed
+          <lb ed="#G" n="21"/>de his jam satis superque.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

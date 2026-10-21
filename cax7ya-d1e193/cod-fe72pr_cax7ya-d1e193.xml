@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 7</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 7</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="172"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e193">
+        <head xml:id="cax7ya-d1e193-Hd1e108">Caput 7</head>
+        <head xml:id="cax7ya-d1e193-Hd1e110" type="question-title">Satis fit alteri latinorum objectioni et ostenditur, insufflasse Christum ac dixisse: accipite Spiritum S. non esse argumentum processionis Spiritus Sancti a Filio</head>
+        <p xml:id="cax7ya-d1e193-d1e113">
+          <lb ed="#G" n="6"/>LAPVIVII.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e118">
+          <lb ed="#G" n="7"/>Satissit alteri Latinorum objectioni, &amp;
+          osten<lb ed="#G" n="8" break="no"/>litur, insufflasse Christum ac dixisse:
+          <lb ed="#G" n="9"/>accipite Spiritum Sanctus non esse
+          argumen<lb ed="#G" n="10" break="no"/>tum Processionis Spiritus sancti a Filio.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e129">
+          <lb ed="#G" n="11"/>§. 137.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e135">
+          <lb ed="#G" n="12"/>Colemne &amp; hoc Latinorum argumentum est, nam
+          <lb ed="#G" n="13"/>&amp;non aliud volunt per istam insufflationem
+          Chri<lb ed="#G" n="14" break="no"/>sti, cum Spiritum Sanctus dabat Apostolis, significari,
+          <lb ed="#G" n="15"/>nisi aeternam ejus ab ipso processionem; sicuti
+          sci<lb ed="#G" n="16" break="no"/>licet flatus ex ore ipsius exibat, ita Spiritum Sanctu
+          il<lb ed="#G" n="17" break="no"/>lo flatu adumbratum, ab ipso procedere. Hoc
+          ve<lb ed="#G" n="18" break="no"/>ro nos ostendimus argumentum esse nullum.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e153">
+          <lb ed="#G" n="19"/>§. 138.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e158">
+          <lb ed="#G" n="20"/>I. In primis simpliciter negamus afflatione illa
+          <lb ed="#G" n="21"/>Christi significari processionem Spiritus Sanctus sive ad
+          <pb ed="#G" n="173"/><lb ed="#G" n="1"/>Patrem solum, sive ad Patrem &amp; Filium eam
+          <lb ed="#G" n="2"/>referas. Et ut clarius loquamur, non
+          ne<lb ed="#G" n="3" break="no"/>gamus solum afflatione illa significari
+          pro<lb ed="#G" n="4" break="no"/>cessionem a Filio, sed absolutc negamus
+          proces<lb ed="#G" n="5" break="no"/>sinem Spiritus sancti illa sufflatione significari,
+          <lb ed="#G" n="6"/>&amp; nihil aliud. Latinis igitur incumbit probare
+          <lb ed="#G" n="7"/>processionem Spiritus sancti illa afflatione
+          signifi<lb ed="#G" n="8" break="no"/>cari, &amp; nihil aliud. Quodsi probare velint
+          inter<lb ed="#G" n="9" break="no"/>rogando: quid ergo aliud? vel instando, non posse
+          <lb ed="#G" n="10"/>alium significatum ostendi, nihil adhuc efficient.
+          <lb ed="#G" n="11"/>Dicam enim, me nescire, quid significet afflatio,
+          <lb ed="#G" n="12"/>cum non habeamus ejus explicationem in
+          scriptu<lb ed="#G" n="13" break="no"/>ra: (dicam vero ita interim, nam habemus, quid
+          <lb ed="#G" n="14"/>aliud dicamus, ut mox patebit) Latini ergo
+          pro<lb ed="#G" n="15" break="no"/>bare debebunt, afflatione illa nihil aliud
+          significa<lb ed="#G" n="16" break="no"/>ri, nisi Spiritus sancti processionem: quod tamen
+          <lb ed="#G" n="17"/>hactenus nemo illorum effecit, nisi interrogando,
+          <lb ed="#G" n="18"/>quid significetur aliud?
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e205">
+          <lb ed="#G" n="19"/>§. 139.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e210">
+          <lb ed="#G" n="20"/>II. Iam vero, ut importunae isti
+          interrogatio<lb ed="#G" n="21" break="no"/>ni satis faciamus, &amp; plus praestemus quam
+          debe<lb ed="#G" n="22" break="no"/>mus, dicamus satis superque. Dicimus ergo,
+          ni<lb ed="#G" n="23" break="no"/>hil aliud per illam afflationem denotari, nisi meram
+          <lb ed="#G" n="24"/>Spiritus sancti dationem, donationem, exhibitionem,
+          <lb ed="#G" n="25"/>et si quae alia verba idem sonantia reperiantur.
+          Hu<lb ed="#G" n="26" break="no"/>jus assertionis haec est ratio: quia cum Spiritus Sancti
+          <lb ed="#G" n="27"/>res incorporea sit, &amp; Spiritus vocetur per
+          analogi<lb ed="#G" n="28" break="no"/>am aeris, vel flatus, qui sunt quidem corpora, sed
+          <lb ed="#G" n="29"/>non videntur esse, propter eximiam subtilitatem;
+          <lb ed="#G" n="30"/>ut verbum spirandi vel flandi, ita etiam
+          cerimo<lb ed="#G" n="31" break="no"/>nia illa, flatus videlicet, per modum symboli
+          opti<pb ed="#G" n="174"/><lb ed="#G" n="1" break="no"/>me adhibita est a Domino ad significandam
+          Spiri<lb ed="#G" n="2" break="no"/>tus sancti exhibitionem: nam &amp; aerem fando
+          im<lb ed="#G" n="3" break="no"/>pellimus, atque alteri immittimus. Quae nostra
+          <lb ed="#G" n="4"/>interpretatio &amp; probatur &amp; illustratur sequentibus
+          <lb ed="#G" n="5"/>exemplis seu instantiis. I Idem Spiritus Sanctu
+          promit<lb ed="#G" n="6" break="no"/>titur a Deo effundendus, Esajae XLIV. 3. Quia
+          sci<lb ed="#G" n="7" break="no"/>licet idem spiritus flumini &amp; aquae assimilatur,
+          <lb ed="#G" n="8"/>Ioan. vII. 38. &amp; alibi. Ubi per effusionis
+          meta<lb ed="#G" n="9" break="no"/>phoram non significatur, imo nec innuitur ipsius
+          <lb ed="#G" n="10"/>Spiritus Sanctus processio seu origo, sed tantum
+          exbibi<lb ed="#G" n="11" break="no"/>tio, missio, donatio, cet. 2 Infusio olei illa
+          un<lb ed="#G" n="12" break="no"/>guenti in caput Regum &amp; sacerdotum in veteri
+          <lb ed="#G" n="13"/>testamento usurpata, nihil utique denotabat aliud,
+          <lb ed="#G" n="14"/>nisi Spiritus sancti immissionem, quod quidem
+          pro<lb ed="#G" n="15" break="no"/>batione non indiget, ita certum est, &amp; jam alibi
+          <lb ed="#G" n="16"/>a nobis expositum. Per oleum autem denotabatur
+          <lb ed="#G" n="17"/>Spiritus sanctus, per olei infusionem ipsa Spiritus Sanct
+          <lb ed="#G" n="18"/>ex hibitio, nequaquam ejus aeterna ab altera sive
+          <lb ed="#G" n="19"/>una, sive duplici persona processio. Quare sicuti
+          <lb ed="#G" n="20"/>eadem Spiritus Sanctu immissio, dicitur unctio, ubi ille per
+          <lb ed="#G" n="21"/>unguentum adumbratur, &amp; effusio, ubi flumini
+          as<lb ed="#G" n="22" break="no"/>similatur: ita afflatio dicitur propter com
+          munissi<lb ed="#G" n="23" break="no"/>mum &amp; usitatissimum nomen Spiritus certe jam
+          <lb ed="#G" n="24"/>nihil nos cogit alia fingere mysteria. Sed tamen
+          <lb ed="#G" n="25"/>plura sunt, quae rem nostram juvant. 3) Gen. II.
+          <lb ed="#G" n="26"/>7. dicitur Deus inspirasse homini animam. Haec
+          <lb ed="#G" n="27"/>vero inspiratio non denotat animae originem, a
+          <lb ed="#G" n="28"/>quo illa sit, sed tantum immissionem ejus in corpus
+          <lb ed="#G" n="29"/>hominis. Non dubitamus quidem animam a Deo
+          <lb ed="#G" n="30"/>creatam esse, &amp; simul tunc, cum crearetur,
+          homi<lb ed="#G" n="31" break="no"/>ni infusam. Ceterum illa inspiratio non creandi,
+          <pb ed="#G" n="175"/><lb ed="#G" n="1"/>sed immittenti actionem denotat, per analogiam
+          im<lb ed="#G" n="2" break="no"/>pulsi &amp; immissi aeris. Quod quidem nemo nisi
+          <lb ed="#G" n="3"/>protervus negaverit. 4 Sancts Petrus 2 Epist. I. 21.
+          <lb ed="#G" n="4"/>ait, Sancto spiritu afflatos loquutos esse sanctos Dei
+          <lb ed="#G" n="5"/>homines. An hoc audicnti veniet in mentem
+          ae<lb ed="#G" n="6" break="no"/>terna Spiritus Sanctum processio? minime gentium:
+          so<lb ed="#G" n="7" break="no"/>la hic intelligitur exhibitio. 5) 2 Timot. III. 16.
+          <lb ed="#G" n="8"/>dicitur scriptura divinitus inspirata. Ubi nihil aliud
+          <lb ed="#G" n="9"/>intelligendum proponitur, nisi divinorum
+          arca<lb ed="#G" n="10" break="no"/>norum a Deo hominibus facta revelatio.
+          Mini<lb ed="#G" n="11" break="no"/>me vero ex qua caussa, aut etiam, an ex caussa
+          ha<lb ed="#G" n="12" break="no"/>beant suum ortum arcana illa. 6) loan. III. 3.
+          <lb ed="#G" n="13"/>dicitur: Spiritus ubi vult spirat. Quod dictum
+          <lb ed="#G" n="14"/>non aliter explicari potest, nisi, Spiritus, ubi vult,
+          <lb ed="#G" n="15"/>se exbibet: alioqui etiam a se ipso procedere
+          dice<lb ed="#G" n="16" break="no"/>tur.  In aliis etiam rebus similia reperimus.
+          <lb ed="#G" n="17"/>Apoc. XVI. dicuntur angeli effundere in terram
+          phia<lb ed="#G" n="18" break="no"/>las, quae adumbrant effusam Dei iram, &amp; varias
+          <lb ed="#G" n="19"/>poenas: at neque illae poenac Angclorum
+          effun<lb ed="#G" n="20" break="no"/>dentium sunt, vel ab ipsis, tanquam a caussis
+          flu<lb ed="#G" n="21" break="no"/>unt; neque talis effusio innuit caussam poenarum
+          <lb ed="#G" n="22"/>efficientem (de ea enim non dubitamus) sed
+          tan<lb ed="#G" n="23" break="no"/>tum meram immissionem poenarum exprimit.
+          Plu<lb ed="#G" n="24" break="no"/>ra hujusmodi exempla observari possunt: &amp; hoc
+          <lb ed="#G" n="25"/>interim in promptu habendum est, quod Latini
+          sa<lb ed="#G" n="26" break="no"/>crificuli, infantes, quos baptizant, afflant, hoc ritu
+          <lb ed="#G" n="27"/>certe communicationem Spiritus Sanctus significantes;
+          <lb ed="#G" n="28"/>an vero putant ctiam a se ipsis procedere
+          aeter<lb ed="#G" n="29" break="no"/>naliter Spiritum Sanctu de hoc quidem ipsi
+          interrogan<lb ed="#G" n="30" break="no"/>di sunt. Cum igitur haec afflatio nihil aliud
+          signi<lb ed="#G" n="31" break="no"/>ficet, nisi exhibitionem seu missionem Spiritus Sanctm &amp;
+          <pb ed="#G" n="176"/><lb ed="#G" n="1"/>ratio istius symboli commodissime explicata sit,
+          <lb ed="#G" n="2"/>per analogiam immissi venti, &amp; ex similibus
+          exem<lb ed="#G" n="3" break="no"/>plis confirmata; si quam vim hic habere potuisset,
+          <lb ed="#G" n="4"/>habuisset illam, quod, a quo datur Spiritus Sanctu ab
+          il<lb ed="#G" n="5" break="no"/>lo etiam procedat, adeoque esset idem cum
+          supe<lb ed="#G" n="6" break="no"/>riore argumento, &amp; minime diversum. At illud
+          <lb ed="#G" n="7"/>jam dissolvimus: quare novum istud plane
+          nul<lb ed="#G" n="8" break="no"/>lum cst.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e394">
+          <lb ed="#G" n="9"/>§. 140.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e400">
+          <lb ed="#G" n="10"/>III. Si provocatur ad Patres, magis nostra
+          re<lb ed="#G" n="11" break="no"/>sponsio invalescit, cum Patres varii varie
+          afflatio<lb ed="#G" n="12" break="no"/>nem istam considerantes, processionis ne
+          memine<lb ed="#G" n="13" break="no"/>runt quidem: tantum abest, ut hanc ex illa
+          dedu<lb ed="#G" n="14" break="no"/>cerent. Quod etiam non modo ad objectionem
+          <lb ed="#G" n="15"/>Latinorum solvendam, sed ad nostrum etiam
+          do<lb ed="#G" n="16" break="no"/>gma confirmandum valct plurimum;
+          quemadmo<lb ed="#G" n="17" break="no"/>dum supra observavimus. Hic enim certe Patres
+          <lb ed="#G" n="18"/>tacere de processione non potuissent: at tacent, &amp;
+          <lb ed="#G" n="19"/>alia loquuntur. Nam,
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e424">
+          <lb ed="#G" n="20"/>1. Plerique Patres illud Ioan. III. 8. Spiritus,
+          <lb ed="#G" n="21"/>ubi vult, spirat, exponunt de Spiritu Sanctum quod
+          ip<lb ed="#G" n="22" break="no"/>semet se ipsum, ubi vult exhibeat, per spirationem
+          <lb ed="#G" n="23"/>nihil nisi exhibitionem intelligentes. Ita AVGVςτ.
+          <lb ed="#G" n="24"/>lib. xv. de Trinit. cap. XIX. BEDA, libr. Retract.
+          <lb ed="#G" n="25"/>in acta Apostolorum ad cap. x. ALBINVS Alcuinus,
+          <lb ed="#G" n="26"/>libr. 2. de Trinit. cap. xIX. &amp; alii. Hi certe
+          eti<lb ed="#G" n="27" break="no"/>am per illam afflationem non intelligunt
+          proces<lb ed="#G" n="28" break="no"/>sionem.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e446">
+          <lb ed="#G" n="29"/>2. Alii patres de hac afflatione agentes, nihil
+          <lb ed="#G" n="30"/>de significatione processionis, sed tantum de data
+          <pb ed="#G" n="177"/><lb ed="#G" n="1"/>gratia Apostolis dicunt: Cril. Hierosol. Catheches
+          <lb ed="#G" n="2"/>XIV. &amp; XVII. Athanasius lib. de dictis &amp;
+          interpre<lb ed="#G" n="3" break="no"/>tationibus parabolarum Evangelii, quaestion. XXIX.
+          <lb ed="#G" n="4"/>Hieron. Epist. ad Hebidiam quaest. 9. Chrysost.
+          Ho<lb ed="#G" n="5" break="no"/>mil. 86. in Ioan. alias &amp;5. post medium dupliciter
+          <lb ed="#G" n="6"/>intelligit. A Per insufflationem ad recipiendum
+          <lb ed="#G" n="7"/>spiritum promissum praeparasse Christum
+          Aposto<lb ed="#G" n="8" break="no"/>los. B Per insufflationem charismata contulisse
+          <lb ed="#G" n="9"/>Apostolis remittendi &amp; retinendi peccata.
+          Oecu<lb ed="#G" n="10" break="no"/>menius in acta ad cap. I. Elias Cretensis in
+          com<lb ed="#G" n="11" break="no"/>mentario ad Greg. Nazian. orationem de Spiritu
+          <lb ed="#G" n="12"/>S. inter opera Nazianzeni. Theophylactus in
+          Com<lb ed="#G" n="13" break="no"/>mentario ad Ioan. cap. III. &amp; XX. Bernardus etiam
+          <lb ed="#G" n="14"/>sermone 6. in ascensionem Domini, &amp; alii
+          <lb ed="#G" n="15"/>plures.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e486">
+          <lb ed="#G" n="16"/>3. Patres item saepe faciunt quaestionem de
+          <lb ed="#G" n="17"/>duplici missione Spiritus Sanctu cur scilicet &amp; post
+          re<lb ed="#G" n="18" break="no"/>surrectionem dedit eum Apostolis Dominus per
+          <lb ed="#G" n="19"/>afflationem illam, &amp; in pentecoste daturus erat?
+          <lb ed="#G" n="20"/>&amp; varie respondent: alii distinguunt gratias, quae
+          <lb ed="#G" n="21"/>post resurrectionem, &amp; quae in pentecoste datae
+          <lb ed="#G" n="22"/>sunt; ut faciunt proxime citati sub num. 2. Alii
+          <lb ed="#G" n="23"/>alias assignant caussas, ut ad observandam Dei &amp;
+          <lb ed="#G" n="24"/>proximi dilectionem, &amp; alias: ut sunt, August. lib.
+          <lb ed="#G" n="25"/>15. de Trinit. cap. xXvI. Gregorius Dialogus papa
+          <lb ed="#G" n="26"/>Rom. hom. 26. Albinus Alcuinus, lib. 2. de
+          Tri<lb ed="#G" n="27" break="no"/>nit. cap. xXI. Cyril. Alexandr. lib. 12. in Ioan. ad
+          <lb ed="#G" n="28"/>verba illa: accipite Spiritum Sanctus cet.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e517">
+          <lb ed="#G" n="29"/>4. GREGORIVS vero Natiant. citato loco,
+          <lb ed="#G" n="30"/>pet flatum quidem putat significari processionem,
+          <pb ed="#G" n="178"/><lb ed="#G" n="1"/>eam tamen non ad Filium, sed ad Patrem refert,
+          <lb ed="#G" n="2"/>orat. XXXVII. quaecunque hic humilius dicuntur
+          cu<lb ed="#G" n="3" break="no"/>jusmodi sunt: dari, mitti, distributio, afflatus, ad
+          <lb ed="#G" n="4"/>principem caussam referenda sunt, ut ostendatur, ex
+          <lb ed="#G" n="5"/>quo sit Spiritus Sanct Quae autem princeps caussa sit,
+          <lb ed="#G" n="6"/>cum ex aliis orationibus, tum ex orat. XXXV.
+          li<lb ed="#G" n="7" break="no"/>quido constat; ubi non procul ab initio ita dicit:
+          <lb ed="#G" n="8"/>ille quidem (Pater) genitor &amp; productor est, citra
+          <lb ed="#G" n="9"/>tamen ullam passionem, ac tempus, atque
+          incorpo<lb ed="#G" n="10" break="no"/>reo modo: horum autem alter soboles, alter
+          proces<lb ed="#G" n="11" break="no"/>sio. Et Paulo inferius: a Patre sunt Filius &amp;
+          <lb ed="#G" n="12"/>Spiritus Sanctus licet non post Patrem. Quod enim
+          prin<lb ed="#G" n="13" break="no"/>cipio caret, aeternum quoque est, quod autem
+          aeter<lb ed="#G" n="14" break="no"/>num est, non protinus quoque principio caret,
+          quan<lb ed="#G" n="15" break="no"/>do ad Patrem velut ad principium &amp; caussam
+          refer<lb ed="#G" n="16" break="no"/>tur. Ergo Filius &amp; Spiritus quantum ad caussam
+          <lb ed="#G" n="17"/>principio minime carent. cet.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e562">
+          <lb ed="#G" n="18"/>6. Denique alii patres negant expresse in illa
+          <lb ed="#G" n="19"/>afflatione datum essc Spiritum Sancts CHRYSOST. in
+          <lb ed="#G" n="20"/>Ioan. hom. 85. AMMONIVS in catena Patrum
+          <lb ed="#G" n="21"/>Graecorum in Ioan. OECVMENIVS ad cap. I.
+          <lb ed="#G" n="22"/>Actorum; quanquam haec interpretatio non
+          pla<lb ed="#G" n="23" break="no"/>ceat. Nam quid sit aliud dari Spiritum Sanctu nisi
+          inci<lb ed="#G" n="24" break="no"/>pere ipsum gratiam operari? ut diximus, ubi
+          mis<lb ed="#G" n="25" break="no"/>sionem explicuimus libro hoc cap. I. &amp; hinc
+          ta<lb ed="#G" n="26" break="no"/>lis expositio a Theodoro Mopsvesteno prolata, in
+          <lb ed="#G" n="27"/>concilio oecumenico quinto condemnata est: sed
+          <lb ed="#G" n="28"/>forte Chrysostomus &amp; alii cum negarent Spiritum
+          <lb ed="#G" n="29"/>S. datum esse, volebant intelligi longe minorem
+          <lb ed="#G" n="30"/>fuisse hic operationem Spiritus Sanctu quam in
+          pente<pb ed="#G" n="179"/><lb ed="#G" n="1" break="no"/>coste, Et hoc sensu non improbandi sunt. Tam
+          <lb ed="#G" n="2"/>varii ergo &amp; tam varie Patres afflationem illam
+          tra<lb ed="#G" n="3" break="no"/>ctaverunt, &amp; nullus ad processionem respexit: non
+          <lb ed="#G" n="4"/>modo igitur nobis non obest, sed omnino obest
+          <lb ed="#G" n="5"/>Latinis illa afflatio.
+        </p>
+        <p xml:id="cax7ya-d1e193-d1e606">
+          <lb ed="#G" n="6"/>§. 141. CORNELIVS a Lapide in hunc
+          lo<lb ed="#G" n="7" break="no"/>cum reddit rationem afflationis, quod scilicet
+          si<lb ed="#G" n="8" break="no"/>gnificet processionem Spiritus Sanctu a Filio, &amp; secure
+          <lb ed="#G" n="9"/>coram suis mentitur: Ita, inquit, Augustinus,
+          Cy<lb ed="#G" n="10" break="no"/>rillus, Beda &amp; cet. intelligunt. Augustini enim
+          ver<lb ed="#G" n="11" break="no"/>ba sunt, loco apud Cornelium notato tractat. 121.
+          <lb ed="#G" n="12"/>in Ioannem: insifflatio significat, quod Spiritus tam
+          <lb ed="#G" n="13"/>Patris quam suus est. Multo minus Cyrillus hoc
+          <lb ed="#G" n="14"/>dixit. Bellarminus vero libr. 2. de Christo c. 22.
+          <lb ed="#G" n="15"/>eosdem patres citans, reprehendit Theophylactum,
+          <lb ed="#G" n="16"/>quod hoc argumentum irrisisset, dicitque, eum
+          <lb ed="#G" n="17"/>ridendum &amp; Latinis, si Augustinum, &amp; Graecis, si
+          <lb ed="#G" n="18"/>Cyrillum irriserit. Bellarminus vero ipse
+          ridicu<lb ed="#G" n="19" break="no"/>lus &amp; ridendus est: Nam Theophylactus non
+          Au<lb ed="#G" n="20" break="no"/>gustini, non Cyrilli meminit, sed Latinorum
+          re<lb ed="#G" n="21" break="no"/>centiorum expositionem ridet; nec potuit vel
+          Au<lb ed="#G" n="22" break="no"/>gustinum vel Cyrillum ridere, quia illi nihil tale
+          <lb ed="#G" n="23"/>dixere, quod somniavit Bellarminus. Et cur pro
+          <lb ed="#G" n="24"/>Augustino Latini, pro Cyrillo vero Graeci mutuo
+          <lb ed="#G" n="25"/>risu Theophylactum ulciscerentur? Uterque Pater,
+          <lb ed="#G" n="26"/>hatione licet diversus, erat totius Ecclesiae
+          Do<lb ed="#G" n="27" break="no"/>ctor &amp; Theologus. In commune enim laborat,
+          <lb ed="#G" n="28"/>quisquis pro mensura doni Christi, operam
+          impen<lb ed="#G" n="29" break="no"/>dit ad tuendam veritatem; nec est in Christo Iesu
+          <lb ed="#G" n="30"/>Graecus aut Barbarus
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

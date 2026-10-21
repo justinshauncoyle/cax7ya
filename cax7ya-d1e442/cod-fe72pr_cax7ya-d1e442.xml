@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 20</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 20</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="447"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e442">
+        <head xml:id="cax7ya-d1e442-Hd1e108">Caput 20</head>
+        <head xml:id="cax7ya-d1e442-Hd1e110" type="question-title">De relationibus notionibus et processionibus divinarum personarum</head>
+        <p xml:id="cax7ya-d1e442-d1e113">
+          <pb ed="#G" n="447"/><lb ed="#G" n="1"/>CAPVT.XX.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e119">
+          <lb ed="#G" n="2"/>De Relationibus, Notionibus, &amp;
+          Processio<lb ed="#G" n="3" break="no"/>nibus divinarum personarum.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e126">
+          <lb ed="#G" n="4"/>§.
+          323<lb ed="#G" n="5" break="no"/>uod praecipuum fuit de sanctissimo Trinitatis
+          <lb ed="#G" n="6"/>mysterio sciendum, hoc jam, Deo juvante,
+          <lb ed="#G" n="7"/>expedivimus, Libro secundo &amp; hoc tertio
+          sa<lb ed="#G" n="8" break="no"/>tis prolixe: quaedam minus praecipua, sed
+          brevi<lb ed="#G" n="9" break="no"/>ter hic dicenda restant de relationibus, notionibus,
+          <lb ed="#G" n="10"/>&amp; processionibus, seu modis processionum in divinis
+          <lb ed="#G" n="11"/>personis. Minus haec praecipua sunt, quia non
+          <lb ed="#G" n="12"/>tam ad cognoscendum Trinitatis dogma, quam ad
+          <lb ed="#G" n="13"/>facilius de illo disputandum inserviunt. Breviter
+          <lb ed="#G" n="14"/>autem sunt expedienda, quia ex supra dictis
+          pen<lb ed="#G" n="15" break="no"/>dent, imo jam in supra dictis comprehensa sunt:
+          <lb ed="#G" n="16"/>&amp; ideo tantum singularem locum postulant, quia
+          <lb ed="#G" n="17"/>ibi obiter, rc ita postulante, tacta erant, hic
+          qua<lb ed="#G" n="18" break="no"/>si exprofesso exponi poscunt, sed eo solo fine, ut
+          <lb ed="#G" n="19"/>expeditius de hoc mysterio loqui valeamus, quasi
+          <lb ed="#G" n="20"/>vocabula ad facilius de Trinitate loquendum
+          ido<lb ed="#G" n="21" break="no"/>nea. Tria autem sunt potissimum: Relatio,
+          No<lb ed="#G" n="22" break="no"/>tio, Processio.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e171">
+          <pb ed="#G" n="448"/><lb ed="#G" n="1"/>§. 324.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e177">
+          <lb ed="#G" n="2"/>I. RELATIO personae unius ad alteram est
+          il<lb ed="#G" n="3" break="no"/>la ratio, qua sese invicem duae personae
+          contuen<lb ed="#G" n="4" break="no"/>tur, &amp; invicem ad se spectant. Talis autem
+          ra<lb ed="#G" n="5" break="no"/>tio non consideratur in natura divina, quia in illa
+          <lb ed="#G" n="6"/>omnes tres personae unum sunt, unus in
+          indivi<lb ed="#G" n="7" break="no"/>dua unitate Deus; cum tamen relata sint distincta
+          <lb ed="#G" n="8"/>inter se oporteat. Si tamen ratio talis spectetur
+          <lb ed="#G" n="9"/>partim in personis, partim in natura, potest
+          con<lb ed="#G" n="10" break="no"/>sidcrari etiam in natura, hoc est, ut personae
+          con<lb ed="#G" n="11" break="no"/>siderentur tanquam subjecta relationis, seu
+          termi<lb ed="#G" n="12" break="no"/>ni, (ut loquuntur) ipsa vero identitas naturae
+          tan<lb ed="#G" n="13" break="no"/>quam ratio fundandi talem relationem,
+          dicamus<lb ed="#G" n="14" break="no"/>que Filium ad Patrem referri in eo etiam, quod
+          <lb ed="#G" n="15"/>Filius sit idem ipse Deus, qui est &amp; Pater. Sed
+          <lb ed="#G" n="16"/>haec relatio non praedicamentalis, verum
+          secun<lb ed="#G" n="17" break="no"/>dum dici; vel relatio rationis est, improprie
+          scili<lb ed="#G" n="18" break="no"/>cet dicta: nam ad relationem proprie dictam
+          re<lb ed="#G" n="19" break="no"/>quiritur, ut ratio referendi sit utcunque distincta in
+          <lb ed="#G" n="20"/>uno atque altero relatorum. RELATIO ergo
+          pro<lb ed="#G" n="21" break="no"/>prie dicta in divinis fundatur partim in opposito,
+          <lb ed="#G" n="22"/>partum in simili. In opposito relatio est inter
+          Pa<lb ed="#G" n="23" break="no"/>trem rursus ac Spiritum Sanctum, tanquam
+          scili<lb ed="#G" n="24" break="no"/>cet inter caussam &amp; caussatum. Nam Pater
+          gene<lb ed="#G" n="25" break="no"/>rat Filium, &amp; Filius a Patre generatur: item
+          Pa<lb ed="#G" n="26" break="no"/>ter producit Spiritum sanctum, &amp; Spiritus
+          produ<lb ed="#G" n="27" break="no"/>citur a Patre. Inter Filium autem &amp; Spiritum Sanct
+          <lb ed="#G" n="28"/>relatio est non in opposito, sed in simili tantum;
+          <lb ed="#G" n="29"/>in hoc, inquam, simili, quod tam Filius, quam
+          Spi<lb ed="#G" n="30" break="no"/>ritus sanctus ab eodem Patre oriantur, licet
+          diver<lb ed="#G" n="31" break="no"/>somodo: ergo Filius &amp; Spiritus sanctus referuntur
+          <pb ed="#G" n="449"/><lb ed="#G" n="1"/>ad se, tanquam proles ejusdem parentis, licet
+          im<lb ed="#G" n="2" break="no"/>proprie ita loquamur. Nam Spiritus sanctus non
+          <lb ed="#G" n="3"/>generationis modo, sed alio nobis ineffabili a
+          Pa<lb ed="#G" n="4" break="no"/>tre oritur. Sicut GREGORIVS Naxianzenus
+          ora<lb ed="#G" n="5" break="no"/>tion. XXXIX. consonanter cum Sanctus scriptura
+          disse<lb ed="#G" n="6" break="no"/>rit: Spiritus Sanctus vere Spiritus est, procedens
+          <lb ed="#G" n="7"/>quidem ex Patre, non tamen filiationis modo:
+          ne<lb ed="#G" n="8" break="no"/>que enim per generationem, sed per processionem.
+          <lb ed="#G" n="9"/>IVSTINVS item Martyr in expositionc fidei:
+          <lb ed="#G" n="10"/>τὸ πνεῦμα ἐκ τοῦ πατρὸς φῦς ἐκ φοτὸς ὁυ ulν
+          yeν<lb ed="#G" n="11" break="no"/>mrῶs ἀλ εκπορεντῶς προνλθε, Spiritus Sanctus ex
+          <lb ed="#G" n="12"/>Patre, lumen de lumine, non geniti sed procedentis
+          <lb ed="#G" n="13"/>modo progressus est. CHRVSOSTOMVS vero
+          ho<lb ed="#G" n="14" break="no"/>mil. 72. tom. 6. interrogat: πῦς ἐκπορἐνεταὶ τὸ
+          <lb ed="#G" n="15"/>πνεῦμα ἐκ τοῦ παrτρὸς, quomodo procedit Spiritus
+          <lb ed="#G" n="16"/>a Patre? &amp; respondet: ῦς ἀπὸ πnνῦς ῦδορ, ut ex
+          <lb ed="#G" n="17"/>fonte aqua. Sed haec Chrysostomi similitudo e
+          <lb ed="#G" n="18"/>longinquo petita est, cum non exstet propinquior.
+          <lb ed="#G" n="19"/>Hinc Nazianzenus orat. XXIX. dehortatur a
+          mo<lb ed="#G" n="20" break="no"/>do processionis hujus indagando, inquiens: audis
+          <lb ed="#G" n="21"/>Spiritum Sanctum ex Patre procedere, modum ne
+          <lb ed="#G" n="22"/>anxio perscruteris studio. Interim tamen Patres
+          <lb ed="#G" n="23"/>adumbrant hanc relationem personarum per
+          quan<lb ed="#G" n="24" break="no"/>dam comparationem; adeoque huc spectat illa
+          Pa<lb ed="#G" n="25" break="no"/>trum contemplatio, qui Patrem Adamo, Filium
+          <lb ed="#G" n="26"/>Setho genito, Spiritum Sanctum Evae eductae ex
+          <lb ed="#G" n="27"/>costa Adami, non genitae comparant: de qua
+          su<lb ed="#G" n="28" break="no"/>pra dictum est, libro hoc, cap. XVII. num. VII.
+          <lb ed="#G" n="29"/>num. 8ct Porro tales dari relationes in divinis &amp; ex
+          <lb ed="#G" n="30"/>supra dictis luculenter patet, ut quod in libro
+          se<pb ed="#G" n="450"/><lb ed="#G" n="1" break="no"/>cundo vindicando argumentum ab exceptione
+          <lb ed="#G" n="2"/>Arianorum, quo ex eo, quod Christus sit Dei
+          Fi<lb ed="#G" n="3" break="no"/>lius, esse illum summum Deum asserebamus, una
+          <lb ed="#G" n="4"/>opera etiam de generatione Filii Dei, licet obiter,
+          <lb ed="#G" n="5"/>loquuti sumus: &amp; quod probando Spiritum
+          San<lb ed="#G" n="6" break="no"/>ctum a solo procedere Patre, una etiam
+          processio<lb ed="#G" n="7" break="no"/>nem ejus dari ostendimus, &amp; hoc ipsum praeterea
+          <lb ed="#G" n="8"/>tangemus hic infra numero III.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e329">
+          <lb ed="#G" n="9"/>§. 325.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e334">
+          <lb ed="#G" n="10"/>II. NOTIO autem personae alicujus est illa
+          <lb ed="#G" n="11"/>ratio, quae maxime est propria ejus, &amp; in qua
+          con<lb ed="#G" n="12" break="no"/>sistit ipsa hypostasis, &amp; per quam ipsa noscitur, &amp;
+          <lb ed="#G" n="13"/>ab alia hypostasi dignoscitur, ideo &amp; Notio
+          dici<lb ed="#G" n="14" break="no"/>tur. Patres graeci vocant Iδioν, proprietatem. Ita
+          <lb ed="#G" n="15"/>GREGORIVS Naxianzenus orat. XXIII. dicit:
+          <lb ed="#G" n="16"/>Patris proprietas est, quod ingenitus sit, Filii,
+          <lb ed="#G" n="17"/>quod genitus; Spiritus Sancti, quod procedat. Et
+          <lb ed="#G" n="18"/>oration. XIII. proprietates, inquit, trium
+          persona<lb ed="#G" n="19" break="no"/>rum sunt, ἀναρxον, principio carere, yἐννnσις,
+          ge<lb ed="#G" n="20" break="no"/>neratio, &amp; πρὸοδος, processio. Notiones numerant
+          <lb ed="#G" n="21"/>scholastici vulgo quinque: esse ingenitum,
+          gencra<lb ed="#G" n="22" break="no"/>re, spirare, generari, spirari; tres priores
+          Pa<lb ed="#G" n="23" break="no"/>trem concernunt, duarum reliquarum altera est
+          <lb ed="#G" n="24"/>Filii, altera Spiritus sancti; quam vero bona haec
+          <lb ed="#G" n="25"/>sit eorum consideratio, mox patebit, si duo hic
+          <lb ed="#G" n="26"/>quaedam observemus: primum, notionem posse
+          <lb ed="#G" n="27"/>statui vel in positivo, considerando scilicet, quid
+          <lb ed="#G" n="28"/>persona sit, vel in negativo, observando quid
+          per<pb ed="#G" n="451"/><lb ed="#G" n="1" break="no"/>sona non sit. Ut, Pater positivam notionem habet,
+          <lb ed="#G" n="2"/>quod generet, negativam vero, quod ipse non
+          ge<lb ed="#G" n="3" break="no"/>neretur. Secundum, alterutram notionem posse
+          <lb ed="#G" n="4"/>a nobis usurpari in loquendo vel concrete, quod
+          <lb ed="#G" n="5"/>ajunt, pro toto subjecto, pro tota hypostasi, ut
+          <lb ed="#G" n="6"/>si per nomen ingeniti vel Patris accipias Patrem,
+          <lb ed="#G" n="7"/>non tantum qua Pater est &amp; refertur ad Filium, sed
+          <lb ed="#G" n="8"/>qua tota est Hypostasis, ipsa ab alio non producta,
+          <lb ed="#G" n="9"/>&amp; alias duas personas producens: vel abstracte, pro
+          <lb ed="#G" n="10"/>illa sola vi &amp; proprietate, quae per vocem talis
+          no<lb ed="#G" n="11" break="no"/>tionis exprimitur; ut si per nomen ingeniti, hoc
+          <lb ed="#G" n="12"/>solum in Patre intelligas, quod non sit ab alio, &amp;
+          <lb ed="#G" n="13"/>per nomen Patris si accipias solam generandi
+          <lb ed="#G" n="14"/>actionem. His ita consideratis patet
+          numeratio<lb ed="#G" n="15" break="no"/>nem Scholasticorum, qua notiones assignant
+          quin<lb ed="#G" n="16" break="no"/>que, undiquaque malam esse: nam ad prius
+          nota<lb ed="#G" n="17" break="no"/>tum respiciendo, quaero, num illi volunt
+          nume<lb ed="#G" n="18" break="no"/>rare notiones tantum positivas? vel tantum
+          nega<lb ed="#G" n="19" break="no"/>tivas? vel partim positivas, partim negativas? si
+          <lb ed="#G" n="20"/>primum, erunt tantum quatuor: generare,
+          spira<lb ed="#G" n="21" break="no"/>re, generari, spirari. Nam esse ingenitum (si
+          su<lb ed="#G" n="22" break="no"/>matur abstracte) est notio negativa. Si
+          secundum<lb ed="#G" n="23" break="no"/>duae tantum erunt generatim acceptae: non
+          gene<lb ed="#G" n="24" break="no"/>rari, non spirari: quod si accipiatur speciatim
+          <lb ed="#G" n="25"/>respiciendo ad subjecta, &amp; hae erunt septem: non
+          <lb ed="#G" n="26"/>generari, non spirari, in Patre; non spirari, non
+          <lb ed="#G" n="27"/>generare in Filio; non generari, nec generare, nec
+          <lb ed="#G" n="28"/>spirare in Spiritu sancto; si demum tertium dicent:
+          <lb ed="#G" n="29"/>erunt notiones undecim: quatuor in Patre: non
+          <lb ed="#G" n="30"/>generari, nec spirari, sed generare &amp; spirare;
+          <pb ed="#G" n="452"/><lb ed="#G" n="1"/>tres in Filio: non generare, non spirari, sed
+          gene<lb ed="#G" n="2" break="no"/>rari; &amp; quatuor aliae in Spiritu sancto: non
+          ge<lb ed="#G" n="3" break="no"/>nerari, nec generare, nec spirare, sed spirari.
+          <lb ed="#G" n="4"/>Quod si dogma Latinorum admittatur, accrescet
+          <lb ed="#G" n="5"/>duodecima, nempe spirare in Filio. Respiciendo
+          <lb ed="#G" n="6"/>autem ad monitum secundum, rursum interrogo:
+          <lb ed="#G" n="7"/>num loquuntur in concreto, an vero in abstracto?
+          <lb ed="#G" n="8"/>si in abstracto; sed sermo sit de solis positivis
+          no<lb ed="#G" n="9" break="no"/>tionibus, rursus erunt quatuor: si in abstracto, sed
+          <lb ed="#G" n="10"/>de solis negativis, rursus erunt septem; si in
+          ab<lb ed="#G" n="11" break="no"/>stracto, sed tam has, quam illas capiendo, rursus
+          <lb ed="#G" n="12"/>erunt undecim vel duodecim: quod si loquantur
+          <lb ed="#G" n="13"/>in concreto, sed tantum negativas suis oppositis
+          po<lb ed="#G" n="14" break="no"/>sitivis agglutinando, non vero pro tota Hypostasi
+          <lb ed="#G" n="15"/>sumendo, erunt ergo quatuor notiones, duae in
+          <lb ed="#G" n="16"/>Patre: non generari, sed generare: &amp; non spirari
+          <lb ed="#G" n="17"/>sed spirare. In Filio una: non generare, non
+          spi<lb ed="#G" n="18" break="no"/>rari, sed generari: &amp; una in Spiritu sancto: non
+          <lb ed="#G" n="19"/>generare, nec generari, nec spirare, sed spirari:
+          <lb ed="#G" n="20"/>si vero ita in concreto loquantur, ut per unam
+          no<lb ed="#G" n="21" break="no"/>tionem intelligatur tota hypostasis sumpta positive,
+          <lb ed="#G" n="22"/>seorsim tamen negativas, idque sigillatim
+          recensen<lb ed="#G" n="23" break="no"/>do notiones, erunt omnino decem notiones:
+          Pa<lb ed="#G" n="24" break="no"/>ternitas, filialitas &amp; passiva spiratio, non
+          genera<lb ed="#G" n="25" break="no"/>ri, non spirari in Patre; non generare, non
+          spira<lb ed="#G" n="26" break="no"/>ri, in Filio; (uam nostrum non spirare in Filio,
+          <lb ed="#G" n="27"/>hic illis non urgemus) non generare, non
+          genera<lb ed="#G" n="28" break="no"/>ri, non spirare, in Spiritu sancto. Si adhuc
+          di<lb ed="#G" n="29" break="no"/>cent loqui se ita in concreto, ut seorsim positivae
+          <lb ed="#G" n="30"/>in una persona notiones sumantur pro una
+          notio<pb ed="#G" n="453"/><lb ed="#G" n="1" break="no"/>ne, &amp; seorsim negativae, item pro una, tum
+          no<lb ed="#G" n="2" break="no"/>bis dabunt notiones sex, ut sponte patet.
+          Deni<lb ed="#G" n="3" break="no"/>que si dicent se solas positivas notiones numerare,
+          <lb ed="#G" n="4"/>duas in Patre, generationem activam, &amp; activam
+          <lb ed="#G" n="5"/>spirationem: duas item in Filio, passivam
+          genera<lb ed="#G" n="6" break="no"/>tionem &amp; spirationem activam, unam vero in
+          Spi<lb ed="#G" n="7" break="no"/>ritu sancto, nimirum passivam spirationem. Sed
+          <lb ed="#G" n="8"/>contra est: nam illi ipsi pro notione Patris ponunt
+          <lb ed="#G" n="9"/>esse ingenitum: nec facile est tot codices, quos
+          <lb ed="#G" n="10"/>evulgarunt, emendare. Quocunque igitur se
+          ver<lb ed="#G" n="11" break="no"/>tant, in alium, non in quinarium numerum
+          inci<lb ed="#G" n="12" break="no"/>dent; ut mirum sit, non illos erubescere de
+          tan<lb ed="#G" n="13" break="no"/>ta sua hallucinatione, quin imo tumere admodum,
+          <lb ed="#G" n="14"/>quasi de quodam oraculo, &amp; recondita sapientia.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e542">
+          <lb ed="#G" n="15"/>§. 326.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e547">
+          <lb ed="#G" n="16"/>Quid vero a nobis dicendum sit? Duo:  Si
+          <lb ed="#G" n="17"/>velis loqui in abstracto, tot recensebis notiones,
+          <lb ed="#G" n="18"/>quot suggeret hypothesis una ex tribus hic
+          expo<lb ed="#G" n="19" break="no"/>sitis, de qua loqueris. 2) Quod si malis loqui in
+          <lb ed="#G" n="20"/>concreto, vel perfectum eliges concretum, vel
+          <lb ed="#G" n="21"/>imperfectum, si imperfectum, cujus hic tres item
+          hy<lb ed="#G" n="22" break="no"/>potheses exposuimus, iterum hypothesis numerum
+          <lb ed="#G" n="23"/>notionum dabit: at si loqui placebit in concreto
+          per<lb ed="#G" n="24" break="no"/>fecto, ita ut nomine sub uno comprehendantur
+          <lb ed="#G" n="25"/>omnia tam negativa, quam positiva personae
+          praedi<lb ed="#G" n="26" break="no"/>cata, in unamque notionem conflentur, erunt utique
+          <lb ed="#G" n="27"/>tres omnino notiones: prima comprehendens
+          prae<lb ed="#G" n="28" break="no"/>dicata omnia paternae hypostaseos, secunda
+          compre<pb ed="#G" n="454"/><lb ed="#G" n="1" break="no"/>hendens praedicata hypostaseos Filii, &amp; tertia
+          com<lb ed="#G" n="2" break="no"/>prehendens praedicata Spiritus sancti. Item cum
+          <lb ed="#G" n="3"/>proferetur nomen ingeniti, intelligam totam
+          hy<lb ed="#G" n="4" break="no"/>postasin Paternam, hoc est, quae generat, &amp; spirat,
+          <lb ed="#G" n="5"/>ipsa vero improducta est. Et sic de aliis. Dico
+          <lb ed="#G" n="6"/>autem hic concedendo pro arbitratu unius
+          cujus<lb ed="#G" n="7" break="no"/>que, modo recta sit loquutio, loquendi
+          faculta<lb ed="#G" n="8" break="no"/>tem. Non enim reprehendimus loquutiones, in
+          <lb ed="#G" n="9"/>quacunque ex his hypothesibus formari possint,
+          <lb ed="#G" n="10"/>quia recte possunt; sed oraculum Scholasticorum
+          <lb ed="#G" n="11"/>rejicimus, quia in nulla hypothesi stare possunt:
+          <lb ed="#G" n="12"/>quod si quis aliam ab his hypothesin formarit,
+          ra<lb ed="#G" n="13" break="no"/>tionem reddere debebit, eam esse legitimam. v.
+          <lb ed="#G" n="14"/>g. si quis dicat, notiones Filii &amp; Spiritus sancti
+          <lb ed="#G" n="15"/>omnes sumendas esse in concreto, adeoque duae
+          <lb ed="#G" n="16"/>jam erunt: in Patre autem tres abstracte esse
+          con<lb ed="#G" n="17" break="no"/>siderandas, generare, spirare, &amp; esse ingenitum
+          <lb ed="#G" n="18"/>(sumendo ingenitum generatim, hoc est, non
+          pro<lb ed="#G" n="19" break="no"/>ductum ab alio) det, quaeso, rationem, cur
+          diver<lb ed="#G" n="20" break="no"/>so modo notiones primae, quam duarum
+          reliqua<lb ed="#G" n="21" break="no"/>rum personarum statuere velit? at in nostris
+          hy<lb ed="#G" n="22" break="no"/>pothesibus singulis ratio est, quia singulae eodem
+          <lb ed="#G" n="23"/>modo omnium trium personarum praedicata
+          acci<lb ed="#G" n="24" break="no"/>piunt. Sed tamen hoc moneo, longe optimam
+          <lb ed="#G" n="25"/>cx omnibus esse loquendi rationem, ad
+          statuen<lb ed="#G" n="26" break="no"/>das notiones sumere nomen aliquod in concreto
+          <lb ed="#G" n="27"/>perfecto unum pro omnibus praedicatis: nam
+          <lb ed="#G" n="28"/>&amp; ita veteres Theologi loquuntur passim, ut cum
+          <lb ed="#G" n="29"/>dicere astolent: ingenitum, genitum, &amp; procedens;
+          <lb ed="#G" n="30"/>aut: Filius omnia habet, quae &amp; Pater, sola
+          ex<pb ed="#G" n="455"/><lb ed="#G" n="1" break="no"/>cepta ratione ingeniti; &amp; alia id genus: nam in
+          <lb ed="#G" n="2"/>his dictis sub nomine ingeniti, intelligunt non
+          so<lb ed="#G" n="3" break="no"/>lum negativum praedicatum, quod non
+          genere<lb ed="#G" n="4" break="no"/>tur Pater; alioqui enim falsa sequerentur, scilicet,
+          <lb ed="#G" n="5"/>quod Filius etiam generet alium Filium: nam hoc
+          <lb ed="#G" n="6"/>illa exceptione non excluderetur: intelligunt
+          er<lb ed="#G" n="7" break="no"/>go omnia praedicata, ex quibus paterna
+          hyposta<lb ed="#G" n="8" break="no"/>sis constituitur; &amp; praeterea nostrum monitum ipsa
+          <lb ed="#G" n="9"/>res suadet, ipsa notionis definitio confirmat. Nam
+          <lb ed="#G" n="10"/>quum notio sit tale praedicatum, per quod ipsa
+          hypo<lb ed="#G" n="11" break="no"/>stasis noscitur, &amp; ab alia discernitur, utique in
+          perfe<lb ed="#G" n="12" break="no"/>cto concreto accipienda est: nam per hoc solum verbi gratia
+          <lb ed="#G" n="13"/>quod Pater non generetur, non discernitur
+          Pater<lb ed="#G" n="14" break="no"/>na hypostasis ab hypostasi Spiritus sancti, nam &amp;
+          <lb ed="#G" n="15"/>illa non generatur. Quaeri hic posset, quid sit
+          <lb ed="#G" n="16"/>sentiendum de operationibus illis, quae
+          peculiari<lb ed="#G" n="17" break="no"/>ter alicui personae tribuuntur, ut creatio Patri,
+          <lb ed="#G" n="18"/>redemptio Filio, dilectio Spiritui sancto? num &amp;
+          <lb ed="#G" n="19"/>illae notiones sint vocandae? respondeo, si
+          scire<lb ed="#G" n="20" break="no"/>mus esse in divinis personis internas &amp; naturales
+          <lb ed="#G" n="21"/>rationes, cur hae operationes huic, aliae alii
+          ea<lb ed="#G" n="22" break="no"/>rum peculiariter tribuantur, profecto essent
+          ha<lb ed="#G" n="23" break="no"/>bendae pro notionibus. At vero quia hoc
+          peni<lb ed="#G" n="24" break="no"/>tus ignoramus, non possumus eas vocare
+          notio<lb ed="#G" n="25" break="no"/>nes proprie dictas, possumus tamen dicere
+          Notio<lb ed="#G" n="26" break="no"/>nes usurpatas. Haec de notionibus.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e702">
+          <lb ed="#G" n="27"/>§. 327.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e707">
+          <lb ed="#G" n="28"/>III. PROCESSIO est unius personae ab altera
+          <lb ed="#G" n="29"/>productio. Duplex est, ut nemo nescit, Filii &amp;
+          <pb ed="#G" n="456"/><lb ed="#G" n="1"/>Spiritus sancti: Filii processio dicitur generatio, non
+          <lb ed="#G" n="2"/>quod eo modo, quo animal ab animali gignitur,
+          <lb ed="#G" n="3"/>generetur Filius a Patre: hoc enim &amp; cogitare
+          hor<lb ed="#G" n="4" break="no"/>rendum est; sed quia secundae personae
+          productio<lb ed="#G" n="5" break="no"/>nem generationis nomine scriptura ornet, &amp; ipsam
+          <lb ed="#G" n="6"/>personam secundam appellet Filium, ipsamque
+          <lb ed="#G" n="7"/>primam personam vocet Patrem. Dari talem
+          pro<lb ed="#G" n="8" break="no"/>cessionem constat ex dictis libro 2. ubi de Christi
+          <lb ed="#G" n="9"/>Deitate ex eo, quod sit Filius, asserta egimus, &amp;
+          <lb ed="#G" n="10"/>exceptiones Socinianorum excussimus. Et licet
+          <lb ed="#G" n="11"/>illic ista non per se, sed tanquam argumentum ad
+          <lb ed="#G" n="12"/>rem aliam probandam tractata fuere, hic tamen
+          <lb ed="#G" n="13"/>repeti non debent, ne cramben recoquendo
+          tera<lb ed="#G" n="14" break="no"/>mus tempus, verum pro repetitis habenda sunt.
+          <lb ed="#G" n="15"/>Tria autem adjuncta gencrationis divinae leviter,
+          <lb ed="#G" n="16"/>&amp; quantum licet, sobrie contemplanda veniunt:
+          <lb ed="#G" n="17"/>modus, aeternitas &amp; perpetuitas.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e752">
+          <lb ed="#G" n="18"/>§. 328.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e757">
+          <lb ed="#G" n="19"/>Modus duplex inquiri potest:  Negativus,
+          <lb ed="#G" n="20"/>hoc est, quod diximus, non ita gigni Dei Filium,
+          <lb ed="#G" n="21"/>ut gignuntur animalia: item quod gignatur a solo
+          <lb ed="#G" n="22"/>Patre, non ab ulla Matre, quod plane in natura
+          <lb ed="#G" n="23"/>creata est impossibile: ad hoc autem respexit
+          <lb ed="#G" n="24"/>Apostolus Heb. VII. 3. ubi Melchisedecum in hoc
+          <lb ed="#G" n="25"/>etiam facit typum Christi, quod sit sine Patre, &amp;
+          <lb ed="#G" n="26"/>sine matre. Hic ergo modus, vel potius negatio
+          <lb ed="#G" n="27"/>modorum nobis notorum patet nobis ex
+          scriptu<lb ed="#G" n="28" break="no"/>ra. 2) Alter vero modus positivus quaeritur, qua
+          <pb ed="#G" n="457"/><lb ed="#G" n="1"/>scilicet ratione Filius a Patre generatur?
+          Schola<lb ed="#G" n="2" break="no"/>stici solita audacia, hunc etiam penetrant,
+          dicunt<lb ed="#G" n="3" break="no"/>que, Filium a Patre gigni per actum intellectus,
+          quo<lb ed="#G" n="4" break="no"/>modo scilicet mens nostra format cogitationes, quac
+          <lb ed="#G" n="5"/>quia objectum suum, quasi quaedam imagines
+          re<lb ed="#G" n="6" break="no"/>praesentant: dum mens in se ipsam cognoscendam
+          <lb ed="#G" n="7"/>reflectitur, utique format imaginem suimet ipsius,
+          <lb ed="#G" n="8"/>id est, cognitionem sui; talis vero cognitio
+          gene<lb ed="#G" n="9" break="no"/>rationem imitari videtur, nam mentis faciem, a
+          <lb ed="#G" n="10"/>qua ipsa oritur, repraesentat, ut Filii referunt
+          spe<lb ed="#G" n="11" break="no"/>ciem parentum. Ita, inquunt, Deus Pater
+          cognos<lb ed="#G" n="12" break="no"/>cit se ipsum: quae cognitio est quasi imago ejus:
+          <lb ed="#G" n="13"/>cognoscendo ergo educit ex se λόγον illum
+          aeter<lb ed="#G" n="14" break="no"/>num, suimet ipsius representativum, atque ita ille
+          <lb ed="#G" n="15"/>generat, hic generatur. Huic imaginationi
+          fave<lb ed="#G" n="16" break="no"/>re videtur, quod Filius simpliciter dicatur Aογoς,
+          <lb ed="#G" n="17"/>Ioh. I. 1. &amp; item splendor gloriae &amp; character
+          Hy<lb ed="#G" n="18" break="no"/>postaseos ejus: Heb. I. 3. Quia tamen nusquam
+          <lb ed="#G" n="19"/>scriptura modum generationis istum clare, &amp;
+          ro<lb ed="#G" n="20" break="no"/>tundis verbis exponit, imo Esajas clamat:
+          Gene<lb ed="#G" n="21" break="no"/>rationem ejus quis enarrabit? cap. LIII. 8. tutius
+          <lb ed="#G" n="22"/>sapiemus hac in parte, si ignorationem nostram
+          ul<lb ed="#G" n="23" break="no"/>tro confiteamur. Hinc GREGORIVS
+          Naxianze<lb ed="#G" n="24" break="no"/>nus orat. XXIX. monet ita: audis generationem, ne
+          <lb ed="#G" n="25"/>modum curiosius scruteris. Et orat. XXXV.
+          gra<lb ed="#G" n="26" break="no"/>viter de eo disserit hoc modo: ne de generatione
+          <lb ed="#G" n="27"/>Dei disputes, nec enim illud tutum est. Si enim
+          tu<lb ed="#G" n="28" break="no"/>am cognoscis, non protinus sequitur Dei quoque
+          ge<lb ed="#G" n="29" break="no"/>nerationem tibi cognitam &amp; exploratam esse. Si
+          <lb ed="#G" n="30"/>autem tua tibi gnota est quo tondem modo Dei
+          ge<pb ed="#G" n="458"/><lb ed="#G" n="1" break="no"/>neratio tibi nota erit? &amp; paulo post ita pergit: Dei
+          <lb ed="#G" n="2"/>generatio silentio honoretur: abunde tibi magnum est
+          <lb ed="#G" n="3"/>scire eum genitum esse. Quo autem modo genitus sit,
+          <lb ed="#G" n="4"/>ne ipsis quidem angelis, nedum tibi intelligere
+          inte<lb ed="#G" n="5" break="no"/>grum est. Vis, declarem, quomodo? ut scit Pater,
+          <lb ed="#G" n="6"/>qui genuit, &amp; Filius, qui genitus est. Quod supra
+          <lb ed="#G" n="7"/>haec est, nube obtegitur, animique tui hebetudinem
+          <lb ed="#G" n="8"/>fugit. &amp;c. Ita &amp; alii Patres docent. Ergo pro
+          <lb ed="#G" n="9"/>adjuncto modi generationis divinae habeat sobria
+          <lb ed="#G" n="10"/>Theologia hoc ipsum, quod generationis illius
+          mo<lb ed="#G" n="11" break="no"/>dus nobis sit plane arcanus, absconditus, adeoque
+          <lb ed="#G" n="12"/>ineffabilis. Multo minus modum processionis
+          Spi<lb ed="#G" n="13" break="no"/>ritus sancti scire possumus: nam generationis
+          mo<lb ed="#G" n="14" break="no"/>dus tametsi non sit explicatus, certum tamen
+          no<lb ed="#G" n="15" break="no"/>men habet, nempe quod secunda persona oriatur
+          <lb ed="#G" n="16"/>a prima generationis modo; at processio Spiritus
+          <lb ed="#G" n="17"/>sancti nc nomen quidem speciale prodidit, sed
+          tan<lb ed="#G" n="18" break="no"/>tum dicitur processio, propter illud Chcisti dictum:
+          <lb ed="#G" n="19"/>qui a Patre procedit. Quid autem significet hoc
+          <lb ed="#G" n="20"/>loco procedere, de eo THEOPHYLACTIS
+          com<lb ed="#G" n="21" break="no"/>ment. in cap. 15. Iohan. ita dicit: quando audieris,
+          <lb ed="#G" n="22"/>quod procedat Spiritus, ne intelligas per processionem
+          <lb ed="#G" n="23"/>missionem, quali mittuntur Spiritus ministratorii,
+          <lb ed="#G" n="24"/>ἀλὰ φυσικν υπαρςις τοῦ πνεῦματος ἐστιν ῦ ἐκπορευσις,
+          <lb ed="#G" n="25"/>sed naturalis existentia Spiritus est processio. Quod
+          <lb ed="#G" n="26"/>vero Latini autument Spiritum sanctum
+          procede<lb ed="#G" n="27" break="no"/>re per modum voluntatis, ut amorem, in hoc
+          ma<lb ed="#G" n="28" break="no"/>gis audaccs sunt, cum ne quidem in speciem
+          quid<lb ed="#G" n="29" break="no"/>quam in scriptura reperiant pro sua ista
+          imaginatio<lb ed="#G" n="30" break="no"/>ne; sed de hoc jam supra egimus. cap. XVIII. n. II.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e914">
+          <pb ed="#G" n="459"/><lb ed="#G" n="1"/>§. 329.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e920">
+          <lb ed="#G" n="2"/>Alterum adjunctum tam generationis, quam
+          <lb ed="#G" n="3"/>processionis est aeternitas, scilicet sine principio,
+          <lb ed="#G" n="4"/>sed ab aeterno natus est a Patre Filius: Micheae v.
+          <lb ed="#G" n="5"/>2. egressiones ejus a principio, a diebus
+          aeternita<lb ed="#G" n="6" break="no"/>tis: &amp; quum ostendimus, Filium esse summum
+          <lb ed="#G" n="7"/>Deum, Patri cμοεσιον, hoc ipso ostendimus etiam
+          <lb ed="#G" n="8"/>ab aeterno illum esse genitum; alioqui enim vel
+          <lb ed="#G" n="9"/>aliquando non fuit, sed coepit demum esse, vel
+          an<lb ed="#G" n="10" break="no"/>te non genitus fuit, licet existebat, &amp; postea
+          coe<lb ed="#G" n="11" break="no"/>pit generari, quod utrumque Deo repugnat;
+          il<lb ed="#G" n="12" break="no"/>lud enim ejus actcrnitatem, hoc immutabilitatem
+          <lb ed="#G" n="13"/>tollit. Et eodem argumento evincitur
+          processio<lb ed="#G" n="14" break="no"/>nem Spiritus sancti acternam esse.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e952">
+          <lb ed="#G" n="15"/>§. 330.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e957">
+          <lb ed="#G" n="16"/>Tertium adjunctum est perpetuitas, hoc est, &amp;
+          <lb ed="#G" n="17"/>Filius gignitur, &amp; Spiritus sanctus procedit a
+          Pa<lb ed="#G" n="18" break="no"/>tre perpetuo, ita, ut ncc ille generari, nec iste
+          <lb ed="#G" n="19"/>procedere usquam desinat: patet hoc ex
+          immuta<lb ed="#G" n="20" break="no"/>bilitate Dei, quae postulat, ut in Deo quod est,
+          <lb ed="#G" n="21"/>nunquam esse desinat, nunquam aliter esse
+          inci<lb ed="#G" n="22" break="no"/>piat. Iam vero generatio &amp; processio esse
+          desine<lb ed="#G" n="23" break="no"/>ret, si non esset perpetua: Pater, Filius &amp; Spiritus
+          <lb ed="#G" n="24"/>sanctus aliquomodo aliter esse inciperent, si ille
+          <lb ed="#G" n="25"/>generare, Filius &amp; Spiritus sanctus ab ipso oriri
+          <lb ed="#G" n="26"/>desinerent. Et illud: ego hodie genui te. Psal. 117.
+          <lb ed="#G" n="27"/>Illud, inquam, Hodie, depingit aeternitatem
+          per<lb ed="#G" n="28" break="no"/>petuam, &amp; aetcrnam perpetuitatem. Nec est
+          ma<pb ed="#G" n="460"/><lb ed="#G" n="1" break="no"/>gni momenti, quod aliqui objiciunt, sequi ex hoc,
+          <lb ed="#G" n="2"/>quod nunquam sit genitus Filius, nunquam
+          pro<lb ed="#G" n="3" break="no"/>ductus Spiritus sanctus, cum omne, quod actu
+          ori<lb ed="#G" n="4" break="no"/>tur, non dum ortum dici mereatur. Malam hanc
+          <lb ed="#G" n="5"/>consequutionem esse evincunt multa etiam in
+          na<lb ed="#G" n="6" break="no"/>turis creatis exempla. Insigne unum esto: a
+          re<lb ed="#G" n="7" break="no"/>bus corporeis earum species perpetuo fluunt, &amp;
+          <lb ed="#G" n="8"/>tamen semper sunt perfectae, ut patet ex celebri
+          <lb ed="#G" n="9"/>experientia vitri concavi, foramini obscurae
+          aedi<lb ed="#G" n="10" break="no"/>culae inclusi, &amp; species rerum, quae foris sunt, in
+          <lb ed="#G" n="11"/>albam tabulam transmittentis. Si ergo hoc in
+          <lb ed="#G" n="12"/>creatis rebus reperimus miramurque, cur de
+          inef<lb ed="#G" n="13" break="no"/>fabili increata natura negare audebimus?
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e1017">
+          <lb ed="#G" n="14"/>§. 331.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e1022">
+          <lb ed="#G" n="15"/>Alia quoque adjuncta considerari possunt, ut
+          <lb ed="#G" n="16"/>quod productiones illae sint nec liberae, nec
+          <lb ed="#G" n="17"/>coactae, sed spontaneae, scilicet naturales. Cui
+          <lb ed="#G" n="18"/>observationi occasionem dederunt veteres Ariani,
+          <lb ed="#G" n="19"/>qui tale adversus mysterium Trinitatis formabant
+          <lb ed="#G" n="20"/>argumentum: Si Deus generat, vel generat
+          libe<lb ed="#G" n="21" break="no"/>re, vel vacte: si libere, potest ergo non gignere;
+          <lb ed="#G" n="22"/>adeoque Filius in numerum creaturarum rejicietur:
+          <lb ed="#G" n="23"/>quodsi coacte; a quo ergo fuit coactus Deus?
+          De<lb ed="#G" n="24" break="no"/>inde nolens seu invitus genuit, quod est absurdum.
+          <lb ed="#G" n="25"/>Optime respondebant Patres, syllogismum hunc
+          <lb ed="#G" n="26"/>laborare vitio imperfectae enumerationis; tertium
+          <lb ed="#G" n="27"/>enim hic omissum est, nimirum: sponte, seu
+          natu<lb ed="#G" n="28" break="no"/>ra, quam voluntas comitatur semper, non
+          ante<lb ed="#G" n="29" break="no"/>cedit. Et potest retorqueri talis syllogismus:
+          De<pb ed="#G" n="461"/><lb ed="#G" n="1" break="no"/>us velllibere est sapiens, est ubique, est bonus &amp;
+          <lb ed="#G" n="2"/>cetera, vel non libere? si libere; potest ergo non
+          <lb ed="#G" n="3"/>esse sapiens, non esse bonus, non esse ubique &amp;
+          <lb ed="#G" n="4"/>cetera: quod absurdum. Si vero non libere;
+          <lb ed="#G" n="5"/>ergo invitus &amp; nolens, &amp; a quopiam
+          coa<lb ed="#G" n="6" break="no"/>ctus; quod idem absurdum est. Quid
+          respon<lb ed="#G" n="7" break="no"/>derent ad hoc Ariani, hoc eis ad dictum
+          syllogis<lb ed="#G" n="8" break="no"/>mum nos regereremus. Denique utraque illa
+          ut<lb ed="#G" n="9" break="no"/>riusque personae processio non est extra Deum,
+          <lb ed="#G" n="10"/>sed intra, hoc est, nec producta persona extra
+          <lb ed="#G" n="11"/>naturam est divinam, nec ipsa productio. Nam
+          <lb ed="#G" n="12"/>ubi demonstravimus, Deum esse unicum, &amp; tamen
+          <lb ed="#G" n="13"/>tres personas esse Deum, ita, ut &amp; haec sit Deus
+          <lb ed="#G" n="14"/>summus, &amp; illa Deus summus, sponte hinc
+          pa<lb ed="#G" n="15" break="no"/>tuit, tres illas personas esse unum eundemque
+          De<lb ed="#G" n="16" break="no"/>um, unam eandemque naturam divinam: quare
+          <lb ed="#G" n="17"/>personae productae non sunt extra naturam
+          divi<lb ed="#G" n="18" break="no"/>nam, non sunt autem extra etiam ipsae
+          productio<lb ed="#G" n="19" break="no"/>nes, seu active, seu passive sumantur: nam activa
+          <lb ed="#G" n="20"/>Filii &amp; Spiritus sancti productio, est ipsa Patris
+          hy<lb ed="#G" n="21" break="no"/>postasis; passiva generatio, est ipsa hypostasis Filii;
+          <lb ed="#G" n="22"/>passiva denique spiratio, est ipsa hypostasis
+          Spiri<lb ed="#G" n="23" break="no"/>tus sancti: si quidem enim Deus est Spiritus,
+          adeo<lb ed="#G" n="24" break="no"/>que summe simplex, non possumus in illo
+          distin<lb ed="#G" n="25" break="no"/>cta quaedam imaginari, nisi clarissime de iis
+          Scri<lb ed="#G" n="26" break="no"/>ptura nos doceat: docet de distinctione
+          persona<lb ed="#G" n="27" break="no"/>rum, ut libro 2. vidimus supra; hanc ergo
+          ad<lb ed="#G" n="28" break="no"/>mittimus: alias distinctiones Scriptura tacet, eas
+          <lb ed="#G" n="29"/>ergo admittere non debemus. Neque enim aliud
+          <lb ed="#G" n="30"/>nos ad eas admittendas permovisset, nisi ut
+          indul<pb ed="#G" n="462"/><lb ed="#G" n="1" break="no"/>geremus imbecillitati mentis nostrae, quae
+          sim<lb ed="#G" n="2" break="no"/>plicitatem Spiritus non potest percipere; nec
+          in<lb ed="#G" n="3" break="no"/>telligere, quomodo persona per se ipsam
+          produ<lb ed="#G" n="4" break="no"/>cit, non per diversam actionem. Vide etiam lib.
+          <lb ed="#G" n="5"/>1. ubi de simplicitate Dei disputavimus.
+        </p>
+        <p xml:id="cax7ya-d1e442-d1e1135">
+          <lb ed="#G" n="6"/>Atque ita jam celebrem de processione
+          Spi<lb ed="#G" n="7" break="no"/>ritus sancti controversiam absolvisse videmur, ope
+          <lb ed="#G" n="8"/>ipsius Spiritus sancti, cui soli honor &amp; gloria, una
+          <lb ed="#G" n="9"/>cum Patre &amp; Filio in Saecula Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

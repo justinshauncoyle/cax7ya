@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 13</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 13</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="217"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e308">
+        <head xml:id="cax7ya-d1e308-Hd1e108">Caput 13</head>
+        <head xml:id="cax7ya-d1e308-Hd1e110" type="question-title">Praemittitur generalis consideratio ad Patrum praesertim occidentalium dicta, quae Latini pro suo dogmate citant</head>
+        <p xml:id="cax7ya-d1e308-d1e113">
+          <pb ed="#G" n="217"/><lb ed="#G" n="1"/>CAPVT. XIII.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e119">
+          <lb ed="#G" n="2"/>Praemittitur generalis consideratio ad
+          Pa<lb ed="#G" n="3" break="no"/>trum, praesertim occidentalium dicta,
+          <lb ed="#G" n="4"/>quae Latini pro suo dogmate citant.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e128">
+          <lb ed="#G" n="5"/>§. 190.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e134">
+          <lb ed="#G" n="6"/>Sed forte Latini humana auctoritate caussam
+          su<lb ed="#G" n="7" break="no"/>am fulciunt, &amp; Patrum antiquorum consensum
+          <lb ed="#G" n="8"/>adducunt pro dogmate. Hoc si vere praestare
+          <lb ed="#G" n="9"/>potuissent, tamen parum profecissent. Nam
+          po<lb ed="#G" n="10" break="no"/>tius dicta Patrum vel examinare, vel commode
+          <lb ed="#G" n="11"/>explicare ex scriptura deberemus, quam statim eis
+          <lb ed="#G" n="12"/>aures praebere, ubi nihil certi habemus ex
+          scrip<lb ed="#G" n="13" break="no"/>tura. Pernegamus tamen, Patres pro ipsis stare,
+          <lb ed="#G" n="14"/>quum alii, quos ipsi citant, corrupti, alii non
+          in<lb ed="#G" n="15" break="no"/>tellecti in testimonium protrahuntur. De
+          utris<lb ed="#G" n="16" break="no"/>que agemus per tria sequentia capita: hic vero
+          <lb ed="#G" n="17"/>generalem de iis considerationem instituimus, quae
+          <lb ed="#G" n="18"/>per modum generalis responsi haberi poterit.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e165">
+          <lb ed="#G" n="19"/>§. 191.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e170">
+          <lb ed="#G" n="20"/>I. Primum omnium observandum est, quae
+          <lb ed="#G" n="21"/>sit legitima disputandi ratio, ex testimoniis
+          Pa<pb ed="#G" n="218"/><lb ed="#G" n="1" break="no"/>trum in Theologia? (concedendo interim
+          sim<lb ed="#G" n="2" break="no"/>plicitati, vel pertinaciae, quod aliquid
+          Theologi<lb ed="#G" n="3" break="no"/>cum per sola humana testimonia probari possit,
+          <lb ed="#G" n="4"/>non recurrendo ad scripturam) Ergo hacc non
+          ni<lb ed="#G" n="5" break="no"/>si erit, si non unum aut duos Patres, sed omnes,
+          <lb ed="#G" n="6"/>aut saltem bene multos adducimus, tot scilicet,
+          <lb ed="#G" n="7"/>quot sufficiunt ad ostendendum, quae mens fuerit
+          <lb ed="#G" n="8"/>veteris Ecclesiae per longum tempus? Deinde ut
+          <lb ed="#G" n="9"/>pluribus illis Patribus non sint alii bene multi
+          con<lb ed="#G" n="10" break="no"/>trarii: tum videndum, quo pacto assertionem suam,
+          <pb ed="#G" n="219"/><lb ed="#G" n="1"/>quam pro testimonio citarc volumus, probant?
+          <lb ed="#G" n="2"/>Denique diligenter considerandum, nonne textus
+          <lb ed="#G" n="3"/>Patrum corrupti sint, nonne scriptum
+          supposititi<lb ed="#G" n="4" break="no"/>um, &amp; nomine tantum magni auctoris ornatum sit.
+          <lb ed="#G" n="5"/>Haec ergo quinque prae oculis semper habenda.
+          <lb ed="#G" n="6"/>1. Sit Patrum numerus sufficiens. 2.) Non sint
+          <lb ed="#G" n="7"/>Patres sibi contrarii. 3.) Qua ratione
+          assertio<lb ed="#G" n="8" break="no"/>nem suam probent. 4.) Sint integra, non corrupta
+          <lb ed="#G" n="9"/>verba. 5.) Sint terta, non adulterina scripta.
+          <lb ed="#G" n="10"/>Haec singula excutienda sunt nobis: quia
+          adver<lb ed="#G" n="11" break="no"/>sarii nihil horum considerantes, uno unius Patris
+          <lb ed="#G" n="12"/>arrepto dicto, &amp; eo plerumque non intellecto, aut
+          <lb ed="#G" n="13"/>corrupto, in longum tricas protrahunt, &amp; spumas
+          <lb ed="#G" n="14"/>jaculantur; cujus rei exempla fere tot sunt, quot
+          <lb ed="#G" n="15"/>seu publica, seu privata corum sunt colloquia, &amp;
+          <lb ed="#G" n="16"/>unum instar omnium suggerit nobis illa synodus
+          <lb ed="#G" n="17"/>asinorum Florentiae coacta: ubi de uno Basilii
+          di<lb ed="#G" n="18" break="no"/>cto integrum fere annum litigatum est.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e240">
+          <lb ed="#G" n="19"/>§. 192.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e245">
+          <lb ed="#G" n="20"/>II. Cur autem &amp; nostra, quam quinque
+          regu<lb ed="#G" n="21" break="no"/>lis conclusimus, disputandi ratio sit legitima, &amp;
+          fu<lb ed="#G" n="22" break="no"/>riosa ista adversariorum sit iniquissima, mox
+          singu<lb ed="#G" n="23" break="no"/>la illa quinque considerando, videbimus;
+          genera<lb ed="#G" n="24" break="no"/>lis tamen caussa hacc est: quia cum disputamus,
+          <lb ed="#G" n="25"/>quaerimus veritatem, &amp; nihil aliud: non specimen
+          <lb ed="#G" n="26"/>ostendere nostrae eruditionis, non sectae nostrae
+          <lb ed="#G" n="27"/>vel nationis aut gloriam conservare, aut avertere
+          <lb ed="#G" n="28"/>ignominiam, non privati nominis existimationem
+          <lb ed="#G" n="29"/>conciliare studemus, non ut triumphemus, si
+          vice<lb ed="#G" n="30" break="no"/>rimus, non ut erubescamus, si fuerimus victi.
+          Ve<pb ed="#G" n="220"/><lb ed="#G" n="1" break="no"/>ritatem, inquam, &amp; nihil praeterea, utraque pars
+          <lb ed="#G" n="2"/>litigantium, quaerimus: ubi si inique vincam,
+          mi<lb ed="#G" n="3" break="no"/>hi nocebit, si aeque victum me fatear, mihi
+          pro<lb ed="#G" n="4" break="no"/>derit. Ad quod, quis non videt, quinque ista in
+          <lb ed="#G" n="5"/>testimoniis humanis observanda esse? Nam vel
+          <lb ed="#G" n="6"/>unico desiderato, vcritas non apparebit, ut jam mox
+          <lb ed="#G" n="7"/>ostendemus. Adversarii autem, quia in papam
+          <lb ed="#G" n="8"/>credunt, ac propterea dicta ejus pro divinis
+          oracu<lb ed="#G" n="9" break="no"/>lis exosculantur &amp; adorant, solliciti tantum sunt,
+          <lb ed="#G" n="10"/>ne disputando vincantur, quia de quo disputant,
+          <lb ed="#G" n="11"/>id verissimum esse, utpote ab infallibili Papa
+          defi<lb ed="#G" n="12" break="no"/>nitum, non dubitant.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e299">
+          <lb ed="#G" n="13"/>§. 193.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e305">
+          <lb ed="#G" n="14"/>III. Iam sigillatim dicamus de datis regulis.
+          <lb ed="#G" n="15"/>Ergo prima per se videtur esse certa, nec indigere
+          <lb ed="#G" n="16"/>probatione. Quid enim est unus Pater, nisi unus
+          <lb ed="#G" n="17"/>homo? Sanctus ille sit, &amp; doctus, attamen homo;
+          <lb ed="#G" n="18"/>qui fallere quidem non vult, qua Sanctus, nec
+          <lb ed="#G" n="19"/>forte fallitur, qua doctus, falli tamen potest, qua
+          <lb ed="#G" n="20"/>homo est. Et in tantum Patrum auctoritas valet,
+          <lb ed="#G" n="21"/>in quantum veteris Ecclesiae mentem nobis aperit,
+          <lb ed="#G" n="22"/>unde liceret colligere doctrinam esse perpetuam,
+          <lb ed="#G" n="23"/>&amp; ab ipsis Apostolis emanasse, tametsi hodie fere
+          <lb ed="#G" n="24"/>nulla ejusmodi traditio ostendi queat: unus vero
+          <lb ed="#G" n="25"/>vel duo, aut tres doctores universac veteris
+          Eccle<lb ed="#G" n="26" break="no"/>siae mentem exhibere nobis non possunt. Adde,
+          <lb ed="#G" n="27"/>quod plerique ex vetustioribus uni fere antiquiori
+          <lb ed="#G" n="28"/>doctori inhaerere soliti essent, vel amore ejus
+          rap<lb ed="#G" n="29" break="no"/>ti, vel ob librorum penuriam, cum nondum illud
+          <lb ed="#G" n="30"/>exstaret nobilissimum rei litterariae instrumentum
+          <pb ed="#G" n="221"/><lb ed="#G" n="1"/>Typographia, quae nunc &amp; pauperes ditat: ita
+          <lb ed="#G" n="2"/>THEOPHYLACTVS Chrysostomo, BEDA
+          Augu<lb ed="#G" n="3" break="no"/>stino, DAMASCENVS Auctori de Trinitate
+          no<lb ed="#G" n="4" break="no"/>mine CYRILLI Alexandrini ornato, alii aliis
+          pe<lb ed="#G" n="5" break="no"/>ne immortui sunt: unde etiam illorum non
+          par<lb ed="#G" n="6" break="no"/>vas enuntiationes, sed longas dissertationes quasi
+          <lb ed="#G" n="7"/>propria dicta scriptis suis inscruerunt integras,
+          vo<lb ed="#G" n="8" break="no"/>cibus &amp; syllabis retentis. Hoc vero ubi
+          depre<lb ed="#G" n="9" break="no"/>hendemus, profecto plures etiam auctores pro
+          <lb ed="#G" n="10"/>unico habebimus. Quia, quod dicunt, ab uno sunt
+          <lb ed="#G" n="11"/>mutuati.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e369">
+          <lb ed="#G" n="12"/>§. 194.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e374">
+          <lb ed="#G" n="13"/>IV. Regula altera etiam in dubium vocari
+          ne<lb ed="#G" n="14" break="no"/>lit: nam si tu Patres pro te adduxeris, &amp; ego
+          ali<lb ed="#G" n="15" break="no"/>os lis contrarios citabo, quaeso, cui credemus?
+          <lb ed="#G" n="16"/>Cur isti prae illis, vel prae istis illi habendi erunt ?
+          <lb ed="#G" n="17"/>Si, quod alii melius dictum suum probent?
+          Ar<lb ed="#G" n="18" break="no"/>imenti ergo vis, non eorum auctoritas valebit.
+          <lb ed="#G" n="19"/>vero, quod alii aliis doctiores appareant? At
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e392">
+          <lb ed="#G" n="20"/>o hic dico de paribus, vel certe non multum
+          <lb ed="#G" n="21"/>paribus. Atbanasium, Naxiancenum, Nyssenum,
+          <lb ed="#G" n="22"/>rysostomum confert cum Basilio, &amp; egregie de
+          <lb ed="#G" n="23"/>orum comparatione disputat ERASMVS
+          Rotero<lb ed="#G" n="24" break="no"/>nus in encomio Basilii, quod Basilii operibus
+          <lb ed="#G" n="25"/>efixum est a Cornario Medico: sed disputat de
+          <lb ed="#G" n="26"/>orum eloquentia, at de eruditione &amp; doctrina
+          <lb ed="#G" n="27"/>fficile esset judicium. Fuerint inaequales, sed
+          <lb ed="#G" n="28"/>on insigne discrimen. Horum, &amp; talium, si quod
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e414">
+          <lb ed="#G" n="29"/>is asseruit, alter neget, quem sequemur? Si
+          se<pb ed="#G" n="222"/><lb ed="#G" n="1" break="no"/>quemur alterutrum, libidini nostrae, non
+          auctori<lb ed="#G" n="2" break="no"/>tati illius obsequemur.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e424">
+          <lb ed="#G" n="3"/>§. 195.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e430">
+          <lb ed="#G" n="4"/>V. Tertia regula perpetuo servanda est. Vel
+          <lb ed="#G" n="5"/>enim simpliciter, absque probatione pronunciat
+          ali<lb ed="#G" n="6" break="no"/>quis auctor, vel suum pronunciatum probat? Si
+          <lb ed="#G" n="7"/>simpliciter, cogitabimus ergo, undenam ipse hoc
+          <lb ed="#G" n="8"/>habeat? Si quidem res sit humanae rationi non
+          <lb ed="#G" n="9"/>subjecta, ut quidem res sunt theologicac. Quod
+          <lb ed="#G" n="10"/>si fontem dicti ejus non reperiemus, quid nos
+          co<lb ed="#G" n="11" break="no"/>get, ut credamus? Nisi velimus nobis statuere tot
+          <lb ed="#G" n="12"/>infallibiles Papas, quot sunt libri Patrum. Quod
+          <lb ed="#G" n="13"/>quidem pontificii non concedent, timidi vero
+          idio<lb ed="#G" n="14" break="no"/>tae, velint licet, ferre tamen non poterunt. Iam
+          <lb ed="#G" n="15"/>si auctor probat suum dictum, cxaminanda est ratio,
+          <lb ed="#G" n="16"/>qua probat. Qui millenariam in terris vitam, post
+          <lb ed="#G" n="17"/>judicium Christi, crediderunt, etiam boni viri,
+          do<lb ed="#G" n="18" break="no"/>cti ac sancti, ut sunt Iustinus, &amp; Irenaeus,
+          proba<lb ed="#G" n="19" break="no"/>runt hoc ex Apocalypseos capite X. v. 6. &amp; ex
+          <lb ed="#G" n="20"/>aliis scripturae locis. Cur iis ab aliis non est
+          fi<lb ed="#G" n="21" break="no"/>des habita? Quia non putarunt loca illa scripturae
+          <lb ed="#G" n="22"/>simpliciter accipienda esse, adeoque rationem
+          eo<lb ed="#G" n="23" break="no"/>rum levem esse judicarunt. Nam expensa ratio
+          <lb ed="#G" n="24"/>ostendit, in quid impegerunt Doctores, &amp; nos ab
+          <lb ed="#G" n="25"/>eorum auctoritate vindicat; cum &amp; illi ipsi
+          opinio<lb ed="#G" n="26" break="no"/>nem suam exuissent, si argumenti sui fallaciam
+          per<lb ed="#G" n="27" break="no"/>spexissent. Denique expensa ratio ostendit
+          men<lb ed="#G" n="28" break="no"/>tem auctorum, quid senserint? de quo infra.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e487">
+          <pb ed="#G" n="223"/><lb ed="#G" n="1"/>§. 196.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e493">
+          <lb ed="#G" n="2"/>VI. Regulam quartam probare, nisi plane
+          ve<lb ed="#G" n="3" break="no"/>cors &amp; stupidus postulabit. Tantum quaedam
+          <lb ed="#G" n="4"/>hic signa notanda sunt, ex quibus possimus
+          cor<lb ed="#G" n="5" break="no"/>ruptelas in Patrum scriptis perpetratas subolfacere.
+          <lb ed="#G" n="6"/>Corrupte larum autem exempla plurima dabunt
+          <lb ed="#G" n="7"/>duo sequentia capita. Ergo habenda est ratio
+          <lb ed="#G" n="8"/>styli. Si quid enim in medio scripti reperietur,
+          <lb ed="#G" n="9"/>quod a reliqui contextus stylo abhorret, procul
+          du<lb ed="#G" n="10" break="no"/>bio aliunde irrepsit. Styli autem diversitatem is
+          <lb ed="#G" n="11"/>demum deprehendere poterit, qui non
+          perfuncto<lb ed="#G" n="12" break="no"/>rie in lectione auctoris versatus fuerit. 2
+          De<lb ed="#G" n="13" break="no"/>inde novae voces, quales auctoris tempore
+          non<lb ed="#G" n="14" break="no"/>dum fuerant, produnt corruptelam. Partim enim
+          <lb ed="#G" n="15"/>ex subortis controversiis vocabula quaedam
+          enas<lb ed="#G" n="16" break="no"/>cuntur; ut sunt termini distinctivi &amp; alii, quae ad
+          <lb ed="#G" n="17"/>explicandum dogma, &amp; ad facilius disputandum
+          <lb ed="#G" n="18"/>inveniuntur: partim vero degeneratio linguae in
+          <lb ed="#G" n="19"/>barbariem, id ipsum facit; quia frequenter
+          huma<lb ed="#G" n="20" break="no"/>na levitas, aut etiam necessitas, peregrina verba
+          af<lb ed="#G" n="21" break="no"/>fectat. 3) Videndum etiam, utrum res, quae in
+          <lb ed="#G" n="22"/>scripto referuntur, fucrint tempore auctoris
+          illi<lb ed="#G" n="23" break="no"/>us; ita ridiculi nebulonis, qui sub nomine
+          Cyril<lb ed="#G" n="24" break="no"/>li, de vita &amp; miraculis Hieronymi scripsit,
+          prae<lb ed="#G" n="25" break="no"/>ter alia, etiam ex hoc mendacium deprehenditur,
+          <lb ed="#G" n="26"/>quod dicat, post obitum Hieronymi
+          univer<lb ed="#G" n="27" break="no"/>sum per orbem campanas sponte sonuissc; cum
+          <lb ed="#G" n="28"/>nondum campanarum usus repertus esset. Et vix
+          <lb ed="#G" n="29"/>aliqua rabularum commenta vel hoc unicum telum
+          <lb ed="#G" n="30"/>leclinare possunt. 4) Huc vel maxime refert,
+          <lb ed="#G" n="31"/>varios codices inspicere &amp; videre, nonne
+          diver<pb ed="#G" n="224"/><lb ed="#G" n="1" break="no"/>sae sint eorundem verborum lectiones?
+          Quomo<lb ed="#G" n="2" break="no"/>do item eadem auctoris verba ab auctoribus aliis
+          <lb ed="#G" n="3"/>citantur?5) Annon dictum auctoris pugnet
+          ma<lb ed="#G" n="4" break="no"/>nifeste cum nota ejusdem doctrina? Nam si hoc
+          <lb ed="#G" n="5"/>est, erit plane locus corruptus: nisi forte auctor
+          <lb ed="#G" n="6"/>sit stolidus, qualium auctoritas nulla penitus
+          <lb ed="#G" n="7"/>est.  Denique non raro se prodit
+          ma<lb ed="#G" n="8" break="no"/>nus fallaria, ex male cohacrente contextu:
+          <lb ed="#G" n="9"/>apparet enim id, quod non cohaeret, esse
+          inser<lb ed="#G" n="10" break="no"/>tum. Nam plerique falsatores sunt homunculi
+          <lb ed="#G" n="11"/>stupidi, ita, ut non videant, quid, &amp; quam male
+          <lb ed="#G" n="12"/>glutinent. Haec &amp; si quae alia signa
+          corruptele<lb ed="#G" n="13" break="no"/>larum esse possunt, non pro hac tantum
+          mate<lb ed="#G" n="14" break="no"/>ria, sed &amp; pro omnibus aliis apprime notanda
+          <lb ed="#G" n="15"/>sunt.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e594">
+          <pb ed="#G" n="225"/><lb ed="#G" n="1"/>§. 197.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e600">
+          <lb ed="#G" n="2"/>VII. Quinta similiter regula minime indiget
+          <lb ed="#G" n="3"/>probatione. Eadem autem signa, quibus corrupti
+          <lb ed="#G" n="4"/>textus deprehenduntur, valent, &amp; quidem adhuc
+          <lb ed="#G" n="5"/>melius, ad spuria scripta deprehendenda,
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e611">
+          <lb ed="#G" n="6"/>§. 198.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e617">
+          <lb ed="#G" n="7"/>VIII. Hactenus vero dicta tenent se ex parte
+          <lb ed="#G" n="8"/>ipsorum Auctorum: at sunt etiam ex parte nostra,
+          <lb ed="#G" n="9"/>quae in citandis Patribus requiruntur; ac maxime,
+          <lb ed="#G" n="10"/>ut examinemus, benene intellexerimus dictum
+          <lb ed="#G" n="11"/>Auctoris. Id fiet, si ipsius scopum, si orationis
+          <lb ed="#G" n="12"/>contextum observemus, &amp; alias bonae
+          interpreta<lb ed="#G" n="13" break="no"/>tionis teneamus regulas.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e635">
+          <lb ed="#G" n="14"/>§. 199.
+        </p>
+        <p xml:id="cax7ya-d1e308-d1e640">
+          <lb ed="#G" n="15"/>IX. Ad extremum, &amp; initio, &amp; in medio, &amp;
+          <lb ed="#G" n="16"/>in tota disputatione, sedere debet judex
+          conscien<lb ed="#G" n="17" break="no"/>tia, &amp; ad eam identidem provocari potest. Nam
+          <lb ed="#G" n="18"/>multi disputando, ubi jam vident vel sua vana esse,
+          <lb ed="#G" n="19"/>vel aliena valida argumenta, fateri tamen &amp;
+          cede<lb ed="#G" n="20" break="no"/>re nolunt. Neque statim certe cedendum est, sed
+          <lb ed="#G" n="21"/>non nisi ideo non statim cedet vir ingenuus, ut
+          si<lb ed="#G" n="22" break="no"/>bi relinquat spatium adhuc diutius cogitandi,
+          sua<lb ed="#G" n="23" break="no"/>que &amp; adversariorum documenta expendendi. At
+          <lb ed="#G" n="24"/>rabulae &amp; scioli vanissimi longe alio ingenio sunt:
+          <lb ed="#G" n="25"/>illorum unicus scopus est, ne priores loqui
+          desi<lb ed="#G" n="26" break="no"/>nant. Et putant omnes eos, qui disputationi
+          in<lb ed="#G" n="27" break="no"/>tersunt, ita esse stupidos, ut nihil attendant ad
+          di<lb ed="#G" n="28" break="no"/>ctorum sententias, sed penes illum collocent
+          vi<lb ed="#G" n="29" break="no"/>ctoriam, qui magis strepit; quod quidem apud
+          ru<pb ed="#G" n="226"/><lb ed="#G" n="1" break="no"/>dem plebem saepe feliciter obtinent. Talem
+          <lb ed="#G" n="2"/>vero hominum conscicntiam, ubi satis certis notis
+          <lb ed="#G" n="3"/>habere exploratam licuerit, consultius erit
+          conti<lb ed="#G" n="4" break="no"/>cescere &amp; sinere illos sua prurire scabie, quam
+          si<lb ed="#G" n="5" break="no"/>ne spe mederi velle. Hoc vero monitum licet sit
+          <lb ed="#G" n="6"/>generalissimum, &amp; ubique observandum, hic
+          ta<lb ed="#G" n="7" break="no"/>men praecipue locum habet; cum plerique
+          pon<lb ed="#G" n="8" break="no"/>tificii vel unico alicujus Patris prolato dicto,
+          nun<lb ed="#G" n="9" break="no"/>quam sibi responderi posse putant, tametsi optime
+          <lb ed="#G" n="10"/>responsum sit, &amp; ita tricarum nec finem nec
+          mo<lb ed="#G" n="11" break="no"/>dum inveniunt. His ita monitis instructi jam ad
+          <lb ed="#G" n="12"/>Patrum, quae nobis objiciuntur, dicta
+          examinan<lb ed="#G" n="13" break="no"/>da
+          accedemus
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

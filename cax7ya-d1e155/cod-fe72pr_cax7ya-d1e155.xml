@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 5</title>
+        <author ref="#per-fpk8py">Feofan Prokopovych</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 5</title>
+          <date when="2026-10-21">Oct 21, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="G" n="cod-fe72pr">Gothae 1772</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="152"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cax7ya-d1e155">
+        <head xml:id="cax7ya-d1e155-Hd1e108">Caput 5</head>
+        <head xml:id="cax7ya-d1e155-Hd1e110" type="question-title">Ex principiis theologicis dogma nostrum confirmatur</head>
+        <p xml:id="cax7ya-d1e155-d1e113">
+          <pb ed="#G" n="152"/><lb ed="#G" n="1"/>CAPVT.I
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e119">
+          <lb ed="#G" n="2"/>Ex principus Theologicis dogma nostrum
+          con<lb ed="#G" n="3" break="no"/>firmatur.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e126">
+          <lb ed="#G" n="4"/>§. 116.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e132">
+          <lb ed="#G" n="5"/>rincipia theologica, non ita, neque eo sensu
+          <lb ed="#G" n="6"/>I hic accipimus, quomodo in Theologiae
+          pro<lb ed="#G" n="7" break="no"/>legomenis docuimus, sacram scripturam esse solum
+          <lb ed="#G" n="8"/>&amp; unicum Theologiae principium: sed certa, &amp;
+          <lb ed="#G" n="9"/>ab omnibus recepta axiomata ita hic vocamus;
+          <lb ed="#G" n="10"/>quae quidem axiomata ex sacris litteris
+          deducun<lb ed="#G" n="11" break="no"/>tur, sed per consequentiam negativam, hoc est,
+          <lb ed="#G" n="12"/>non ex eo, quod scriptum est, sed quod non est
+          <lb ed="#G" n="13"/>scriptum. Ut v. c. hoc dictum, mundus unicus
+          <lb ed="#G" n="14"/>est, ex scriptura deducitur, non per positivam
+          con<lb ed="#G" n="15" break="no"/>sequentiam, cum non reperiatur in scriptura
+          ex<lb ed="#G" n="16" break="no"/>presse, unicum esse mundum, sed per negativam,
+          <lb ed="#G" n="17"/>quia scriptura unius hujus mundi fabricam
+          descri<lb ed="#G" n="18" break="no"/>bit, &amp; nullius alterius meminit. Talia ergo
+          quae<lb ed="#G" n="19" break="no"/>dam Theologi &amp; de mysterio Trinitatis
+          constitue<lb ed="#G" n="20" break="no"/>re: ut, quod in Trinitate dualitas ratione eadem,
+          <lb ed="#G" n="21"/>qua est Trinitas, non reperitur, &amp; alia quaedam,
+          <lb ed="#G" n="22"/>quae mox subjiciemus. Talia ergo principia seu
+          <lb ed="#G" n="23"/>axiomata licet non habent vim scripturae, magnam
+          <lb ed="#G" n="24"/>tamen habent, &amp; fundantur in eo, quod sola sacra
+          <lb ed="#G" n="25"/>scriptura sit Theologiae principium, quod praeter
+          <lb ed="#G" n="26"/>ea, quae scripta sunt, non liceat sapere, nisi Latini
+          <lb ed="#G" n="27"/>recurrant ad sua ex scripturis deducta argumenta.
+          <lb ed="#G" n="28"/>Haec autem axiomata non tam nostram affirmant,
+          <pb ed="#G" n="153"/><lb ed="#G" n="1"/>quam Latinorum evertunt sententiam, &amp; illam
+          <lb ed="#G" n="2"/>evertendo confirmant nostram.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e192">
+          <lb ed="#G" n="3"/>§. 117.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e197">
+          <lb ed="#G" n="4"/>I. Primum igitur &amp; communissimum axioma
+          <lb ed="#G" n="5"/>est apud Doctores Ecclesiae: In sancta Trinitate
+          <lb ed="#G" n="6"/>duplicia esse praedicata iantum, substantialia &amp;
+          <lb ed="#G" n="7"/>personalia. Illa sunt omnibus tribus Personis
+          com<lb ed="#G" n="8" break="no"/>munia, haec singulis propria. Alii ita id ipsum
+          <lb ed="#G" n="9"/>proponunt: in sancta Trinitate omnia sunt singulis
+          <lb ed="#G" n="10"/>subsistentiis seu Personis communia, exceptis solis
+          <lb ed="#G" n="11"/>subsistendi modis. Hoc Primo ostendimus ratione
+          <lb ed="#G" n="12"/>Theologica in sacris litteris fundata: nam in
+          san<lb ed="#G" n="13" break="no"/>cta Trinitate quidquid est, aut substantia est, aut
+          <lb ed="#G" n="14"/>subsistentia; medium non datur, quia nihil tale
+          do<lb ed="#G" n="15" break="no"/>cemur ex scriptura. Necesse ergo est, ut
+          quae<lb ed="#G" n="16" break="no"/>cunque de Deo dicuntur, vel dicantur ratione
+          sub<lb ed="#G" n="17" break="no"/>stantiae, &amp; hoc erit omnibus Personis commune,
+          <lb ed="#G" n="18"/>vel ratione subsistentiae, &amp; hoc erit uni tantum
+          pro<lb ed="#G" n="19" break="no"/>prium Personae: quod enim non est proprium
+          <lb ed="#G" n="20"/>Personae uni, id ratione Personae non potest dici;
+          <lb ed="#G" n="21"/>cum id solum ratione subsistentiae seu Personae
+          <lb ed="#G" n="22"/>dicitur, quod illam ipsam notat, &amp; ab alia
+          distin<lb ed="#G" n="23" break="no"/>guit: dicimus autem hic de positivis, iisque
+          rea<lb ed="#G" n="24" break="no"/>libus, non generalibus, non abstractis, seu, ut ajunt,
+          <lb ed="#G" n="25"/>secundo intentionalibus praedicatis. Nam
+          negati<lb ed="#G" n="26" break="no"/>va praedicata possunt de duabus tantum
+          praedica<lb ed="#G" n="27" break="no"/>ri Personis, ut, non esse genitum, de Patre &amp; Spiritu
+          <lb ed="#G" n="28"/>sancto: possunt item generalia, ut esse cauffatum,
+          <lb ed="#G" n="29"/>de Filio &amp; spiritu sancto. Sed utraque haec
+          prae<lb ed="#G" n="30" break="no"/>dicata realibus diversis praedicatis insistunt, &amp; per
+          <pb ed="#G" n="154"/><lb ed="#G" n="1"/>illa dividuntur. Nam esse caussatum in Filio habet
+          <lb ed="#G" n="2"/>rationem, quod sit genitus, in Spiritu saucto, quod
+          <lb ed="#G" n="3"/>procedat: Item non esse genitum in Patre habet sui
+          <lb ed="#G" n="4"/>rationem, quia generat: &amp; procedit in Spiritu
+          san<lb ed="#G" n="5" break="no"/>cto, quia diverso a generatione modo oritur.
+          Se<lb ed="#G" n="6" break="no"/>cundo, id ipsum axioma probatur ex consensu
+          or<lb ed="#G" n="7" break="no"/>thodoxae antiquitatis. IVSTINVS Martyr
+          quae<lb ed="#G" n="8" break="no"/>stione 139. ad orthodoxos, ita docet: Quaecunquc
+          <lb ed="#G" n="9"/>de divinis tribus subsistentiis eodem immutabili
+          mo<lb ed="#G" n="10" break="no"/>do dicuntur, in iis unitatem essentiae intellige, quae
+          <lb ed="#G" n="11"/>vero non eodem modo, ex iis intellige modum
+          exi<lb ed="#G" n="12" break="no"/>stintiae Personarum. Diserte ait illa, quae non
+          <lb ed="#G" n="13"/>aequaliter de omnibus dicuntur personis, personas
+          <lb ed="#G" n="14"/>notare, adeoque personis esse propria. Ita &amp; alii
+          <lb ed="#G" n="15"/>Patres, BASILIVS Magnus Epistola XLIII. ad
+          fra<lb ed="#G" n="16" break="no"/>trem. GREGORIVSNVSSENVS, Basilii frater
+          <lb ed="#G" n="17"/>de fide ad Simplicium prope finem. CAESARIVS,
+          <lb ed="#G" n="18"/>Nazianzeni frater in dialogo tomo I. Bibliothecae
+          <lb ed="#G" n="19"/>Patrum parisiis editae, anno 1624.)
+          EPIPHA<lb ed="#G" n="20" break="no"/>NIVS de numerorum mysteriis num. 11.
+          CHRVSO<lb ed="#G" n="21" break="no"/>STOMVS homil. de Fide. THEODORETVS
+          <lb ed="#G" n="22"/>Dialogo 1. qui dicitur incommutabilis. Auctor
+          li<lb ed="#G" n="23" break="no"/>brorum de unitate Deitatis in Trinitate, qui sub
+          <pb ed="#G" n="155"/><lb ed="#G" n="1"/>nomine Athanasii, inter Athanasii opera
+          imprimun<lb ed="#G" n="2" break="no"/>tur, tomo II. operum Athanosu lib. 2.
+          DAMASCE<lb ed="#G" n="3" break="no"/>NVS libro 1. de fide cap. 10. 11. &amp; libro contra
+          <lb ed="#G" n="4"/>Nestorium; libro III. de fide capite 5. LEONTIVS
+          <lb ed="#G" n="5"/>advocatus Bysantinus, ex ore Theodori Abbatis,
+          do<lb ed="#G" n="6" break="no"/>ctissimi philosophi, ut inscribitur, libro de sectis
+          <lb ed="#G" n="7"/>action. 1. Denique clarissime HIERONYMVS in
+          <lb ed="#G" n="8"/>explicatione symboli ad Damasum disserit ita: nec
+          <lb ed="#G" n="9"/>est prorsus aliquis in Trinitate gradus, nihil, quod
+          <lb ed="#G" n="10"/>inferius superiusve dici possit, sed tota Deitas sui
+          <lb ed="#G" n="11"/>perfectione aequalis est: ut, exceptis vocabulis, quae
+          <lb ed="#G" n="12"/>proprietatem Personarum indicant, quidquid de una
+          <lb ed="#G" n="13"/>persona dicitur, de tribus dignissime possit intelligi.
+          <lb ed="#G" n="14"/>Hoc ita constituto axiomate, facile evertitur
+          Lati<lb ed="#G" n="15" break="no"/>norum dogma. Nam ita argumentamur:
+          produ<lb ed="#G" n="16" break="no"/>cere Spiritum sanctum, de Patre dicitur vel
+          ratio<lb ed="#G" n="17" break="no"/>ne substantiae, vel ratione subsistentiae? Si primum;
+          <lb ed="#G" n="18"/>ergo erit hoc omnibus commune, atque adeo
+          Spiri<lb ed="#G" n="19" break="no"/>tus Sanctus etiam se ipsum producet: quod est
+          ab<lb ed="#G" n="20" break="no"/>surdum. Si secundum: ergo hoc soli Patri est
+          pro<lb ed="#G" n="21" break="no"/>prium. Vel ita: quidquid non dicitur de omnibus
+          <lb ed="#G" n="22"/>tribus Personis, non potest dici nisi de una: Sed
+          <lb ed="#G" n="23"/>producere Spiritum Sanctum, non dicitur de omnibus;
+          <lb ed="#G" n="24"/>ergo dici non potest, nisi de una. Aliis item atque
+          <lb ed="#G" n="25"/>aliis modis idem argumentum formare poteris, &amp;
+          <lb ed="#G" n="26"/>semper videbis dogma Latinorum cum
+          propo<lb ed="#G" n="27" break="no"/>sito axiomate vehementer pugnare.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e369">
+          <lb ed="#G" n="28"/>§. 118.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e374">
+          <lb ed="#G" n="29"/>II. Opera Dei ad intra sunt personalia, non
+          sub<lb ed="#G" n="30" break="no"/>stantialia. Nam amor Dei, quo se ipsum amat
+          <pb ed="#G" n="156"/><lb ed="#G" n="1"/>Deus, &amp; alii actus, ipse idem Dcus est. Sed hic
+          <lb ed="#G" n="2"/>agimus de operationibus a substantia divina
+          distin<lb ed="#G" n="3" break="no"/>ctis; patet autem axiomatis veritas ex superiore
+          <lb ed="#G" n="4"/>axiomate: quia cum nulla operatio ad intra sit
+          <lb ed="#G" n="5"/>communis omnibus tribus Personis, ut patet
+          in<lb ed="#G" n="6" break="no"/>ductione; non potest igitur ulla esse, nisi
+          persona<lb ed="#G" n="7" break="no"/>lis, hoc est, uni Personae propria. Fiat jam
+          as<lb ed="#G" n="8" break="no"/>sumptio: at producere Spiritum sanctum est actio
+          <lb ed="#G" n="9"/>seu operatio ad intra: ergo uni Personae
+          pro<lb ed="#G" n="10" break="no"/>pria est.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e404">
+          <lb ed="#G" n="11"/>§. 119.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e410">
+          <lb ed="#G" n="12"/>III. Operationes Personales non distinguuntur
+          <lb ed="#G" n="13"/>a Personis. Nam nihil in Deo distinctum est,
+          <lb ed="#G" n="14"/>praeter ipsas Personas. Neque dixeris:
+          Generan<lb ed="#G" n="15" break="no"/>di &amp; producendi, seu, ut vulgo loquuntur,
+          spiran<lb ed="#G" n="16" break="no"/>di actio distincta est in Patre, ergo &amp; a Patre
+          di<lb ed="#G" n="17" break="no"/>stincta: nam illarum operationum diversitas, non
+          <lb ed="#G" n="18"/>in Patre, sed in iis, quae ab illo producuntur, in
+          <lb ed="#G" n="19"/>Filio, inquam, &amp; Spiritu sancto spectatur. Ex hoc
+          <lb ed="#G" n="20"/>autem axiomate sequitur, productionem Spiritus
+          <lb ed="#G" n="21"/>sancti activam esse ipsissimam personam Patris,
+          er<lb ed="#G" n="22" break="no"/>go non convenire personae Filii: alioqui enim
+          <lb ed="#G" n="23"/>eadem operatio esset etiam ipsissima persona Filii,
+          <lb ed="#G" n="24"/>atque adeo Filius a Patre non distingueretur: qui
+          <lb ed="#G" n="25"/>est sabellianismus.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e443">
+          <lb ed="#G" n="26"/>§. 120.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e448">
+          <lb ed="#G" n="27"/>IV. Antiquissimum &amp; ab omnibus receptum
+          <lb ed="#G" n="28"/>axioma est, unum in Sancta Trinitate esse
+          princi<lb ed="#G" n="29" break="no"/>pium: Nec Latini ipsi hoc negant, sollicite tantum
+          <pb ed="#G" n="157"/><lb ed="#G" n="1"/>cogitant, quomodo suum dogma cum hoc
+          axio<lb ed="#G" n="2" break="no"/>mate conciliare possint, de quo mox dicemus.
+          <lb ed="#G" n="3"/>Quo pacto autem axioma hoc probetur, paucis
+          in<lb ed="#G" n="4" break="no"/>quirendum est. Patres antiqui unitatem Dei ex
+          <lb ed="#G" n="5"/>hoc demonstrant, quod licet tres sint Personae,
+          ta<lb ed="#G" n="6" break="no"/>men ideo unus Deus, quia unum principium seu
+          <lb ed="#G" n="7"/>caussa inter illas, illa scilicet persona, quae aliis dat
+          <lb ed="#G" n="8"/>esse. Vide testimonia Patrum cap. 111. class. 2.
+          <lb ed="#G" n="9"/>nempe Gregorii Thaumaturgi §. 47. Athanasii §.
+          <lb ed="#G" n="10"/>48. Nazianzeni §. 50. Epiphanii §. 51. Nysseni §. 52.
+          <lb ed="#G" n="11"/>&amp; cap. IV. Damasi §. 89. Non probant autem
+          Pa<lb ed="#G" n="12" break="no"/>tres hoc modo, quod Deus unus sit, quia hoc
+          ali<lb ed="#G" n="13" break="no"/>unde probatur, sed potius, quod Trinitas unitati
+          <lb ed="#G" n="14"/>non repugnet, si unum in illa principium
+          ostenda<lb ed="#G" n="15" break="no"/>tur. Quomodo autem ista cohaerent: Unum est
+          <lb ed="#G" n="16"/>principium; ergo Trinitas bene stat cum unitate,
+          <lb ed="#G" n="17"/>vel, ergo Trinitas unitatem non tollit. Patres
+          <lb ed="#G" n="18"/>quidem rationem istius nexus non explicant, sed
+          <lb ed="#G" n="19"/>tantum simpliciter proponunt; &amp; quidem non aliud
+          <lb ed="#G" n="20"/>videntur cogitasse, nisi, quia videbant ex
+          admis<lb ed="#G" n="21" break="no"/>sa principiorum pluralitate, sequi multiplicationem
+          <lb ed="#G" n="22"/>rerum, ut inter res creatas fit; ex assertione
+          au<lb ed="#G" n="23" break="no"/>tem unius Principii bene sequi substantiae in tribus
+          <lb ed="#G" n="24"/>personis unitatem, adeoque unitati Trinitatem non
+          <lb ed="#G" n="25"/>repugnare. Quae quidem argumentatio regulis
+          <lb ed="#G" n="26"/>dialecticis non videtur congruere: nam ex
+          nega<lb ed="#G" n="27" break="no"/>tione antecedentis non bene sequitur negatio
+          con<lb ed="#G" n="28" break="no"/>lequentis, sed e contra: ex negatione
+          consequen<lb ed="#G" n="29" break="no"/>tis, bene sequitur negatio antecedentis. Hic
+          ve<lb ed="#G" n="30" break="no"/>to, plura principia, est antecedens, plures res,
+          con<lb ed="#G" n="31" break="no"/>lequens est: ex negatione ergo plurium
+          principio<pb ed="#G" n="158"/><lb ed="#G" n="1" break="no"/>rum, &amp; assertione unius non sequitur negatio
+          plu<lb ed="#G" n="2" break="no"/>rium rerum, licet e contra bene sequeretur.
+          Ut<lb ed="#G" n="3" break="no"/>cunque res se habuit: certum tamen est, Patres
+          <lb ed="#G" n="4"/>unum, in Trinitate principium credidisse, &amp; cum
+          <lb ed="#G" n="5"/>non dicant, unde edocti sint de unitate principii,
+          <lb ed="#G" n="6"/>ostendunt se non ex alio id collegisse, nisi ex eo,
+          <lb ed="#G" n="7"/>quod in scriptura solus Pater tam Filii quam
+          Spiri<lb ed="#G" n="8" break="no"/>tus sancti productor esse legatur. Aut ostendant
+          <lb ed="#G" n="9"/>nobis ipsi Latini, unde sciant unum esse in
+          Trini<lb ed="#G" n="10" break="no"/>tate principium? nobis interim sufficit, quod &amp;
+          <lb ed="#G" n="11"/>ipsi hoc admittant. At huic axiomati repugnat
+          do<lb ed="#G" n="12" break="no"/>ctrina Latinorum. Quaero enim: Pater &amp; Filius
+          <lb ed="#G" n="13"/>vel ratione, qua unus Deus sunt, vel ratione, qua
+          <lb ed="#G" n="14"/>duae sunt Personae, vel (quod idem est) ratione
+          <lb ed="#G" n="15"/>substantiae, vel ratione subsistentiae producunt
+          Spi<lb ed="#G" n="16" break="no"/>ritum sanctum? Si primum; ergo id ipsum
+          com<lb ed="#G" n="17" break="no"/>petit etiam Spiritui sancto, quod est absurdum. Si
+          <lb ed="#G" n="18"/>secundum; ergo duo principia sunt. Si enim
+          se<lb ed="#G" n="19" break="no"/>cundum eam rationem principia sunt, secundum
+          <lb ed="#G" n="20"/>quam distinguuntur inter se, etiam principia
+          di<lb ed="#G" n="21" break="no"/>stincta erunt.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e572">
+          <lb ed="#G" n="22"/>§. 121. Dicunt igitur Latini Patrem &amp; Filium
+          <lb ed="#G" n="23"/>unica indivisibili actione producere Spiritum
+          san<lb ed="#G" n="24" break="no"/>ctum: atque per hoc non duo, sed unum
+          princi<lb ed="#G" n="25" break="no"/>pium esse, licet sint duae personae, &amp; instantiam
+          <lb ed="#G" n="26"/>dant, quod licet sint tres Personae divinae, tamen
+          <lb ed="#G" n="27"/>unus Creator rerum est, atque adeo unum rerum
+          <lb ed="#G" n="28"/>principium, non ob aliam certe rationem, nisi
+          <lb ed="#G" n="29"/>quod una simplicissima &amp; indivisibili actione omnes
+          <lb ed="#G" n="30"/>tres creent. Nos vero fictionem unius
+          indivisibi<lb ed="#G" n="31" break="no"/>lis actionis ad intra &amp; supra refutavimus, ubi
+          osten<pb ed="#G" n="159"/><lb ed="#G" n="1" break="no"/>dimus, actiones ad intra in Deo non distingui a
+          <lb ed="#G" n="2"/>Personis, quarum actiones sunt: &amp; refutabimus
+          in<lb ed="#G" n="3" break="no"/>fra sequenti axiomate. Nunc interim
+          conniven<lb ed="#G" n="4" break="no"/>do ad unam illam actionem ista urgemus. D Cum
+          <lb ed="#G" n="5"/>unum principium statuebant patres, cur istius
+          uni<lb ed="#G" n="6" break="no"/>us actionis non meminerint? benene illa se
+          habe<lb ed="#G" n="7" break="no"/>at, vel non, adhuc non dico; quaero tantum, cur
+          <lb ed="#G" n="8"/>fuerit illa antiquis ignota? 2) Si quis dixisset
+          Fi<lb ed="#G" n="9" break="no"/>lium a Patre &amp; Spiritu generari, nonne hoc ipso
+          <lb ed="#G" n="10"/>asseruisset duos esse Filii Patres, atque adeo duo
+          <lb ed="#G" n="11"/>principia? 3) Si duae personae ab una, etiam una
+          <lb ed="#G" n="12"/>actione productae essent, non ne tamen
+          diceren<lb ed="#G" n="13" break="no"/>tur duo producta? Cur ergo duo productores non
+          <lb ed="#G" n="14"/>dicentur, licet una eademque actione producant?
+          <lb ed="#G" n="15"/>A Quantum attinet ad datam instantiam, nihil illa
+          <lb ed="#G" n="16"/>huc facit; nam Tres Personae creant secundum
+          <lb ed="#G" n="17"/>eam rationem, secundum quam unum sunt, hoc
+          <lb ed="#G" n="18"/>est, ratione substantiae, at hic alia ratio est: non
+          <lb ed="#G" n="19"/>enim ratione substantiae, sed ratione hypostaseos
+          <lb ed="#G" n="20"/>producit Pater Spiritum sanctum.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e641">
+          <lb ed="#G" n="21"/>§. 122.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e646">
+          <lb ed="#G" n="22"/>V. Tanta est unitas Spiritus sancti cum Patre,
+          <lb ed="#G" n="23"/>quanta &amp; Filii cum Patre: at hoc cum dogmate
+          <lb ed="#G" n="24"/>Latinorum cohaerere non potest. Nam Pater cum
+          <lb ed="#G" n="25"/>Filio majorem, cum Spiritu sancto minorem
+          ha<lb ed="#G" n="26" break="no"/>beret unitatem. Cum Filio enim praeter
+          unita<lb ed="#G" n="27" break="no"/>tem substantiae, quam &amp; cum Spiritu sancto
+          ha<lb ed="#G" n="28" break="no"/>bet, haberet etiam aliud quid commune, vim
+          sci<lb ed="#G" n="29" break="no"/>licet produccndi Spiritus sancti, seu unam illam
+          <pb ed="#G" n="160"/><lb ed="#G" n="1"/>indivisibilem spirandi actionem, quam ipse non
+          ha<lb ed="#G" n="2" break="no"/>bet cum Spiritu sancto.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e672">
+          <lb ed="#G" n="3"/>§. 123.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e677">
+          <lb ed="#G" n="4"/>VI. Catholica est sanctissimae Trinitatis
+          ex<lb ed="#G" n="5" break="no"/>plicatio haec: Trinitas est in substantia individua,
+          <lb ed="#G" n="6"/>in personis inconfusa. At altera hujus axiomatis
+          <lb ed="#G" n="7"/>pars per Latinorum doctrinam labefactatur. Nam
+          <lb ed="#G" n="8"/>Pater cum Filio in unum principium, in unum
+          pro<lb ed="#G" n="9" break="no"/>ductorem, in unam spirandi actionem confunditur.
+          <lb ed="#G" n="10"/>DICES, habere Patrem quid aliud, per quod
+          distin<lb ed="#G" n="11" break="no"/>quatur a Filio: sed hoc difficultatem non solvit.
+          <lb ed="#G" n="12"/>Quanquam enim habeant personae, per quid
+          distin<lb ed="#G" n="13" break="no"/>guantur, si tamen habent etiam, per quid coeant
+          <lb ed="#G" n="14"/>in unitatem aliam, ab unitate substantiae diversam,
+          <lb ed="#G" n="15"/>confunduntur.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e706">
+          <lb ed="#G" n="16"/>§. 124.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e711">
+          <lb ed="#G" n="17"/>VII. In Divinitate nihil est distinctum praeter
+          <lb ed="#G" n="18"/>Personas. Quaero igitur: actio productiva
+          Spi<lb ed="#G" n="19" break="no"/>ritus sancti vel est idem cum Patre &amp; Filio, vel
+          di<lb ed="#G" n="20" break="no"/>stincta ab alterutro, vel distincta ab utroque?
+          prae<lb ed="#G" n="21" break="no"/>ter haec tria nihil reliquum cogitari potest. Si
+          <lb ed="#G" n="22"/>ergo dabis primum, nempe quod sit idem cum
+          Pa<lb ed="#G" n="23" break="no"/>tre &amp; Filio actio productiva Spiritus sancti; Pater
+          <lb ed="#G" n="24"/>&amp; Filius idem secum erunt juxta illud: quae sunt
+          <lb ed="#G" n="25"/>eadem cum tertio, sunt eadem inter se: si distincta
+          <lb ed="#G" n="26"/>ab alterutro actio illa; illa ergo persona, a qua
+          <lb ed="#G" n="27"/>actio distincta est, non erit producens, vel certe
+          <lb ed="#G" n="28"/>minus producens erit, adeoque &amp; duo principia,
+          <lb ed="#G" n="29"/>quia inaequalia. Si tandem actio illa distincta ab
+          <pb ed="#G" n="161"/><lb ed="#G" n="1"/>utroque dicatur: ergo &amp; neutra persona aget,
+          <lb ed="#G" n="2"/>quia Deus non agit per distinctas a se motiones;
+          <lb ed="#G" n="3"/>&amp; habebimus in Divinitate praeter tres personas,
+          <lb ed="#G" n="4"/>quartum aliquid reale &amp; distinctum. Vides, ut
+          sta<lb ed="#G" n="5" break="no"/>re nequeat una illa actio Latinorum. Neque hic
+          <lb ed="#G" n="6"/>mihi regesseris, etiam Sociniana similia nuper
+          fuis<lb ed="#G" n="7" break="no"/>se argumenta, &amp; tamen doctrinae nostrae non
+          no<lb ed="#G" n="8" break="no"/>cuisse: nam primo concedimus Sociniana
+          argumen<lb ed="#G" n="9" break="no"/>ta habitura fuisse vim maximam, nisi nos de
+          Tri<lb ed="#G" n="10" break="no"/>nitatis mysterio plurimis, iisque clarissimis locis
+          <lb ed="#G" n="11"/>docuisset scriptura, quod de Latinorum dogmate
+          <lb ed="#G" n="12"/>non videmus. Deinde argumenta Sociniana
+          me<lb ed="#G" n="13" break="no"/>rae sunt humanae rationes, nihil divini pro
+          funda<lb ed="#G" n="14" break="no"/>mento sibi substernunt. At in nostro hoc
+          syllogis<lb ed="#G" n="15" break="no"/>mo fundamentum est laxioma theologicum ex
+          <lb ed="#G" n="16"/>Scriptura sacra, ex divino oraculo saltem negative
+          <lb ed="#G" n="17"/>deductum; nihil scilicet in Deo praeter Personas
+          <lb ed="#G" n="18"/>esse distinctum. Denique Latini mysterium
+          Tri<lb ed="#G" n="19" break="no"/>nitatis sanctissimae difficilius, quam socinianis
+          vi<lb ed="#G" n="20" break="no"/>detur, reddiderunt: cum in eo etiam, in quo
+          di<lb ed="#G" n="21" break="no"/>stinctio divinitatis sita est, hoc est, in ipsis
+          hyposta<lb ed="#G" n="22" break="no"/>sibus ponant quandam individuam unitatem.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e791">
+          <lb ed="#G" n="23"/>§. 125.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e796">
+          <lb ed="#G" n="24"/>VIII. Praeter Trinitatis mysterium nullum aliud,
+          <lb ed="#G" n="25"/>quantum ad distinctionis numerum attinet, fando
+          <lb ed="#G" n="26"/>unquam audivit ecclesia: non quadruplicitatem,
+          <lb ed="#G" n="27"/>non dualitatem, non aliud. At Latini nobis
+          dua<lb ed="#G" n="28" break="no"/>litatem etiam, eamque magis mirabilem, quam sit
+          <lb ed="#G" n="29"/>Trinitas, exhibent. Nam Patrem &amp; Filium duas
+          <pb ed="#G" n="162"/><lb ed="#G" n="1"/>personas ajunt esse, unicum tamen productorem,
+          <lb ed="#G" n="2"/>&amp; unicum ita, sicuti Deus unicus dicitur, hoc est,
+          <lb ed="#G" n="3"/>non generica, sed individuali unitate. Dualitas
+          <lb ed="#G" n="4"/>ergo est, magis tamen mirabilis, quam Trinitas;
+          <lb ed="#G" n="5"/>quia in illo ipso (ut dixi) in quo sita est
+          distin<lb ed="#G" n="6" break="no"/>ctio, hoc est, in hypostasibus ponunt unitatem.
+          <lb ed="#G" n="7"/>Tam vero haec, quam alia supra §. 122. deducta
+          <lb ed="#G" n="8"/>absurditas, magis adhuc absurda apparebit, dum
+          in<lb ed="#G" n="9" break="no"/>fra ostendemus cap. VIII. omnia, quae habet
+          pa<lb ed="#G" n="10" break="no"/>ter, non modo Filium, sed &amp; Spiritum sanctum
+          <lb ed="#G" n="11"/>habere.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e838">
+          <lb ed="#G" n="12"/>§. 126.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e843">
+          <lb ed="#G" n="13"/>IX. Certum denique est id, quod ad modum
+          <lb ed="#G" n="14"/>subsistendi pertinet, nequaquam tribui posse etiam
+          <lb ed="#G" n="15"/>alteri personae. Modus enim seu ratio
+          subsisten<lb ed="#G" n="16" break="no"/>di ipsam personam seu hypostasim constituit. At
+          <lb ed="#G" n="17"/>producerc Spiritum sanctum est ratio subsistendi:
+          <lb ed="#G" n="18"/>igitur non nisi uni personac inessc &amp; tribui potest.
+          <lb ed="#G" n="19"/>Minorem propositionem istis rationibus ostendo:
+          <lb ed="#G" n="20"/>Primo, quidquid in Deo est, vel est ratio
+          sub<lb ed="#G" n="21" break="no"/>stantiae, vel subsistentiae, nihil medium: sed
+          pro<lb ed="#G" n="22" break="no"/>ducere Spiritum sanctum non est ratio substantiae:
+          <lb ed="#G" n="23"/>ergo subsistentiac. Secundo, in Trinitate modi
+          sub<lb ed="#G" n="24" break="no"/>sistendi non nisi in caussa &amp; causato fundantur
+          (quan<lb ed="#G" n="25" break="no"/>tum quidem revelatum habemus, nam cetera
+          igno<lb ed="#G" n="26" break="no"/>ramus) sed producere Spiritum sanctum est esse
+          <lb ed="#G" n="27"/>caussam. Tertio, cum Pater habeat relationem
+          <lb ed="#G" n="28"/>productoris tam ad Filium, quam ad Spiritum
+          san<lb ed="#G" n="29" break="no"/>ctum, utique duplex illa producendi vis (duplex,
+          <lb ed="#G" n="30"/>inquam, modo nostro concipiendi) constituit
+          pri<pb ed="#G" n="163"/><lb ed="#G" n="1" break="no"/>mam hypostasim, quae Pater est: ergo &amp; duplex
+          <lb ed="#G" n="2"/>est istius hypostaseos ratio constitutiva; adeoque
+          <lb ed="#G" n="3"/>&amp; non potest illa alteri hypostasi tribui.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e892">
+          <lb ed="#G" n="4"/>DICES: Pater, sola intellecta generandi
+          actio<lb ed="#G" n="5" break="no"/>ne, perfecte intelligitur esse Pater, ergo ad
+          con<lb ed="#G" n="6" break="no"/>stitutionem primae Hypostaseos alia ratio
+          consti<lb ed="#G" n="7" break="no"/>tutiva non requiritur. RESPONDEO, negando
+          con<lb ed="#G" n="8" break="no"/>sequentiam: certum enim est primam Hypostasim
+          <lb ed="#G" n="9"/>duo ista continere: generare Filium, &amp; spirare
+          <lb ed="#G" n="10"/>Spiritum. Per generandi ergo actionem perfecte
+          <lb ed="#G" n="11"/>quidem intelligitur Pater, sed qua Pater tantum,
+          <lb ed="#G" n="12"/>non etiam qua spirator: sicuti per actionem
+          spi<lb ed="#G" n="13" break="no"/>randi perfecte intelligitur qua spirator; sed non
+          <lb ed="#G" n="14"/>item qua Pater. Manet igitur, utramque
+          productio<lb ed="#G" n="15" break="no"/>nis actionem esse constitutivam primae
+          Hyposta<lb ed="#G" n="16" break="no"/>seos.
+        </p>
+        <p xml:id="cax7ya-d1e155-d1e923">
+          <lb ed="#G" n="17"/>Hae vero omnes difficultates si solvi non
+          pos<lb ed="#G" n="18" break="no"/>sent, at possent contemni, ubi contrarium
+          scriptu<lb ed="#G" n="19" break="no"/>ra revelaret: at in dogmate, scripturae testimoniis
+          <lb ed="#G" n="20"/>destituto, non possunt non molestae esse. Quare
+          <lb ed="#G" n="21"/>videamus, ecquid ex scriptura Latini pro se
+          af<lb ed="#G" n="22" break="no"/>ferant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
